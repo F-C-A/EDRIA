@@ -1,0 +1,46 @@
+body{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+header {
+    padding: 20px 20px;
+}
+section, footer {
+    padding: 10px 40px 20px 40px;
+}
+
+/* PRÉSENTATION DU PROJET */
+.presentation_projet {
+    background-color:lightgreen;
+}
+.galerie_projet ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.galerie_projet li {
+    display: inline-block;
+    margin: 1px 2px;
+    position: relative;
+}
+.galerie_projet img {
+    width: 200px;
+}
+
+/* JOURNAL DE CRÉATION */
+.journal_creation {
+    background-color: lightsalmon;
+    margin: 2px 0;
+}
+.journal_creation h2 {
+    text-align: center;
+}
+.semaine_x {
+    text-align: left;
+}
+
+/* PIED DE PAGE */
+footer {
+    background-color: gray;
+    text-align: right;
+}
