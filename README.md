@@ -1,2 +1,3 @@
 # 66B-modele_de_projet
-coquille de projet en lien avec les projets du cours experience interactive  
+Mettre ici l'explication de chacun des dossiers
+
