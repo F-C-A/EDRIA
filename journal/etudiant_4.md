@@ -1,4 +1,4 @@
-# Journal de "Étudiant 1"
+# Journal de "Étudiant 4"
 
 ## Semaine 1 (25 au 29 janvier)
 
