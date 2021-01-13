@@ -1,7 +1,7 @@
 # Préproduction
 > C'est ici qu'on dépose les éléments de la préproduction.
 
-> Au besoin, se référer à l'[Appel de projet](https://cmontmorency365.sharepoint.com/:w:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/EQ3PqvTQPzFDnpeccqWYOAgBZowMn5-3gtl0I_OxsEGC-Q?e=DuUbuG), au [Plan de cours](https://cmontmorency365.sharepoint.com/:w:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/EWLLhctc9WZJiDCSjlMXcFoBA9fMhQRS4PHbGXHCH2Irxw?e=qGOnLf) et à la [Grille d'évaluation de la préprodution](https://cmontmorency365.sharepoint.com/:w:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ETcbkxD6vp1EmhhiZ3Di5_sBZwSyqisa7s3543kMy28dSg?e=gnu6Bt).
+> Au besoin, se référer à l'[Appel de projet](https://cmontmorency365.sharepoint.com/:w:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/EQ3PqvTQPzFDnpeccqWYOAgBZowMn5-3gtl0I_OxsEGC-Q?e=DuUbuG), au [Plan de cours](https://cmontmorency365.sharepoint.com/:w:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/EWLLhctc9WZJiDCSjlMXcFoBA9fMhQRS4PHbGXHCH2Irxw?e=qGOnLf) et à la [Grille d'évaluation de la préproduction](https://cmontmorency365.sharepoint.com/:w:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ETcbkxD6vp1EmhhiZ3Di5_sBZwSyqisa7s3543kMy28dSg?e=gnu6Bt).
 
 # Table des matières
 1. [Intention ou concept](#Intention-ou-concept)
@@ -36,9 +36,9 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
 
 ## Tableau d'ambiance (*moodboard*)
-> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devrait également s'y trouver selon la nature du projet.
+> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
 
-> Insérez directement des captures d'écran et liens vers des médias ici.`*
+> Insérez directement des captures d'écran et liens vers des médias ici.
 
 [Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
@@ -51,15 +51,15 @@ Par ce projet, nous souhaitons exposer la grande fragilité des relations social
 - 15 icônes de navigation (pour les utilisateur-trices)
 - 8 montages d'image
 - 3 paysages sonores
-- 5 vidéos d'animation 2d
+- 5 vidéos d'animation 2D
 - 3 textes poétiques
-- 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des diifférents sous-modules, diffusion et interaction en ligne...).
+- 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
 - ...
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
 ## Univers artistique des éléments
-Voir colonne *Exemples de réalisaton* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
+Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
@@ -121,7 +121,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMom
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?
 
 **Étudiant C**
-- Comité Diffusion et coordination de la diffusion (mise en ligne du Site web, organisation de la plateforme et de l'événement de diffusion);
+- Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion);
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
 - Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
@@ -142,9 +142,9 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?
 
 **Étudiant A**
 - Création des images;
-- Création des icones de navigation;
+- Création des icônes de navigation;
 - Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des diifférents sous-modules.
+- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
@@ -158,9 +158,9 @@ Quotidien
 - **Chaque jour 16h30 (*srum* de 30min max)**: Rencontre d'équipe pour régler les urgences
 
 Hebdomadaire
-- **Mardis 10h (environ 1h)** : Rencontre d'équipe avec professeur
-- **Vendredis 9h50 (environ 2h)** : Rencontre générale de classe
-- **Vendredis 13h (environ 2h)** : Rencontre de mise à jour d'équipe 
+- **Mardi 10h (environ 1h)** : Rencontre d'équipe avec professeur
+- **Vendredi 9h50 (environ 2h)** : Rencontre générale de classe
+- **Vendredi 13h (environ 2h)** : Rencontre de mise à jour d'équipe 
 
 Autre: 
 - **Jeudi 10h (environ 1h30)** : Comité Diffusion
