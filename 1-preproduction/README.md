@@ -67,6 +67,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ![exemple de schema](medias/livestream_branchements.png)
 
+![exemple de plantation](medias/o3_plantation.svg)
+
 ## Matériaux requis
 (GUILAUME- Qu'est-ce qu'un matériel)
 
