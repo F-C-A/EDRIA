@@ -148,6 +148,11 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
 https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
+*Dates importantes de diffusion :*
+- Pratique générale : 19 mars (toute la journée)
+- Début de la diffusion : lundi 22 mars
+- Présentation des projets devant public : jeudi 25 mars (soir)
+
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
@@ -212,13 +217,13 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3A
 
 ## Moments des rencontres d'équipe
 Quotidien
-- **Chaque jour 16h30 (*srum* de 30min max)**: Rencontre d'équipe pour régler les urgences
+- **Chaque jour 9h00 (30min max)**: Rencontre statutaire d'équipe pour régler les urgences
 
 Hebdomadaire
 - **Mardi 10h (environ 1h)** : Rencontre d'équipe avec professeur
 - **Vendredi 9h50 (environ 2h)** : Rencontre générale de classe
-- **Vendredi 13h (environ 2h)** : Rencontre de mise à jour d'équipe 
+- **Vendredi 13h (environ 2h)** : Rencontre de mise à jour d'équipe (Journal Web, suivis, mise à jour de l'échéancier, partage des tâches et autres)
 
 Autre: 
 - **Jeudi 10h (environ 1h30)** : Comité Diffusion
-- **Jeudi 13h (environ 1h30)** : Comité Technique
+- **Jeudi 14h (environ 1h30)** : Comité Technique
