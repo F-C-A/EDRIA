@@ -63,15 +63,17 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
-> Insérer plan, documents et schéma pertinant dans cette section ex:
-![exemple de schema](medias/livestream_branchements.png)
+> Insérer plan, documents et schéma pertinant dans cette section ex:  
 
+![exemple de schema](medias/livestream_branchements.png)
 
 ## Matériaux requis
 (GUILAUME- Qu'est-ce qu'un matériel)
 
 ## Équipements requis
->Liste des équipements requis par département où lien vers un tableur en ligne (Département, Qté, objet, spécification, commentaire, lien vers fiche technique si applicable)
+> Liste des équipements requis par département 
+où lien vers un tableur en ligne 
+Département, Qté, objet, spécification, commentaire, lien vers fiche technique si applicable)
 
 * Audio
     * 8 haut-parleurs actifs de 4"
