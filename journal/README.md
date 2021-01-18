@@ -1,10 +1,18 @@
 # Journal de "Étudiant X"
 
-## Semaine 1 (25 au 29 janvier)
+## Table des matières
+- [Semaine 0 (25 au 29 janvier)](#Semaine-0-(25-au-29-janvier))
+- [Semaine 1 (30 janvier au 5 février)](#Semaine-1-(30-janvier-au-5-février))
+- [Semaine 2 (6 au 12 février)](#Semaine-2-(6-au-12-février))
+- [Semaine 3 (13 au 19 février)](#Semaine-3-(13-au-19-février))
+- [Semaine 4 (20 au 26 février)](#Semaine-4-(20-au-26-février))
+- [Semaine 5 (6 au 12 mars)](#Semaine-5-(6-au-12-mars))
+- [Semaine 6 (13 au 19 mars)](#Semaine-6-(13-au-19-mars))
+
+---
+## Semaine 0 (25 au 29 janvier)
 
 ### Résumé des réalisations effectuées
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec aliquam odio. Sed vestibulum lectus mauris, ut auctor tellus commodo et. Nam sollicitudin, elit et vulputate mattis, eros nisi fringilla felis, in dictum justo purus mollis risus. Nunc pellentesque risus sem, vulputate tempus tellus tempor nec. Phasellus lobortis a urna id dapibus. Proin est tellus, tempor ac turpis at, feugiat ultrices mauris. Ut condimentum eleifend ligula, eget maximus turpis porta sed :
-
 - Vivamus lacinia tincidunt dui, non auctor justo. 
 - Fusce euismod ornare dolor. 
 - Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
@@ -13,14 +21,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec aliquam odio. Se
 - Phasellus blandit elit eu nibh blandit molestie. 
 - Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
 
-### Images de deux réalisations dont tu es la ou le plus fier
+### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/motionCapture.jpg)
+ou
 ![ici est une description de l'image](medias/console.jpg)
+ou
 ![ici est une description de l'image](medias/photoshop.jpg)
 
-
-### J'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine	
-
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
 - [ ] Assez
 - [x] Peu
@@ -32,7 +40,7 @@ Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula n
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
 
-### Mon projet se réalise selon l’échéancier prévu.
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [x] Assez
@@ -49,15 +57,15 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
 
 ---
-## Semaine 2 (30 janvier au 5 février)
+## Semaine 1 (30 janvier au 5 février)
 ### Résumé des réalisations effectuées
 
 
-### Images de deux réalisations dont tu es la ou le plus fier
+### Image d'une réalisation dont tu es la ou le plus fier
 
 
 
-### J'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine	
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
@@ -70,7 +78,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
-### Mon projet se réalise selon l’échéancier prévu.
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
@@ -87,15 +95,15 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 
 
 ---
-## Semaine 3 (6 au 12 février)
+## Semaine 2 (6 au 12 février)
 ### Résumé des réalisations effectuées
 
 
-### Images de deux réalisations dont tu es la ou le plus fier
+### Image d'une réalisation dont tu es la ou le plus fier
 
 
 
-### J'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine	
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
@@ -108,7 +116,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
-### Mon projet se réalise selon l’échéancier prévu.
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
@@ -124,15 +132,15 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 4 (13 au 19 février)
+## Semaine 3 (13 au 19 février)
 ### Résumé des réalisations effectuées
 
 
-### Images de deux réalisations dont tu es la ou le plus fier
+### Image d'une réalisation dont tu es la ou le plus fier
 
 
 
-### J'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine	
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
@@ -145,7 +153,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
-### Mon projet se réalise selon l’échéancier prévu.
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
@@ -161,15 +169,15 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 5 (20 au 26 février)
+## Semaine 4 (20 au 26 février)
 ### Résumé des réalisations effectuées
 
 
-### Images de deux réalisations dont tu es la ou le plus fier
+### Image d'une réalisation dont tu es la ou le plus fier
 
 
 
-### J'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine	
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
@@ -182,7 +190,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
-### Mon projet se réalise selon l’échéancier prévu.
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
@@ -202,11 +210,11 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 ### Résumé des réalisations effectuées
 
 
-### Images de deux réalisations dont tu es la ou le plus fier
+### Image d'une réalisation dont tu es la ou le plus fier
 
 
 
-### J'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine	
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
@@ -219,7 +227,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
-### Mon projet se réalise selon l’échéancier prévu.
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
@@ -235,15 +243,15 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 6 (6 au 12 mars)
+## Semaine 5 (6 au 12 mars)
 ### Résumé des réalisations effectuées
 
 
-### Images de deux réalisations dont tu es la ou le plus fier
+### Image d'une réalisation dont tu es la ou le plus fier
 
 
 
-### J'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine	
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
@@ -256,7 +264,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
-### Mon projet se réalise selon l’échéancier prévu.
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
@@ -272,15 +280,15 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 7 (13 au 19 mars)
+## Semaine 6 (13 au 19 mars)
 ### Résumé des réalisations effectuées
 
 
-### Images de deux réalisations dont tu es la ou le plus fier
+### Image d'une réalisation dont tu es la ou le plus fier
 
 
 
-### J'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine	
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
@@ -293,7 +301,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
-### Mon projet se réalise selon l’échéancier prévu.
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
