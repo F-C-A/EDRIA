@@ -63,22 +63,79 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
-(GUILAUME- Insérer directement des images ici + lien vers un document?)
+> Insérer plan, documents et schéma pertinant dans cette section ex:
+
+
 
 ## Matériaux requis
-(GUILAUME- lien vers un onglet d'un fichier excell global portant sur le matériel?)
+(GUILAUME- Qu'est-ce qu'un matériel)
 
 ## Équipements requis
-(GUILAUME- lien vers un onglet d'un fichier excell global portant sur le matériel?)
+>Liste des équipements requis par département où lien vers un tableur en ligne (Département, Qté, objet, spécification, commentaire, lien vers fiche technique si applicable)
+
+* Audio
+    * 8 haut-parleurs actifs de 4"
+    * 8 fils XLR 3 conducteurs de 15' (M->F)
+    * Interface audio USB disposant 8 sorties 
+
+* Vidéo
+    * 2 projecteurs vidéo lentille standard
+    * 2 système d'acrochage
+    * 3 webcam logitech c920
+
+* Lumière
+    * 4 lumière LED RGBAW DMX
+    * 4 fils XLR 3 conducteurs de 20'
+    * Console DMX
+    * Interface DMX USB
+
+* Électricité
+    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 2 extentions 3 fiches et 3 conducteurs 
+    * 2 multiprise
+
+* Réseau
+    * 4 fils cat6a de 15"
+    * Switch poe 5 ports
+
+* Ordinateur
+    * 1 ordinateur portable 
+
+* Scénographique
+    * élément de décors 
+    * Cyclorama
+    
+* Autre
+    * Tout autre élément pertinant
 
 ## Logiciels requis
-(GUILAUME- lien vers un onglet d'un fichier excell global portant sur le matériel?)
+>Liste des logiciels requis et version ainsi que leur dépendences
+
+* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
+    * [node-osc](https://github.com/MylesBorins/node-osc)
+* [Max 8](https://cycling74.com/products/max)   
+* [Unity 2020](https://unity.com/)
+* [Open stage control](https://openstagecontrol.ammd.net/)
 
 ## Ressources humaines requises
-(GUILAUME- lien vers un onglet d'un fichier excell global portant sur le matériel?)
+>Moments et fonction où une intervention humain externe à l'équipe est nécessaire et pourquoi (Lire TTP.)formaté en liste où lien vers un tableur en ligne
+
+* 32 janvier, TTP, location de matériel 
+* 35 janvier, TTP, retour du matériel
+
 
 ## Ressources spatiales requises (rangement et locaux)
-(GUILAUME- lien vers un onglet d'un fichier excell global portant sur le matériel?)
+>Moments et spécifications où les espaces seront utilisé (Lire utilisation du studio) formaté en liste où lien vers un tableur en ligne
+
+* du 32 janvier au 35 janvier
+    * Utilisation du grand studio
+    * projection vidéo dans le cyclo
+    * 6 heures
+* 37 janvier au 39 janvier 
+    * Utilisation du studio d'enregistrement 
+    * 4 heures
+    
+
 
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
