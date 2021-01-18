@@ -64,7 +64,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
 > Insérer plan, documents et schéma pertinant dans cette section ex:
-
+![exemple de schema](medias/livestream_branchements.png)
 
 
 ## Matériaux requis
