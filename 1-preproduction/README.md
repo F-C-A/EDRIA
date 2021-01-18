@@ -65,7 +65,11 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Schémas ou plans techniques
 > Insérer plan, documents et schéma pertinant dans cette section ex:  
 
+### Schéma de branchement 
+
 ![exemple de schema](medias/livestream_branchements.png)
+
+### Plantation 
 
 ![exemple de plantation](medias/o3_plantation.svg)
 
