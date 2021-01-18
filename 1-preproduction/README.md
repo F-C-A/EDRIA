@@ -14,7 +14,7 @@
     - [Univers artistique des éléments](#Univers-artistique-des-éléments-centraux)
 3. [Planification technique (devis technique)](#Planification-technique-(devis-technique))
     - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
-    - [Matériaux requis](#Matériaux-requis)
+    - [Matériaux requis](#Matériaux-de-scénographie-requis)
     - [Équipements requis](#Équipements-requis)
     - [Logiciels requis](#Logiciels-requis)
     - [Ressources humaines requises](#Ressources-humaines-requises)
@@ -63,7 +63,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification technique (devis technique)
 ## Schémas ou plans techniques
-> Insérer plan, documents et schéma pertinant dans cette section ex:  
+> Insérer plans, documents et schémas pertinents dans cette sectio.  
 
 ### Schéma de branchement 
 
@@ -73,13 +73,17 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ![exemple de plantation](medias/o3_plantation.svg)
 
-## Matériaux requis
-(GUILAUME- Qu'est-ce qu'un matériel)
+## Matériel de scénographie requis
+
+> Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
+
+* Divan Louis XIV
+    * Couleur rouge
+    * 12' x 4' x 3'
+* Cyclorama
 
 ## Équipements requis
-> Liste des équipements requis par département 
-où lien vers un tableur en ligne 
-Département, Qté, objet, spécification, commentaire, lien vers fiche technique si applicable)
+> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
     * 8 haut-parleurs actifs de 4"
@@ -108,43 +112,41 @@ Département, Qté, objet, spécification, commentaire, lien vers fiche techniqu
 
 * Ordinateur
     * 1 ordinateur portable 
-
-* Scénographique
-    * élément de décors 
-    * Cyclorama
     
 * Autre
     * Tout autre élément pertinant
 
 ## Logiciels requis
->Liste des logiciels requis et version ainsi que leur dépendences
+> Liste des logiciels requis, version ainsi que leurs dépendences
 
 * [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
     * [node-osc](https://github.com/MylesBorins/node-osc)
 * [Max 8](https://cycling74.com/products/max)   
-* [Unity 2020](https://unity.com/)
+* [Unity 2019 lts](https://unity.com/)
 * [Open stage control](https://openstagecontrol.ammd.net/)
 
 ## Ressources humaines requises
->Moments et fonction où une intervention humain externe à l'équipe est nécessaire et pourquoi (Lire TTP.)formaté en liste où lien vers un tableur en ligne
+> Moments et fonctions où une intervention humaine externe à l'équipe est nécessaire et pourquoi. Formaté en liste ou en lien vers un tableur Excel.
 
 * 32 janvier, TTP, location de matériel 
 * 35 janvier, TTP, retour du matériel
 
-
 ## Ressources spatiales requises (rangement et locaux)
->Moments et spécifications où les espaces seront utilisé (Lire utilisation du studio) formaté en liste où lien vers un tableur en ligne
+> Moments et spécifications des espaces utilisés formaté en liste ou lien vers un tableur Excel.
 
-* du 32 janvier au 35 janvier
-    * Utilisation du grand studio
-    * projection vidéo dans le cyclo
-    * 6 heures
-* 37 janvier au 39 janvier 
-    * Utilisation du studio d'enregistrement 
-    * 4 heures
+* Grand studio
+    * 32 janvier au 35 janvier
+        * Projection vidéo dans le cyclo
+        * 6 heures
+    * 37 janvier au 39 janvier 
+        * Capatation vidéo
+        * 4 heures
+
+* Petit studio
+    * 42 janvier au 56 janvier 
+        * Enregsitrement audio
+        * 8 heures
     
-
-
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget_capture_20210113.PNG)
@@ -187,8 +189,8 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?
+https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
+https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
 **Étudiant C**
 - Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion);
@@ -198,7 +200,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?
+https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 **Étudiant B**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
@@ -207,8 +209,8 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?
 - Programmation du module Unity d'effets visuels et intégration dans Max.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?
+https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
+https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
 **Étudiant A**
 - Création des images;
@@ -218,7 +220,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?
+https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 **Tâches pas encore attribuées**  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
@@ -228,7 +230,7 @@ Quotidien
 - **Chaque jour 9h00 (30min max)**: Rencontre statutaire d'équipe pour régler les urgences
 
 Hebdomadaire
-- **Mardi 10h (environ 1h)** : Rencontre d'équipe avec professeur
+- **Mardi "x"h (environ 1h)** : Rencontre d'équipe avec professeur
 - **Vendredi 9h50 (environ 2h)** : Rencontre générale de classe
 - **Vendredi 13h (environ 2h)** : Rencontre de mise à jour d'équipe (Journal Web, suivis, mise à jour de l'échéancier, partage des tâches et autres)
 
