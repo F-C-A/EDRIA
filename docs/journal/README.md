@@ -1,4 +1,4 @@
-# Journal de "Étudiant X"
+# Exemple de journal de "Étudiant X"
 
 ## Table des matières
 - [Semaine 0 (25 au 29 janvier)](#Semaine-0-(25-au-29-janvier))
