@@ -1,4 +1,4 @@
-# Journal de "Étudiant 5"
+# Journal de "Étudiant 5" 
 
 ## Table des matières
 - [Semaine 0 (25 au 29 janvier)](#Semaine-0-(25-au-29-janvier))
