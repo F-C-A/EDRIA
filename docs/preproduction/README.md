@@ -159,7 +159,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 *Dates importantes de diffusion :*
-- Pratique générale : 19 mars (toute la journée)
+- Pratique générale : 18 mars au soir et 19 mars (toute la journée)
 - Début de la diffusion : lundi 22 mars
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
