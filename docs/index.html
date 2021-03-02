@@ -4,59 +4,65 @@
 <head>
 	<title>Pandèmes - Une expérience interactive TIM</title>
 	<meta name="description" content="(Description du projet x)">
+	<link rel="stylesheet" type="text/css" href="../../../style-page-principale.css">
 	<link rel="stylesheet" type="text/css" href="../../../style-projets.css">
+	<link rel="stylesheet" type="text/css" href="../../../vendor/baguetteBox.min.css">
+	<script src="../../../vendor/baguetteBox.min.js"></script>
+	<script>
+		window.addEventListener('load', function() {
+			baguetteBox.run('.gallery');
+		});
+	</script>
 </head>
-
 <body>
-	<header><a href="../../../index.html">&lt;-- Page d'accueil (tous les projets)</a></header>
+	<header>
+		<img src="../../../medias/spotlight_gauche.svg" alt="Spotlight 1" class="spotlight spotlight_g"> 
+		<div class="inner">
+			<div class="logo_container"><a href="../../../index.html" id="logo_pandeme">Pandèmes</a></div>	
+		</div>
+		<img src="../../../medias/spotlight_milieu.svg" alt="Spotlight 2" class="spotlight spotlight_m"> 
+		
+	</header>
+
 	<main>
+		<section class="hero banniere"><img src="../../../medias/banniere_page_projet.jpg"></section>
 		<section class="presentation_projet">
-			<h1>(Titre du projet X)</h1>
-			<h3>Résumé du projet :</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec leo nisi, efficitur ac elementum at, porta
-				ut dolor. Morbi cursus faucibus ligula eget aliquam. Pellentesque feugiat in nisi in dictum. Sed
-				tristique tempus lorem, vel pharetra ligula suscipit ac. Suspendisse tempor sem id mi commodo vehicula.
-			</p>
-			<h3>Dates de diffusion :</h3>
-			<p>20, 21 et 22 mars 2020, 20h.</p>
-			<h3>Lien pour assister au projet :</h3>
-			<a href="experience/index.html" target="_blank">experience/index.html</a>
-			<h3>Réalisé par :</h3>
-			<p>Dolor Sit-Amet, Consectetur Adipiscing, Donec Leo et Efficitur Porta.</p>
+			<div class="container_cols reverse">
+				<div class="col">
+					<h3>Dates de diffusion :</h3>
+					<p>20, 21 et 22 mars 2020, 20h.</p>
+					<h3>Lien pour assister au projet :</h3>
+					<a href="experience/index.html" target="_blank">experience/index.html</a>
+				</div>
+				<div class="col">
+					<h1>(Titre du projet X)</h1>
+					<h3>Résumé du projet :</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec leo nisi, efficitur ac elementum at, porta
+						ut dolor. Morbi cursus faucibus ligula eget aliquam. Pellentesque feugiat in nisi in dictum. Sed
+						tristique tempus lorem, vel pharetra ligula suscipit ac. Suspendisse tempor sem id mi commodo vehicula.
+					</p>
+			
+					
+					<h3>Réalisé par :</h3>
+					<p>Dolor Sit-Amet, Consectetur Adipiscing, Donec Leo et Efficitur Porta.</p>
+					
+				</div>
+			</div>
 			<div class="galerie_projet">
 				<h3>Gallerie d'images :</h3>
-				<ul>
-					<li>
-						<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
-					</li>
-					<li>
-						<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
-					</li>
-					<li>
-						<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
-					</li>
-					<li>
-						<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
-					</li>
-					<li>
-						<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
-					</li>
-					<li>
-						<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
-					</li>
-					<li>
-						<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
-					</li>
-					<li>
-						<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
-					</li>
-					<li>
-						<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
-					</li>
-					<li>
-						<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
-					</li>
-				</ul>
+				<div class="gallery">
+					
+					<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
+					<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
+					<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
+					<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
+					<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
+					<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
+					<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
+					<a href="web/medias/image.jpg"><img src="web/medias/image.jpg"></a>
+					
+		
+				</div>
 			</div>
 		</section>
 		<section class="journal_creation">
