@@ -1,0 +1,107 @@
+<!DOCTYPE HTML>
+<html lang="fr">
+
+<head>
+	<title>Une expérience interactive TIM</title>
+	<meta charset="utf-8">
+	<meta name="description" content="(Description du projet x)">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@400;700&family=Permanent+Marker&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="../../../../style-page-principale.css">
+	<link rel="stylesheet" type="text/css" href="../../../../style-projets.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.min.css">
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.min.js"></script>
+
+	<!-- Module Zero-md pour convertir un fichier MD en html -->
+	<script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
+
+	<script>
+		window.addEventListener('load', function() {
+			baguetteBox.run('.gallery, .journal_creation');
+		});
+	</script>
+</head>
+<body>
+	<header>
+		<img src="../../../../medias/spotlight_gauche.svg" alt="Spotlight 1" class="spotlight spotlight_g"> 
+		<div class="inner">
+			<div class="logo_container"><a href="../../../../index.html" id="logo">Projet</a></div>	
+		</div>
+		<img src="../../../../medias/spotlight_milieu.svg" alt="Spotlight 2" class="spotlight spotlight_m"> 
+	</header>
+
+	<main>
+		<section class="hero banniere"><img src="medias/banniere_page_projet.jpg"></section>
+		<section class="presentation_projet">
+			<h1>(Titre du projet X)</h1>
+			<div class="container_cols reverse">
+				<div class="col btns_evenement">
+					<div>
+						<div class="f-interactif">
+							<h3>Interface interactive<br>
+							<span>22 au 25 mars</span></h3>
+							<a href="../experience/index.html" target="_blank" class='btn'>Accéder au projet</a>
+						</div>
+						<div class="f-interactif">
+							<h3>Préproduction<br>
+							<span></span></h3>
+							<a href="./preproduction.html" target="_blank" class='btn'>Documentation technique</a>
+						</div>
+						<div class="f-diffusion">
+							<h3>Présentation <br>
+							<span>25 mars, 19h à 21h</span></h3>
+							<a href="https://youtu.be/ABWCq8j8qys" target="_blank" class='btn'>Assister à la présentation</a>
+						</div>
+					</div>
+				</div>
+				<div class="col">
+					
+					<h3>Résumé du projet :</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec leo nisi, efficitur ac elementum at, porta
+						ut dolor. Morbi cursus faucibus ligula eget aliquam. Pellentesque feugiat in nisi in dictum. Sed
+						tristique tempus lorem, vel pharetra ligula suscipit ac. Suspendisse tempor sem id mi commodo vehicula.
+					</p>
+				
+					<br>
+					<h3>Réalisé par :</h3>
+					<ul class="photos_finissants">
+						<li><a href="./journal_a.html"><img src="medias/participants/A.png" alt="Nom du participant A"> Participant Alpha</a></li>
+						<li><a href="./journal_b.html"><img src="medias/participants/B.png" alt="Nom du participant B"> Participant Beta</a></li>
+						<li><a href="./journal_c.html"><img src="medias/participants/C.png" alt="Nom du participant C"> Participant Charlie</a></li>
+						<li><a href="./journal_d.html"><img src="medias/participants/D.png" alt="Nom du participant D"> Participant Delta</a></li>
+						<li><a href="./journal_e.html"><img src="medias/participants/E.png" alt="Nom du participant E"> Participant Echo</a></li>
+					</ul>
+					
+					
+				</div>
+			</div>
+			<div class="galerie_projet">
+				<br>
+				<h3>Gallerie d'images :</h3>
+				<div class="gallery">
+					<a href="medias/image.jpg"><img src="medias/image.jpg"></a>
+					<a href="medias/image.jpg"><img src="medias/image.jpg"></a>
+					<a href="medias/image.jpg"><img src="medias/image.jpg"></a>
+					<a href="medias/image.jpg"><img src="medias/image.jpg"></a>
+					<a href="medias/image.jpg"><img src="medias/image.jpg"></a>
+					<a href="medias/image.jpg"><img src="medias/image.jpg"></a>
+					<a href="medias/image.jpg"><img src="medias/image.jpg"></a>
+					<a href="medias/image.jpg"><img src="medias/image.jpg"></a>
+				</div>
+			</div>
+		</section>
+		<section class="journal_creation">
+			<section class="section_markdown">
+				<zero-md src="../journal/collectif.md" >
+					<template><link rel="stylesheet" href="../../../../style-markdown.css"></template>
+				</zero-md>
+			</section>
+		</section>
+	</main>
+	<footer>
+		© <a href="https://www.cmontmorency.qc.ca" target="_blank">Collège Montmorency</a> | <a href="https://tim-montmorency.com/" target="_blank">TIM Montmorency 2022</a> 
+	</footer>
+</body>
+
+</html>
