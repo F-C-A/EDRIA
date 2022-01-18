@@ -1,7 +1,7 @@
 # Web
 
-documents web servant à relayer et organiser publiquement les documents présents dans l'arborescence. 
+Documents web servant à relayer et organiser publiquement les documents présents dans l'arborescence. 
 
 ## inclusions dans une regrouppement
 
-Cherche un CSS global,
+Cherche un CSS global.
