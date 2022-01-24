@@ -1,5 +1,5 @@
-# Journal de "Étudiant Alpha"
-![portrait du participant ](../web/medias/participants/A.png)
+# Journal de "Participant 5"
+![portrait du participant ](../web/medias/participants/E.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)

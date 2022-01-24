@@ -1,5 +1,5 @@
-# Journal de "Étudiant Beta"
-![portrait du participant ](../web/medias/participants/B.png)
+# Journal de "Participant 3"
+![portrait du participant ](../web/medias/participants/C.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
