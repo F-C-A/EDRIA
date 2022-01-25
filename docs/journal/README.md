@@ -1,16 +1,18 @@
-# Exemple de journal de "Étudiant X"
+# Exemple de Journal de "Participant X"
+![portrait du participant ](../web/medias/participants/A.png)
 
-## Table des matières
-- [Semaine 0 (25 au 29 janvier)](#Semaine-0-(25-au-29-janvier))
-- [Semaine 1 (30 janvier au 5 février)](#Semaine-1-(30-janvier-au-5-février))
-- [Semaine 2 (6 au 12 février)](#Semaine-2-(6-au-12-février))
-- [Semaine 3 (13 au 19 février)](#Semaine-3-(13-au-19-février))
-- [Semaine 4 (20 au 26 février)](#Semaine-4-(20-au-26-février))
-- [Semaine 5 (6 au 12 mars)](#Semaine-5-(6-au-12-mars))
-- [Semaine 6 (13 au 19 mars)](#Semaine-6-(13-au-19-mars))
+* [Semaine 1](#semaine-1)
+* [Semaine 2](#semaine-2)
+* [Semaine 3](#semaine-3)
+* [Semaine 4](#semaine-4)
+* [Semaine 5](#semaine-5)
+* [Semaine de rattrapage](#semaine-de-rattrapage)
+* [Semaine 6](#semaine-6)
+* [Semaine 7](#semaine-7)
+* [Semaine 8](#semaine-8)
+* [Semaine 9](#semaine-9)
 
----
-## Semaine 0 (25 au 29 janvier)
+## Semaine 1
 
 ### Résumé des réalisations effectuées
 - Vivamus lacinia tincidunt dui, non auctor justo. 
@@ -57,7 +59,7 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
 
 ---
-## Semaine 1 (30 janvier au 5 février)
+## Semaine 2
 ### Résumé des réalisations effectuées
 
 
@@ -95,7 +97,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 
 
 ---
-## Semaine 2 (6 au 12 février)
+## Semaine 3 
 ### Résumé des réalisations effectuées
 
 
@@ -132,7 +134,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 3 (13 au 19 février)
+## Semaine 4
 ### Résumé des réalisations effectuées
 
 
@@ -169,7 +171,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 4 (20 au 26 février)
+## Semaine 5
 ### Résumé des réalisations effectuées
 
 
@@ -206,7 +208,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine de rattrapage (27 février au 5 mars)
+## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 
 
@@ -243,7 +245,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 5 (6 au 12 mars)
+## Semaine 6
 ### Résumé des réalisations effectuées
 
 
@@ -280,7 +282,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 ### Défis pour la prochaine semaine
 
 ---
-## Semaine 6 (13 au 19 mars)
+## Semaine 7
 ### Résumé des réalisations effectuées
 
 
@@ -315,3 +317,9 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 
 
 ### Défis pour la prochaine semaine
+
+
+## Semaine 8
+
+
+## Semaine 9
