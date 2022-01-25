@@ -121,7 +121,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 1 ordinateur portable 
     
 * Autre
-    * Tout autre élément pertinant
+    * Tout autre élément pertinent
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
