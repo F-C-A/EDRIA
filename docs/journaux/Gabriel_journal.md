@@ -1,4 +1,4 @@
-# Journal de "Participant 3"
+# Journal de "Gabriel Leblanc"
 ![portrait du participant ](../web/medias/participants/C.png)
 
 * [Semaine 1](#semaine-1)
