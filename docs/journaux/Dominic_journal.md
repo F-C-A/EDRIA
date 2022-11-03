@@ -1,5 +1,5 @@
 # Journal de "Dominic Roberts"
-![portrait du participant ](../web/medias/participants/dominic.jpg)
+![portrait du participant ](../web/medias/participants/dominic.JPG)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
