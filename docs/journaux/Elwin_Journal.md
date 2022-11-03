@@ -1,5 +1,5 @@
 # Journal de "Elwin Durand"
-![portrait du participant ](../web/medias/pfft.png)
+![portrait du participant ](../web/medias/participants/pfft.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
