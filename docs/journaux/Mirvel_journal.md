@@ -1,5 +1,5 @@
 # Journal de "Mirvel Leconte"
-![portrait du participant ](../web/medias/participants/C.png)
+![portrait du participant ](../web/medias/participants/mirvel.JPG)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
