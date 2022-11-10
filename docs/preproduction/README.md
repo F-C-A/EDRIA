@@ -43,6 +43,11 @@ Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vie
 Le public est appelé à découvrir le mystère entourant cette difficile séparation.
 
 ## Tableau d'ambiance (*moodboard*)
+
+### Lumières
+
+### Audio
+
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
 
 > Insérez directement des captures d'écran et liens vers des médias ici.
