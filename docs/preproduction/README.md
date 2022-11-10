@@ -46,6 +46,8 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 
 ### Lumières
 
+##ok
+
 ### Audio
 
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
