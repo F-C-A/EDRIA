@@ -48,6 +48,11 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 
 ### Lumières
 
+[Bâtons Lumineux](/medias/inspi_lumieres.mp4)
+[Texture Audio Réactivité](/medias/inspi_lumieres2.mp4)
+[Champignons](/medias/inspi_lumieres3.mp4)
+[Bâtons Lumineux + Champignons Arbre](/medias/inspi_lumieres4.mp4)
+[DMX Arbres](/medias/inspi_lumieres5.mp4)
 
 
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
