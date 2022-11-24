@@ -38,8 +38,6 @@ générative par VCV Rack
 ## Quand quelqu'un rentre/sort : 
 Son de fée qui semble accueillir l’intéracteur qui sonne comme un “ringtone”  <em>(Voir sono references “river_spirit_on-enter-exit)</em>
 
-[neet](n33t_example.mp3)
-
 <br>
 
 # Gab
@@ -106,6 +104,14 @@ Fade-out lent s’il y a personne (durée du son de sortie)
 <br>
 
 # Mirvel
+
+- Processus de construction des champignons
+- Prototype de champignons fait à partir de silicone transparent et de colorant alimentaire (peu) pour pouvoir avoir de la lumière visible et de la transparence
+- Attaché grâce à des collets/bolts autour des poteaux de ABS
+- LED redressable
+- System de drainage; en bas du poteau, à environ 1 pied pour que l’eau passe dans un trou qui passe du poteau ABS et du pied de ciment
+- Fausse plante/verdure autour du poteau pour embellir
+
 ![Texte alternatif de l'image](télécharger.jfif)
 ![Texte alternatif de l'image](champi.png)
 ![Texte alternatif de l'image](champi2.png)
