@@ -3,6 +3,12 @@
 
 # Elwin
 ## Pésentation:
+
+### 1 : Entre Fungus (Meryem, Jean-Christophe, Mirvel, Dominic, Elwin, Gabriel, Loïc) 
+
+-  Espace communautaire pour se détendre le temps d’une pause dans une ambiance post biologique. Nous allons parsemer les structures scéniques de fausses plantes et incorporer des appareils de chauffage (si possible) pour simuler un climat plus clément. 	 
+
+- Structure scénique interactive au-dessus des tables. Le concept consiste à démontrer l’évolution éventuelle de notre société avec des structures en forme de champignons modifiés par la technologie. L'espace sera composé d’une structure entourant l’espace extérieur des tables, cette structure sera métallique et recouverte de gazon synthétique ainsi que de champignons lumineux de tailles variées. Les tables présentes sous la grande structure seront interactives. Elles détecteront la présence de visiteurs et déclencheront une série de lumières et de sons qui tourneront autour du visiteur. 
 <br>
 
 # Meryem
@@ -12,7 +18,8 @@ Ambiance générale:  Peu de champignons sont ouverts quand il y a personne. Qua
 Sommet de l'ambiance: Lorsqu'il y a 5 personnes dans la zone, tous les champignons se ferment puis s'ouvrent zone par zone jusqu'à qu'ils sont tous allumés. Ensuite, certains clignotent rapidement, puis finissent doucement.
 
 Lorsqu'une personne rentre ou sort: Les champignons sur les poteaux autour de l'entrée clignotent
-
+<br>
+![Texte alternatif de l'image](drawio.png)
 <br>
 
 # JC
@@ -71,8 +78,14 @@ Fade-out lent s’il y a personne (durée du son de sortie)
 <br>
 <br>
 
-# Loîc
+# Loïc
 ![Texte alternatif de l'image](4.JPG)
+
+![Texte alternatif de l'image](mush1.png)
+![Texte alternatif de l'image](mush2.png)
+![Texte alternatif de l'image](mush3.png)
+![Texte alternatif de l'image](mush4.png)
+
 ![Texte alternatif de l'image](1.png)
 ![Texte alternatif de l'image](3.png)
 
@@ -88,13 +101,23 @@ Fade-out lent s’il y a personne (durée du son de sortie)
 
 <br>
 
+![Texte alternatif de l'image](central.png)
+
+<br>
+
 # Mirvel
 ![Texte alternatif de l'image](télécharger.jfif)
 ![Texte alternatif de l'image](champi.png)
 ![Texte alternatif de l'image](champi2.png)
 
+![Texte alternatif de l'image](mush5_not.png)
+![Texte alternatif de l'image](mush7.png)
+![Texte alternatif de l'image](mush8.png)
+
 ![Texte alternatif de l'image](abs.jpg)
 ![Texte alternatif de l'image](beton.jpg)
 ![Texte alternatif de l'image](eto.jpg)
+
+![Texte alternatif de l'image](autre.png)
 <br>
 
