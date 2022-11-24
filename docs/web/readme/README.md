@@ -36,11 +36,39 @@ Son de fée qui semble accueillir l’intéracteur qui sonne comme un “rington
 <br>
 
 # Gab
-[Audio Réactivité Texture](https://youtu.be/HyF5Q9zNhZ0)<br>
-[DMX Arbres](https://youtu.be/opkbghGGM30)
+
+Ambiance Générale :
+
+Il y a 7 DMX en tout. Les 2 DMX pointant sur les tables restent ouvertes en permanence (Sauf à l’entrée de la première personne et la sortie de la dernière personne) 1-3 Personnes : Il y a des transitions douces en fade où les 5 autres DMX passe à une couleur différente. 4 Personnes : Audio réactif aux textures granulaires abstraites.
+
+
+
+Sommet de l'ambiance :
+
+5 Personnes (Peak) : Toutes les DMX clignotent et changent de couleur en alternance incluant les 2 pointant vers les tables.
+
+
+
+Quand la 1ère personne entre :
+
+Fade-in lent (durée du son d’entrée)
+
+
+
+Quand la dernière personne sort :
+
+Fade-out lent s’il y a personne (durée du son de sortie)
+
 ![Texte alternatif de l'image](6.JPG)
 ![Texte alternatif de l'image](7.JPG)
 ![Texte alternatif de l'image](plan.jfif)
+
+[Audio Réactivité Texture](https://youtu.be/HyF5Q9zNhZ0)<br>
+[DMX Arbres](https://youtu.be/opkbghGGM30)<br>
+
+<br>
+
+<br>
 <br>
 
 # Loîc
