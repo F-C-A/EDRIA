@@ -75,8 +75,15 @@ Fade-out lent s’il y a personne (durée du son de sortie)
 ![Texte alternatif de l'image](4.JPG)
 ![Texte alternatif de l'image](1.png)
 ![Texte alternatif de l'image](3.png)
+
+<br>
+
 ![Texte alternatif de l'image](poteau.png)
+
 ![Texte alternatif de l'image](iso.jpg)
+
+<br>
+
 ![Texte alternatif de l'image](plantes.jfif)
 
 <br>
