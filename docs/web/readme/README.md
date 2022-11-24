@@ -38,13 +38,13 @@ Son de fée qui semble accueillir l’intéracteur qui sonne comme un “rington
 # Gab
 [Audio Réactivité Texture](https://youtu.be/HyF5Q9zNhZ0)<br>
 [DMX Arbres](https://youtu.be/opkbghGGM30)
-![Texte alternatif de l'image](6.jpg)
-![Texte alternatif de l'image](7.jpg)
+![Texte alternatif de l'image](6.JPG)
+![Texte alternatif de l'image](7.JPG)
 ![Texte alternatif de l'image](plan.jfif)
 <br>
 
 # Loîc
-![Texte alternatif de l'image](4.jpg)
+![Texte alternatif de l'image](4.JPG)
 ![Texte alternatif de l'image](1.png)
 ![Texte alternatif de l'image](3.png)
 <br>
