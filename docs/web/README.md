@@ -38,7 +38,7 @@ Son de fée qui semble accueillir l’intéracteur qui sonne comme un “rington
 # Gab
 [Audio Réactivité Texture](https://youtu.be/HyF5Q9zNhZ0)<br>
 [DMX Arbres](https://youtu.be/opkbghGGM30)
-![Texte alternatif de l'image](..\medias\6.jpg)
+![Texte alternatif de l'image](6.jpg)
 ![Texte alternatif de l'image](..\medias\7.jpg)
 ![Texte alternatif de l'image](..\medias\plan.jfif)
 <br>
