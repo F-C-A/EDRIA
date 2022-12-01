@@ -28,11 +28,10 @@
 
 # Intention ou concept
 ## Cartographie
-> Exemples:
 
-![Exemple de cartographie 1](medias/plan_numéroté_vrai_2.png)
-![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
-![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
+![Cartographie 1](medias/plan_numéroté_vrai_2.png)
+![Cartographie 1](medias/plan_direction_capteur.png)
+
 
 ## Intention de départ
 par ce projet, nous voulons faire une métaphore entre le cycle de la vie et l'industrialisation.
@@ -81,7 +80,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
+> Insérer plans, documents et schémas pertinents dans cette sectio. 
+
 
 ### Plantation 
 
@@ -95,10 +95,17 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Divan Louis XIV
+* speaker Yamaha NS-AW194BL (8x)
+* LED ALITOVE DC 12V WS2811 12mm
+* arduino ATOM PoE kit with W5500
+* Ampli Fosi Audio TB10A
+* PIR Motion Sensor (AS312)
+* Camera OAK-1 PoE
+* poteaux
     * Couleur rouge
     * 12' x 4' x 3'
-* Cyclorama
+* poteaux milieu 
+    * 
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
