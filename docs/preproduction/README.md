@@ -23,7 +23,7 @@
     - [Budget prévisionnel](#Budget-prévisionnel)
     - [Échéancier global](#Échéancier-global)
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
-    - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
+    - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe)
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
 
 # Intention ou concept
@@ -65,22 +65,18 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 15 icônes de navigation (pour les utilisateur-trices)
-- 8 montages d'image
-- 3 paysages sonores
-- 5 vidéos d'animation 2D
-- 3 textes poétiques
-- 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
-- ...
+2 paysages sonores (dont 1 modulable)
+
+4 modules multimédias (captation des données, interprétation des données, contrôle d'éclairage et effets audiovisuels)
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
 ## Univers artistique des éléments
-Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
+[Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2062121_cmontmorency_qc_ca/Ed-9BxbzUDpHkrCtu1kijxwBOhWSUQP5E1gXYZtl-SiaGA)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio. 
+> Insérer plans, documents et schémas pertinents dans cette section. 
 
 
 ### Plantation 
@@ -94,8 +90,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Matériel de scénographie requis
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
-
-
 
 * poteaux
     * abs
@@ -155,16 +149,20 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
-* Personne X, performeuse
-* Etc.
+* Designeuse industrielle; Madame Genevieve 
+* Les prof du programme TIM
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
-* 
+* Lieu Extérieur
+    * Déploiement
+
+* Grand Studio
+    * Entreposage
 
 * Petit studio
-    * Enregsitrement audio
+    * Enregistrement audio
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
@@ -200,7 +198,11 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
-**Étudiant E**
+**Mirvel**
+
+**Gabriel**
+
+**Elwin**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Création du module d'interprétation des données;
 - Programmation du module Max de contrôle vidéo.
@@ -209,7 +211,7 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
-**Étudiant D**
+**Jean-Christophe**
 - Comité Technique et coordination technique (suivi du devis technique);
 - Création des paysages sonores sonores;
 - Programmation du module Max d'effet et de contrôle audio;
@@ -219,7 +221,7 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant C**
+**Loic**
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
 - Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
@@ -228,7 +230,7 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
-**Étudiant B**
+**Meryam**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Création des textes poétiques;
 - Création des vidéos d'animation 2D;
@@ -238,7 +240,7 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant A**
+**Dominic**
 - Création des images;
 - Création des icônes de navigation;
 - Programmation du module Max d'éclairage;
@@ -253,7 +255,11 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3A
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+- **Lundi 10h (1h-2h)** : Rencontre de suivi de projet.
+- **Jeudi 10h (1h-2h)** : Rencontre de suivi de projet.
+
 
 Autre: 
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+- **À chaque jalon (milestone)** : Rencontre de suivi de projet.
+- **Quand l'installation est terminée** : Rencontre de suivi de projet.
+- **Quand l'interactivité est terminée** : Rencontre de suivi de projet.
