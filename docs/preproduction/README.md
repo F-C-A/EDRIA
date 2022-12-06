@@ -201,28 +201,31 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues
 **Mirvel**
 
 **Gabriel**
+- Création des différentes transitions de lumières qui seront jouées par rapport au nombre de personnes détectées.
+- Création d'une animation de lumières d'environ 10-20 secondes au climax (lorsqu'il y a 5 personnes de détectées).
+- Programmation de l'audio réactivité dans TouchDesigner des lumières lorsque des textures granulaires jouent.
 
 **Elwin**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
-- Création du module d'interprétation des données;
-- Programmation du module Max de contrôle vidéo.
+- Coordination technique de l'équipe d'installation et d'intégration
+- documentation du déploiement du projet.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 **Jean-Christophe**
-- Comité Technique et coordination technique (suivi du devis technique);
+- Création des différentes atmosphères audios qui seront jouées par rapport au nombre de personnes détectées dans la zone interactive 
 - Création des paysages sonores sonores;
-- Programmation du module Max d'effet et de contrôle audio;
-- Installation de l'équipement dans l'espace physique.
+- Création d'une atmosphère sonore spéciale d'environ 10-20 secondes au climax (lorsqu'il y a 5 personnes de détectées).
+- Programmation de l'audio réactivité dans TouchDesigner des lumières lorsque des textures granulaires jouent.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
 **Loic**
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
+- Installation de la piece centrale;
 - Programmation du module de captation des données;
 - Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
 
@@ -230,7 +233,7 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
-**Meryam**
+**Meryem**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Création des textes poétiques;
 - Création des vidéos d'animation 2D;
