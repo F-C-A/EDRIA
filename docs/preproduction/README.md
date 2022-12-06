@@ -85,7 +85,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+![exemple de schema](medias/schéma_technique.png)
 
 ### Schéma de branchement 
 
@@ -104,7 +104,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * cap ABS 4"
     * pattes d'éléphant
     * pied de sapin
-    * 
+    * cadre en bois
 
 * poteaux milieu 
     * pont d'éclairage
