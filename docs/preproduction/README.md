@@ -95,14 +95,14 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* speaker Yamaha NS-AW194BL (8x)
+
 * LED ALITOVE DC 12V WS2811 12mm
 * arduino ATOM PoE kit with W5500
-* Ampli Fosi Audio TB10A
+
 * PIR Motion Sensor (AS312)
 * Camera OAK-1 PoE
 * poteaux
-    * Couleur rouge
+    * abs
     * 12' x 4' x 3'
 * poteaux milieu 
     * 
@@ -111,9 +111,10 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
+    * speaker Yamaha NS-AW194BL (8x)
+    * 8 fils RCA de 7' (M->F)
+    * Ampli Fosi Audio TB10A
+    * 8 fils ethernet to RCA
 
 * Vidéo
     * 2 projecteurs vidéo lentille standard
