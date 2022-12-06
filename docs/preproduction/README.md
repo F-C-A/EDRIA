@@ -34,7 +34,7 @@
 
 
 ## Intention de départ
-par ce projet, nous voulons faire une métaphore entre le cycle de la vie et l'industrialisation.
+Dans ce projet, nous souhaitons réaliser une expérience interactive reprenant le thème commun de la classe: le Biopunk. La nature et la technologie sont des idées opposées: Elles représentent une dualité. Notre installation devra ressembler à un environnement relax, dans lequel les utilisateurs pourront explorer et interagir avec ce qu'il se trouve autour d'eux. La nature aura donc une apparence "artificielle", grâce à la présence de diverses technologies aux alentours .
 
 ## Synopsis
 Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
