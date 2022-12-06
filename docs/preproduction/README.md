@@ -60,7 +60,7 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 [Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
 ## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons scintillent à droite et à gauche doucement. À chaque entrée ou sortie par un chemin, un son de fée se fait entendre, pendant que les champignons sur les poteaux autour de l’entrée s’allument et clignotent et la lumière adressable autour s’ouvre aussi. Lorsqu’une personne entre dans la scène, les lumières au centre s'allument et plus de champignons scintillent, pendant qu’une superposition de sons commence dans l’ambiance sonore. Il y a aussi des changements de couleurs dans les autres lumières adressables. Le nombre de champignons qui s’allument et le nombre de sons se superposant dans l’ambiance sonore augmente graduellement selon le nombre de personnes, donc entre 1 et 3 personnes, dans la scène. Toujours dans la graduation, à 4 personnes, il y a de la texture granulaire qui entre dans l’ambiance sonore. Les champignons allumés et les lumières adressables réagissent avec la texture abstraite. Finalement, nous arrivons à un sommet à 5 personnes et un événement intéractif arrive. Lorsque la 5ème personne rentre dans la scène, tous les champignons et les lumières s’éteignent d’un coup pour quelques secondes pendant que l’on entend des voix coupées et ré arrangées de manière générative. Les champignons s’ouvrent de zone en zone, donc autour des entrées, avec les lumières adressables en suivant le son. Finalement, lorsque tous les champignons et  lumières sont allumés, ils clignotent et changent de couleur tout en s’harmonisant avec l’ambiance sonore. À la fin de ce 20 secondes d’évènement spécial, l’ambiance sonore se calme, tout en entendant encore des voix. Les champignons sont tous allumés, dont certains scintillent doucement et rapidement. Toutes les lumières sont allumées, en réagissant avec des transitions douces de couleurs tout en suivant le son. Le sommet a été atteint et l’ambiance générale est en complète harmonie. Si des personnes quittent la scène, il y a une dégradation contraire à la description ci-dessus.
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
@@ -96,16 +96,19 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 
-* LED ALITOVE DC 12V WS2811 12mm
-* arduino ATOM PoE kit with W5500
 
-* PIR Motion Sensor (AS312)
-* Camera OAK-1 PoE
 * poteaux
     * abs
-    * 12' x 4' x 3'
-* poteaux milieu 
+    * 12' x 4"
+    * joint ABS 4"
+    * cap ABS 4"
+    * pattes d'éléphant
+    * pied de sapin
     * 
+
+* poteaux milieu 
+    * pont d'éclairage
+    * base
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
@@ -116,28 +119,25 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Ampli Fosi Audio TB10A
     * 8 fils ethernet to RCA
 
-* Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
-
-* Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
+* Lumières
+    * LED ALITOVE DC 12V WS2811 12mm
+    * arduino ATOM PoE kit with W5500
+    * Lumières adressables
+    * cable XLR
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
+    * source ethernet
 
 * Réseau
-    * 4 fils cat6a de 15"
+    * cables ethernet de longueurs variés
     * Switch poe 5 ports
 
 * Ordinateur
-    * 1 ordinateur portable 
+    * raspberry pi
+
+* interactivité
+    * PIR Motion Sensor (AS312)
+    * Camera OAK-1 PoE
     
 * Autre
     * Tout autre élément pertinent
@@ -161,9 +161,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
-* Grand studio
-    * Projection vidéo dans le cyclo
-    * Capatation vidéo
+* 
 
 * Petit studio
     * Enregsitrement audio
@@ -185,7 +183,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
+https://github.com/F-C-A/ENTRE-FUNGUS/milestones
 
 *Dates importantes :*
 - Première itération : lundi x novembre
@@ -194,10 +192,10 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
+https://github.com/orgs/F-C-A/projects/1
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues
+https://github.com/F-C-A/ENTRE-FUNGUS/issues
 
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
