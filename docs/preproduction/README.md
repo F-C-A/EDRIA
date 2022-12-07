@@ -199,6 +199,8 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
 **Mirvel**
+- Installation de la pièce centrale;
+- Installation des poteaux extérieur;
 
 **Gabriel**
 - Création des différentes transitions de lumières qui seront jouées par rapport au nombre de personnes détectées.
@@ -225,9 +227,9 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
 **Loic**
-- Installation de la piece centrale;
-- Programmation du module de captation des données;
-- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
+- Installation de la pièce centrale;
+- Installation des LEDs et champignons;
+- Coordination integration champignons;
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
