@@ -93,6 +93,10 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons
 
 ![exemple de schema](medias/schema_base_poteaux.png)
 
+### Schéma complet
+
+![exemple de schema](medias/schema_complet.png)
+
 ## Matériel de scénographie requis
 
 * Poteaux
