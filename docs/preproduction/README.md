@@ -135,11 +135,11 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons
 
 ## Logiciels requis
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
-* [Max 8](https://cycling74.com/products/max)   
-* [Unity 2019 lts](https://unity.com/)
-* [Open stage control](https://openstagecontrol.ammd.net/)
+Logiciels: <br>
+FL Studio<br>
+VCV Rack<br>
+TouchDesigner<br>
+Arduino<br>
 
 ## Ressources humaines requises
 
