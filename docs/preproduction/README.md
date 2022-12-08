@@ -173,6 +173,7 @@ Arduino<br>
  |  Trouver un poteau de scène qu'il serait possible de louer et qui va correspondre à nos besoins.  |  S'assurer de se prendre d'avance et de contacter un grand nombre d'entreprises afin d'être sur de ne pas être pris a faire des recherches à la dernière minute. | Ce genre de problème nous empêcherait d'avancer sur le projet puisque ce poteau est le point central de notre exposition.  |
  | Manquer d'effectif ou de temps lors de la conception des centaines de champignons. | Bien planifier et tester les étapes de la conception des champignons afin de pouvoir s'assurer d'avoir un nombre minimum de problème et que tous les gens impliqués dans la conception soient disponible dans la période de temps déterminée. |  Ce problème ferait en sorte que nous perdrions une grande partie de l'ambiance du projet puisque les champignons sont les éléments visuels principaux.|
  | Il est possible que les deadlines ne soient pas respectées, retardant les contraintes imposées. | Se prendre le plus tôt possible en prévision de chaque problème important qui pourrait venir dans notre direction. | C'est une contrainte qui dépend des membres de l'équipe, donc cela pourrait être sous contrôle avec de la prévision. |
+ | Problème technique lors de l'installation ( style on a pas le bon thread pour les ) |  |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
@@ -202,6 +203,7 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues
 **Mirvel**
 - Installation de la pièce centrale;
 - Installation des poteaux extérieur;
+- Support de la création des champignons;
 
 Liste des tâches dans Git Hub:  
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/9 
