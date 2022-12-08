@@ -169,8 +169,15 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
-|                                                  |                                                       |                                                                                              |
+| Jamais utilisé la caméra POE. | Faire plusieurs tests et expérimenter de plusieurs façons, demander de l’aide aux professeurs ou TTP et vérifier la documentation en ligne. | Nous n’avons pas d’autres solutions pour des caméras pour l’extérieur, donc il faudra être formé. | 
+|Pas beaucoup d’expérience avec TouchDesigner | Formation plus approfondie par le TTP, demander de l’aide aux professeurs ou TTP et vérifier la documentation en ligne. |  Sinon, nous pourrions essayer avec Max/MSP ou MadMapper. |                                          
+ | Problème de connexion avec les cartes sonores (interface audio). | Acheter une carte de son qui se connecte avec les 7 speakers. Mettre à jours les logiciels qui ont besoin d’être mis à jour et tous leurs drivers. | Ce genre de problème empêcherait VCV Rack (et tout autre logiciel qui utilise de l’audio) de pouvoir jouer de l’audio dans les speakers. |
+ |  Problème avec les envois d’informations en OSC/UDP aux logiciels réceptacles. |  Vérifier que chaque étape a bien été faite, vérifier si les informations envoyées peuvent être reçu par les logiciels réceptacles, vérifier les pares-feux. |  Ce problème enlèvera toute possibilité de communication entre les divers logiciels qui créent l’interactivité. |
+ | Nous n'avons jamais fais des lumières adressables dans TouchDesigner. | Faire des recherches en regardant des vidéos en ligne, demander de l'aide aux professeurs ou aux TTPs | Sinon, on pourrais laisser tomber TouchDesigner et faire les lumières avec QLC+ |
+ |  Faire la programmation de l'audio réactivité dans touch designer (connectique entre plusieurs logiciels complexe) |  Faire encore des recherches ou demander d'autre aide. |  Sinon, on pourrait laisser tomber l'audio réactivité et faire plutôt des patterns de lumière | 
+ | Faire tenir les poteaux extérieurs à la verticale | Nous avons dévellopé une base qui nous semble assez robuste et qui pourra résister au intempérit, mais un être humain mal intentionné pourrait tout de même les faire tomber | C'est une partie relativement importante de notre projet alors il sera difficile de l'enlever |
+ |Construction des poteaux extérieur; cette partie demande une série de technique qui est dans un autre domaine complètement de ce que nous avons vue dans la technique | Garder la structure le plus simple possible | Les plans que nous avons fait pour cette structure ne sont pas excessivement compliqué, mais ils demande des connaissance assez précise des matériaux utilisés. | 
+ |                                                                                               |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
@@ -246,10 +253,12 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMom
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 **Meryem**
-- Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des textes poétiques;
-- Création des vidéos d'animation 2D;
-- Programmation du module Unity d'effets visuels et intégration dans Max.
+- Coordination de l'équipe d'intégration
+- Création des différentes atmosphères et zones de champignons 
+- Création d'une animation de lumières des champignons d'environ 10-20 secondes au climax (5 personnes)
+- Programmation de l'audio réactivité des lumières des champignons lorsque les textures granulaires jouent
+- Progammation de la réactivité des lumières des champignons à l'entrée et à la une sortie d'une personne
+- Programmation de la réactivité du nombres de champignons allumés selon le nombre de personnes (entre 1 et 5)
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
