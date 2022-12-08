@@ -42,11 +42,17 @@ Traversant un hiver froid et glacial, nos explorateurs arrivent en terre inconnu
 ## Tableau d'ambiance (*moodboard*)
 
 ### Audio
+[Référence féérique](https://www.youtube.com/shorts/z6iGZhqrxRY)
+[Référence ambiophonique](https://www.youtube.com/shorts/v1o-gKb9cJc)
 
 ### Lumières & Champignons
 
 ![Moodboard Éclairage](medias/moodboard_ambiance_eclairage.png)
 [Palette de couleurs](https://coolors.co/ffe065-fe81b4-25bcd4-1356b4-71f074)
+[Champignons](https://www.youtube.com/watch?v=GZ8umWHb2j8)
+[Lumièrescdans les arbres](https://www.youtube.com/watch?v=opkbghGGM30)
+[Audioréactivité texture granulaire](https://www.youtube.com/watch?v=HyF5Q9zNhZ0)
+[Ambiance générale](https://www.youtube.com/watch?v=8Nj2O60BJdk)
 
 ## Scénario, scénarimage ou document audio/visuel
 L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons scintillent à droite et à gauche doucement. À chaque entrée ou sortie par un chemin, un son de fée se fait entendre, pendant que les champignons sur les poteaux autour de l’entrée s’allument et clignotent et la lumière adressable autour s’ouvre aussi. Lorsqu’une personne entre dans la scène, les lumières au centre s'allument et plus de champignons scintillent, pendant qu’une superposition de sons commence dans l’ambiance sonore. Il y a aussi des changements de couleurs dans les autres lumières adressables. Le nombre de champignons qui s’allument et le nombre de sons se superposant dans l’ambiance sonore augmente graduellement selon le nombre de personnes, donc entre 1 et 3 personnes, dans la scène. Toujours dans la graduation, à 4 personnes, il y a de la texture granulaire qui entre dans l’ambiance sonore. Les champignons allumés et les lumières adressables réagissent avec la texture abstraite. Finalement, nous arrivons à un sommet à 5 personnes et un événement intéractif arrive. Lorsque la 5ème personne rentre dans la scène, tous les champignons et les lumières s’éteignent d’un coup pour quelques secondes pendant que l’on entend des voix coupées et ré arrangées de manière générative. Les champignons s’ouvrent de zone en zone, donc autour des entrées, avec les lumières adressables en suivant le son. Finalement, lorsque tous les champignons et  lumières sont allumés, ils clignotent et changent de couleur tout en s’harmonisant avec l’ambiance sonore. À la fin de ce 20 secondes d’évènement spécial, l’ambiance sonore se calme, tout en entendant encore des voix. Les champignons sont tous allumés, dont certains scintillent doucement et rapidement. Toutes les lumières sont allumées, en réagissant avec des transitions douces de couleurs tout en suivant le son. Le sommet a été atteint et l’ambiance générale est en complète harmonie. Si des personnes quittent la scène, il y a une dégradation contraire à la description ci-dessus.
@@ -155,7 +161,9 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons
  |  Faire la programmation de l'audio réactivité dans touch designer (connectique entre plusieurs logiciels complexe) |  Faire encore des recherches ou demander d'autre aide. |  Sinon, on pourrait laisser tomber l'audio réactivité et faire plutôt des patterns de lumière | 
  | Faire tenir les poteaux extérieurs à la verticale | Nous avons dévellopé une base qui nous semble assez robuste et qui pourra résister au intempérit, mais un être humain mal intentionné pourrait tout de même les faire tomber | C'est une partie relativement importante de notre projet alors il sera difficile de l'enlever |
  |Construction des poteaux extérieur; cette partie demande une série de technique qui est dans un autre domaine complètement de ce que nous avons vue dans la technique | Garder la structure le plus simple possible | Les plans que nous avons fait pour cette structure ne sont pas excessivement compliqué, mais ils demande des connaissance assez précise des matériaux utilisés. | 
- |                                                                                               |
+ |  Trouver un poteau de scène qu'il serait possible de louer et qui va correspondre à nos besoins.  |  S'assurer de se prendre d'avance et de contacter un grand nombre d'entreprises afin d'être sur de ne pas être pris a faire des recherches à la dernière minute. | Ce genre de problème nous empêcherait d'avancer sur le projet puisque ce poteau est le point central de notre exposition.  |
+ | Manquer d'effectif ou de temps lors de la conception des centaines de champignons. | Bien planifier et tester les étapes de la conception des champignons afin de pouvoir s'assurer d'avoir un nombre minimum de problème et que tous les gens impliqués dans la conception soient disponible dans la période de temps déterminée. |  Ce problème ferait en sorte que nous perdrions une grande partie de l'ambiance du projet puisque les champignons sont les éléments visuels principaux.|
+ | Il est possible que les deadlines ne soient pas respectées, retardant les contraintes imposées. | Se prendre le plus tôt possible en prévision de chaque problème important qui pourrait venir dans notre direction. | C'est une contrainte qui dépend des membres de l'équipe, donc cela pourrait être sous contrôle avec de la prévision. |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
