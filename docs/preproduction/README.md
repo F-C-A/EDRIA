@@ -83,7 +83,7 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons
 
 ### Plantation 
 
-![exemple de schema](medias/schéma_technique.png)
+![exemple de schema](medias/20xx.jpg)
 
 ### Schéma de branchement 
 
@@ -95,7 +95,11 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons
 
 ### Schéma complet
 
-![exemple de schema](medias/schema_complet.png)
+![exemple de schema](medias/schema_connection_complet.png)
+
+### Champignons 
+
+![exemple de fungus](medias/champi.png)
 
 ## Matériel de scénographie requis
 
@@ -186,9 +190,9 @@ Arduino IDE (Version 2.0.3) <br>
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget_capture_20210113.PNG)
+![Budget prévisionnel](medias/budget.png)
 
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
+[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/FONGUSAMONGUS/EdlGhdyy8N1BpC-nrMZU9iABkAA59kKl6h62ncfrJwSruw?e=2n2DG0)
 
 
 ## Échéancier global
