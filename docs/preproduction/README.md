@@ -75,7 +75,7 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons
 
 
 ## Univers artistique des éléments
-[Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2062121_cmontmorency_qc_ca/Ed-9BxbzUDpHkrCtu1kijxwBOhWSUQP5E1gXYZtl-SiaGA)
+[Univers artistique](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2062121_cmontmorency_qc_ca/Ed-9BxbzUDpHkrCtu1kijxwBOhWSUQP5E1gXYZtl-SiaGA)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
@@ -113,28 +113,28 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons
 * Audio
     * Haut-Parleurs Yamaha NS-AW194BL (8x)
     * 8 fils RCA de 7' (M->F)
-    * Ampli Fosi Audio TB10A
-    * 8 fils ethernet to RCA
+    * Amplificateur Fosi Audio TB10A
+    * 8 fils Ethernet to RCA
 
 * Lumières
     * LED ALITOVE DC 12V WS2811 12mm
     * Arduino ATOM PoE kit with W5500
     * Lumières adressables
-    * Cable XLR
+    * Câble XLR
 
 * Électricité
-    * Source ethernet
+    * Source Ethernet
 
 * Réseau
     * Cables Ethernet de longueurs variées
     * Switch PoE 5 ports
 
 * Ordinateur
-    * Raspberry pi
+    * Raspberry Pi
 
 * Interactivité
     * PIR Motion Sensor (AS312)
-    * Camera OAK-1 PoE
+    * Caméra OAK-1 PoE
     
 
 ## Logiciels requis
@@ -148,7 +148,7 @@ Arduino<br>
 ## Ressources humaines requises
 
 * TTP, location de matériel
-* Designeuse industrielle; Madame Genevieve 
+* Designeuse industrielle; Madame Geneviève 
 * Les prof du programme TIM
 
 ## Ressources spatiales requises (rangement et locaux)
@@ -159,7 +159,7 @@ Arduino<br>
 * Grand Studio
     * Entreposage
 
-* Petit studio
+* Petit Studio
     * Enregistrement audio
 
 ## Contraintes techniques et potentiels problèmes de production
