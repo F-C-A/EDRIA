@@ -48,11 +48,11 @@ Traversant un hiver froid et glacial, nos explorateurs arrivent en terre inconnu
 ### Lumières & Champignons
 
 ![Moodboard Éclairage](medias/moodboard_ambiance_eclairage.png)
-[Palette de couleurs](https://coolors.co/ffe065-fe81b4-25bcd4-1356b4-71f074)
-[Champignons](https://www.youtube.com/watch?v=GZ8umWHb2j8)
-[Lumièrescdans les arbres](https://www.youtube.com/watch?v=opkbghGGM30)
-[Audioréactivité texture granulaire](https://www.youtube.com/watch?v=HyF5Q9zNhZ0)
-[Ambiance générale](https://www.youtube.com/watch?v=8Nj2O60BJdk)
+![Palette de couleurs](https://coolors.co/ffe065-fe81b4-25bcd4-1356b4-71f074)
+![Champignons](https://www.youtube.com/watch?v=GZ8umWHb2j8)
+![Lumièrescdans les arbres](https://www.youtube.com/watch?v=opkbghGGM30)
+![Audioréactivité texture granulaire](https://www.youtube.com/watch?v=HyF5Q9zNhZ0)
+![Ambiance générale](https://www.youtube.com/watch?v=8Nj2O60BJdk)
 
 ## Scénario, scénarimage ou document audio/visuel
 L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons scintillent à droite et à gauche doucement. À chaque entrée ou sortie par un chemin, un son de fée se fait entendre, pendant que les champignons sur les poteaux autour de l’entrée s’allument et clignotent et la lumière adressable autour s’ouvre aussi. Lorsqu’une personne entre dans la scène, les lumières au centre s'allument et plus de champignons scintillent, pendant qu’une superposition de sons commence dans l’ambiance sonore. Il y a aussi des changements de couleurs dans les autres lumières adressables. Le nombre de champignons qui s’allument et le nombre de sons se superposant dans l’ambiance sonore augmente graduellement selon le nombre de personnes, donc entre 1 et 3 personnes, dans la scène. Toujours dans la graduation, à 4 personnes, il y a de la texture granulaire qui entre dans l’ambiance sonore. Les champignons allumés et les lumières adressables réagissent avec la texture abstraite. Finalement, nous arrivons à un sommet à 5 personnes et un événement intéractif arrive. Lorsque la 5ème personne rentre dans la scène, tous les champignons et les lumières s’éteignent d’un coup pour quelques secondes pendant que l’on entend des voix coupées et ré arrangées de manière générative. Les champignons s’ouvrent de zone en zone, donc autour des entrées, avec les lumières adressables en suivant le son. Finalement, lorsque tous les champignons et  lumières sont allumés, ils clignotent et changent de couleur tout en s’harmonisant avec l’ambiance sonore. À la fin de ce 20 secondes d’évènement spécial, l’ambiance sonore se calme, tout en entendant encore des voix. Les champignons sont tous allumés, dont certains scintillent doucement et rapidement. Toutes les lumières sont allumées, en réagissant avec des transitions douces de couleurs tout en suivant le son. Le sommet a été atteint et l’ambiance générale est en complète harmonie. Si des personnes quittent la scène, il y a une dégradation contraire à la description ci-dessus.
