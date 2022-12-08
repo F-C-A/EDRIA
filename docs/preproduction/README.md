@@ -50,9 +50,9 @@ Traversant un hiver froid et glacial, nos explorateurs arrivent en terre inconnu
 
 ## Tableau d'ambiance (*moodboard*)
 
-### Audio
-[Référence féérique](https://www.youtube.com/shorts/z6iGZhqrxRY)
-[Référence ambiophonique](https://www.youtube.com/shorts/v1o-gKb9cJc)
+### Audio<br>
+[Référence féérique](https://www.youtube.com/shorts/z6iGZhqrxRY) <br>
+[Référence ambiophonique](https://www.youtube.com/shorts/v1o-gKb9cJc)<br>
 
 ### Lumières & Champignons
 
