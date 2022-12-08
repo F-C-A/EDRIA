@@ -37,9 +37,8 @@
 Dans ce projet, nous souhaitons réaliser une expérience interactive reprenant le thème commun de la classe: le Biopunk. La nature et la technologie sont des idées opposées: Elles représentent une dualité. Notre installation devra ressembler à un environnement relax, dans lequel les utilisateurs pourront explorer et interagir avec ce qu'il se trouve autour d'eux. La nature aura donc une apparence "artificielle", grâce à la présence de diverses technologies aux alentours .
 
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
+Traversant un hiver froid et glacial, nos explorateurs arrivent en terre inconnue : Entre Fungus. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous nos yeux. Des champignons lumineux attirent l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et observent ce qui s’y passe : une ambiance sonore joue, les champignons changent de couleur ainsi que de rythme, et les lumières éclairent la scène. 
 
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
 
 ## Tableau d'ambiance (*moodboard*)
 
@@ -53,11 +52,7 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 [Bâtons Lumineux + Champignons Arbes](https://youtu.be/d_sQNly96sA)<br>
 [DMX Arbres](https://youtu.be/opkbghGGM30)<br>
 
-> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
 
-> Insérez directement des captures d'écran et liens vers des médias ici.
-
-[Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
 ## Scénario, scénarimage ou document audio/visuel
 L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons scintillent à droite et à gauche doucement. À chaque entrée ou sortie par un chemin, un son de fée se fait entendre, pendant que les champignons sur les poteaux autour de l’entrée s’allument et clignotent et la lumière adressable autour s’ouvre aussi. Lorsqu’une personne entre dans la scène, les lumières au centre s'allument et plus de champignons scintillent, pendant qu’une superposition de sons commence dans l’ambiance sonore. Il y a aussi des changements de couleurs dans les autres lumières adressables. Le nombre de champignons qui s’allument et le nombre de sons se superposant dans l’ambiance sonore augmente graduellement selon le nombre de personnes, donc entre 1 et 3 personnes, dans la scène. Toujours dans la graduation, à 4 personnes, il y a de la texture granulaire qui entre dans l’ambiance sonore. Les champignons allumés et les lumières adressables réagissent avec la texture abstraite. Finalement, nous arrivons à un sommet à 5 personnes et un événement intéractif arrive. Lorsque la 5ème personne rentre dans la scène, tous les champignons et les lumières s’éteignent d’un coup pour quelques secondes pendant que l’on entend des voix coupées et ré arrangées de manière générative. Les champignons s’ouvrent de zone en zone, donc autour des entrées, avec les lumières adressables en suivant le son. Finalement, lorsque tous les champignons et  lumières sont allumés, ils clignotent et changent de couleur tout en s’harmonisant avec l’ambiance sonore. À la fin de ce 20 secondes d’évènement spécial, l’ambiance sonore se calme, tout en entendant encore des voix. Les champignons sont tous allumés, dont certains scintillent doucement et rapidement. Toutes les lumières sont allumées, en réagissant avec des transitions douces de couleurs tout en suivant le son. Le sommet a été atteint et l’ambiance générale est en complète harmonie. Si des personnes quittent la scène, il y a une dégradation contraire à la description ci-dessus.
@@ -69,14 +64,12 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons
 
 4 modules multimédias (captation des données, interprétation des données, contrôle d'éclairage et effets audiovisuels)
 
-Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
 ## Univers artistique des éléments
 [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2062121_cmontmorency_qc_ca/Ed-9BxbzUDpHkrCtu1kijxwBOhWSUQP5E1gXYZtl-SiaGA)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette section. 
 
 
 ### Plantation 
@@ -89,55 +82,49 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 
 ## Matériel de scénographie requis
 
-> Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
-
-* poteaux
-    * abs
+* Poteaux
+    * Abs
     * 12' x 4"
-    * joint ABS 4"
-    * cap ABS 4"
-    * pattes d'éléphant
-    * pied de sapin
-    * cadre en bois
+    * Joint ABS 4"
+    * Cap ABS 4"
+    * Pattes d'éléphant
+    * Pied de sapin
+    * Cadre en bois
 
-* poteaux milieu 
-    * pont d'éclairage
-    * base
+* Poteau du milieu 
+    * Pont d'éclairage
+    * Base
 
 ## Équipements requis
-> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * speaker Yamaha NS-AW194BL (8x)
+    * Haut-Parleurs Yamaha NS-AW194BL (8x)
     * 8 fils RCA de 7' (M->F)
     * Ampli Fosi Audio TB10A
     * 8 fils ethernet to RCA
 
 * Lumières
     * LED ALITOVE DC 12V WS2811 12mm
-    * arduino ATOM PoE kit with W5500
+    * Arduino ATOM PoE kit with W5500
     * Lumières adressables
-    * cable XLR
+    * Cable XLR
 
 * Électricité
-    * source ethernet
+    * Source ethernet
 
 * Réseau
-    * cables ethernet de longueurs variés
-    * Switch poe 5 ports
+    * Cables Ethernet de longueurs variées
+    * Switch PoE 5 ports
 
 * Ordinateur
-    * raspberry pi
+    * Raspberry pi
 
-* interactivité
+* Interactivité
     * PIR Motion Sensor (AS312)
     * Camera OAK-1 PoE
     
-* Autre
-    * Tout autre élément pertinent
 
 ## Logiciels requis
-> Liste des logiciels requis, version ainsi que leurs dépendences
 
 * [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
     * [node-osc](https://github.com/MylesBorins/node-osc)
@@ -146,14 +133,12 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 * [Open stage control](https://openstagecontrol.ammd.net/)
 
 ## Ressources humaines requises
-> Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
 * Designeuse industrielle; Madame Genevieve 
 * Les prof du programme TIM
 
 ## Ressources spatiales requises (rangement et locaux)
-> Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Lieu Extérieur
     * Déploiement
@@ -165,7 +150,6 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
     * Enregistrement audio
 
 ## Contraintes techniques et potentiels problèmes de production
-> Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
@@ -203,7 +187,6 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 https://github.com/F-C-A/ENTRE-FUNGUS/issues
 
 ## Rôles et responsabilités des membres de l'équipe
-> Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
 **Mirvel**
 - Installation de la pièce centrale;
