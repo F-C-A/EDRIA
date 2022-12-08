@@ -59,7 +59,7 @@ Traversant un hiver froid et glacial, nos explorateurs arrivent en terre inconnu
 [Moodboard Éclairage](medias/moodboard_ambiance_eclairage.png)<br>
 [Palette de couleurs](https://coolors.co/ffe065-fe81b4-25bcd4-1356b4-71f074)<br>
 [Champignons](https://www.youtube.com/watch?v=GZ8umWHb2j8)<br>
-[Lumièrescdans les arbres](https://www.youtube.com/watch?v=opkbghGGM30)<br>
+[Lumières dans les arbres](https://www.youtube.com/watch?v=opkbghGGM30)<br>
 [Audioréactivité texture granulaire](https://www.youtube.com/watch?v=HyF5Q9zNhZ0)<br>
 [Ambiance générale](https://www.youtube.com/watch?v=8Nj2O60BJdk)<br>
 
