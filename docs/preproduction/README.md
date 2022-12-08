@@ -139,11 +139,10 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons
 
 ## Logiciels requis
 
-Logiciels: <br>
-FL Studio<br>
-VCV Rack<br>
-TouchDesigner<br>
-Arduino<br>
+FL Studio (Version 21.0.0.3324)<br>
+VCV Rack (Version 2.2.1) <br>
+TouchDesigner (Version 2022.29850) <br>
+Arduino IDE (Version 2.0.3) <br>
 
 ## Ressources humaines requises
 
