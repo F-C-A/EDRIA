@@ -121,8 +121,8 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons
 * Audio
     * Haut-Parleurs Yamaha NS-AW194BL (8x)
     * 8 fils RCA de 7' (M->F)
-    * Amplificateur Fosi Audio TB10A
-    * 8 fils Ethernet to RCA
+    * Amplificateur 
+   
 
 * Lumières
     * LED ALITOVE DC 12V WS2811 12mm
