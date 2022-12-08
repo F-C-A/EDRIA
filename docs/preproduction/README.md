@@ -89,6 +89,10 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons
 
 ![exemple de schema](medias/schema_connection.png)
 
+### Schéma de construction
+
+![exemple de schema](medias/scheman_base_poteaux.png)
+
 ## Matériel de scénographie requis
 
 * Poteaux
@@ -206,16 +210,16 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues
 - Installation de la pièce centrale;
 - Installation des poteaux extérieur;
 - Support de la création des champignons;
+- Production à grande échelle des champignons;
 
 Liste des tâches dans Git Hub:  
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/9 
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/10
 
 **Gabriel**
-- Création des différentes transitions de 
-ères qui seront jouées par rapport au nombre de personnes détectées.
-- Création d'une animation de lumières d'environ 10-20 secondes au climax (lorsqu'il y a 5 personnes de détectées).
-- Programmation de l'audio réactivité dans TouchDesigner des lumières lorsque des textures granulaires jouent.
+- Création des différentes transitions de lumières qui seront jouées par rapport au nombre de personnes détectées;
+- Création d'une animation de lumières d'environ 10-20 secondes au climax (lorsqu'il y a 5 personnes de détectées);
+- Programmation de l'audio réactivité dans TouchDesigner des lumières lorsque des textures granulaires jouent;
 
 Liste des tâches dans Git Hub:
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/11
@@ -225,18 +229,18 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues/13
 
 **Elwin**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
-- Coordination technique de l'équipe d'installation et d'intégration
-- documentation du déploiement du projet.
+- Coordination technique de l'équipe d'installation et d'intégration;
+- Documentation du déploiement du projet;
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 **Jean-Christophe**
-- Création des différentes atmosphères audios qui seront jouées par rapport au nombre de personnes détectées dans la zone interactive 
-- Création des paysages sonores sonores;
-- Création d'une atmosphère sonore spéciale d'environ 10-20 secondes au climax (lorsqu'il y a 5 personnes de détectées).
-- Programmation de l'audio réactivité dans TouchDesigner des lumières lorsque des textures granulaires jouent.
+- Création des différentes atmosphères audios qui seront jouées par rapport au nombre de personnes détectées dans la zone interactive ;
+- Création des paysages sonores;
+- Création d'une atmosphère sonore spéciale d'environ 10-20 secondes au climax (lorsqu'il y a 5 personnes de détectées);
+- Programmation de la réactivité du son à l'entrée ainsi qu'à la sortie d'une personne;
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
@@ -252,12 +256,12 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMom
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 **Meryem**
-- Coordination de l'équipe d'intégration
-- Création des différentes atmosphères et zones de champignons 
-- Création d'une animation de lumières des champignons d'environ 10-20 secondes au climax (5 personnes)
-- Programmation de l'audio réactivité des lumières des champignons lorsque les textures granulaires jouent
-- Progammation de la réactivité des lumières des champignons à l'entrée et à la une sortie d'une personne
-- Programmation de la réactivité du nombres de champignons allumés selon le nombre de personnes (entre 1 et 5)
+- Coordination de l'équipe d'intégration;
+- Création des différentes atmosphères et zones de champignons;
+- Création d'une animation de lumières des champignons d'environ 10-20 secondes au climax (5 personnes);
+- Programmation de l'audio réactivité des lumières des champignons lorsque les textures granulaires jouent;
+- Progammation de la réactivité des lumières des champignons à l'entrée et à la une sortie d'une personne;
+- Programmation de la réactivité du nombres de champignons allumés selon le nombre de personnes (entre 1 et 5);
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
@@ -267,7 +271,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Coordination de l'équipe d'installation;
 - Installation des poteaux ;
 - Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
+- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules;
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
