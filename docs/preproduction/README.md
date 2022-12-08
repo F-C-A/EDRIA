@@ -87,7 +87,7 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/livestream_branchements.png)
+![exemple de schema](medias/schema_connection.png)
 
 ## Matériel de scénographie requis
 
