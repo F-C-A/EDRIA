@@ -1,5 +1,4 @@
 # Préproduction
-> C'est ici qu'on dépose les éléments de la préproduction.
 
 # Table des matières
 1. [Intention ou concept](#Intention-ou-concept)
