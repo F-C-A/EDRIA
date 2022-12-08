@@ -31,7 +31,7 @@
 ![Cartographie 1](medias/plan_numéroté_vrai_2.png)
 ![Cartographie 1](medias/plan_direction_capteur.png)
 ### Plan d'éclairage des lumières adressables
-![Plan Lumières Adressables](medias/plan.png)
+![Plan Lumières Adressables](medias/plan.png) <br>
 Carré noir = Poteau central <br>
 Carré rouges = Lumières adressables (7) <br>
 Lignes noires = Angle fictif des lumières adressables <br>
