@@ -215,6 +215,7 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues
 Liste des tâches dans Git Hub:  
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/9 
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/10
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/28
 
 **Gabriel**
 - Création des différentes transitions de lumières qui seront jouées par rapport au nombre de personnes détectées;
@@ -231,10 +232,13 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues/13
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Coordination technique de l'équipe d'installation et d'intégration;
 - Documentation du déploiement du projet;
+- Tester la mise en ligne du projet;
+- Tenir le journal hebdomadaire de l'équipe;
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/7
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/8
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/14
 
 **Jean-Christophe**
 - Création des différentes atmosphères audios qui seront jouées par rapport au nombre de personnes détectées dans la zone interactive ;
@@ -243,8 +247,10 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Programmation de la réactivité du son à l'entrée ainsi qu'à la sortie d'une personne;
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/15
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/16
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/17
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/27
 
 **Loic**
 - Installation de la pièce centrale;
@@ -252,8 +258,9 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Coordination de la création et de l'integration champignons;
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/9
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/18
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/19
 
 **Meryem**
 - Coordination de l'équipe d'intégration;
@@ -264,8 +271,11 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Programmation de la réactivité du nombres de champignons allumés selon le nombre de personnes (entre 1 et 5);
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/22
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/23
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/24
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/25
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/26
 
 **Dominic**
 - Coordination de l'équipe d'installation;
@@ -274,11 +284,12 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules;
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/10
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/20
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/21
 
 **Tâches pas encore attribuées**  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
+https://github.com/F-C-A/ENTRE-FUNGUS/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
