@@ -97,6 +97,15 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons
 
 ![exemple de schema](medias/schema_connection_complet.png)
 
+
+ ### Emplacement 
+ 
+ ![Emplacement](medias/avant_exemple.png)
+ 
+ ### Produit Final
+ 
+ ![Produit Final](medias/exemple_produit.png)
+
 ### Champignons 
 
 ![exemple de fungus](medias/champi.png)
