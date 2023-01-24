@@ -1,5 +1,5 @@
 # Journal de "Loic Delorme"
-![portrait du participant ](../web/medias/participants/loic.jpg)
+![portrait du participant ](../web/medias/participants/loic.png)
 
 heloooooooooooooooooooo
 
