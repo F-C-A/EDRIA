@@ -1,5 +1,6 @@
 # Journal de "Gabriel Leblanc"
 
+![portrait du participant](../web/medias/participants/gab.png)
 bonchour je m'appelle gibrael
 
 * [Semaine 1](#semaine-1)
