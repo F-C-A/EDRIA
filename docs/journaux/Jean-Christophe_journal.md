@@ -15,7 +15,7 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
+- Wesh vous etes des me-. 
 - Fusce euismod ornare dolor. 
 - Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
 - Praesent viverra tristique malesuada. 
@@ -31,9 +31,9 @@ ou
 ![ici est une description de l'image](medias/photoshop.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
