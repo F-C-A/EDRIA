@@ -1,5 +1,5 @@
 # Journal de "Jean-Christophe Zephir"
-![portrait du participant ](../web/medias/participants/jc.jpg)
+![portrait du participant ](../web/medias/participants/jc.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
