@@ -1,5 +1,5 @@
-# Journal de "Meryem Berbiche"
-![portrait du participant ](../web/medias/participants/meryem.JPG)
+# Journal de Meryem Berbiche
+![portrait du participant ](../web/medias/participants/meryem.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
