@@ -1,5 +1,4 @@
 # Journal de "Gabriel Leblanc"
-![portrait du participant ](../web/medias/participants/gabriel.JPG)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
