@@ -1,7 +1,6 @@
 # Journal de "Gabriel Leblanc"
 
 ![portrait du participant](../web/medias/participants/gab.png)
-bonchour je m'appelle gibrael
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
@@ -17,48 +16,49 @@ bonchour je m'appelle gibrael
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- Rencontre d'équipe avec Daryl pour montrer notre concept et les différentes composantes du projet.
+
+  -> Simplification de l'audio réactivité. Il y aura plutôt un semblant d'audio réactivité, c'est-à-dire qu'il y aura de l'échantillonnage de vidéos de couleur montées sur l'audio de Jean-Christophe afin de donner un semblant des différentes textures et sons entendus.
+  
+  -> Progression de l'activion des lumières. Au début, 2 lumières, puis les lumières s'allume et interagissent de plus en plus qu'il y a des personnes.
+
+- Rencontre d'équipe pour clarifier l'intention du projet.
+
+  -> Réduction du nombre de lumières adressables DMX de 7 à 4 (les 3 au sol ont été enlevées)
+  
+- Rencontre d'équipe/travail pour modifier et améliorer la préproduction.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![Moi en train de travailler](medias/gab_work.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ ] Assez
-- [x] Peu
+- [x] Assez
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+J'aurais voulu faire un prototypage des couleurs des lumières et peut-être explorer des "patterns" de lumière qui m'intéresserait, mais je n'avais pas accès aux DMX de CR34TE.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Cette fin de semaine, je vais commencer à travailler sur des "patterns" de lumières dans QLC+ pour avancer et rattraper un peu le travail que j'aurais voulu faire.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+Étant donné que nous sommes à la première semaine, nous avons moins de travail pour l'instant, puisque notre préproduction est déjà bien avancée.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+- Continuer à avancer la préproduction et faire des modifications où il y a besoin.
+- Essayer d'avancer les lumières dans QLC+ ou en créant des vidéos de couleurs pour MadMapper.
 
 ---
 ## Semaine 2
