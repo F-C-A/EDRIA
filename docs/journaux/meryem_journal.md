@@ -14,51 +14,38 @@
 
 ## Semaine 1
 
-TEST POUR DARYL POUR MONTRER QUE ÇA MARCHE! JE M'APPELLE MERYEM BERBICHE
-
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+-  Rencontre avec Daryl sur le concept
+-  Amélioration du concept
+-  Amélioration de l'intéractivité
+-  Rencontre du comité technique avec Guillaume
+-  Meilleure compréhension des emplacements et projets des autres équipes
+-  Changement de la plantation électrique
+-  Meilleure compréhension de l'intégration par rapport à la centralisation informatique
+-  Meilleure compréhension du budget 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![Rencontre d'équipe](medias/selphie.jpg)
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+J'ai commencé le début de semaine avec plusieurs stress et questionnements. Le premier cours m'a donné encore plus de questionnements sur la faisabilité d'être à l'extérieur avec le budget et le temps alloué. Je suis partie voir Guillaume après personnellement pour discuter des projets et lui poser des questions. Nous avons ensuite eu la rencontre avec Daryl, qui nous a questionné sur le concept. Je lui ai posé plusieurs questions par rapport à nos idées et par rapport au concept. Après une bonne rencontre d'équipe, nous avons modifié l'intéractivité afin de mieux faire comprendre notre intention aux intéracteurs. De plus, nous avons eu la rencontre de comité technique avec Guillaume. J'ai posé vraiment beaucoup de questions par rapport à nos connexions électriques. Nous avons dû alors tout changer nos plantations et passer de modulaire à centralisé. Finalement, j'ai demandé à Guillaume d'apporter sa caméra POE afin de faire des tests. J'ai donc terminé la semaine satisfaite des nouvelles informations que j'ai eu, moins stressé et fière que j'ai posé autant de questions. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [X] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
-
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+
 
 ---
 ## Semaine 2

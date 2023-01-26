@@ -23,7 +23,7 @@ Mise en ligne du journal de création d'équipe (site Web)
 Commencer prototypage (s'il y a lieu)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
+![ici est une description de l'image](medias/selphie.jpg)
 ou
 ![ici est une description de l'image](medias/console.jpg)
 ou
