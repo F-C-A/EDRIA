@@ -16,6 +16,9 @@
 
 ### Résumé des réalisations effectuées
 - faire le lien entre le journal .html et .md
+- rencontre sur l'attraction du projet. 
+Conclusion : nous avons décidé d'utiliser le poteau du milieu comme baromètre qui compte le nombre de personne dans l'installation, et les poteaux extérieur pour faire de l'interactivité avec le sensor qui détecte l'arrivée et le départ des utilisateur. 
+- rencontre comité  
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/motionCapture.jpg)
