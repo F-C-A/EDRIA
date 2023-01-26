@@ -16,9 +16,9 @@
 
 ### Résumé des réalisations effectuées
 - faire le lien entre le journal .html et .md
-- rencontre sur l'attraction du projet. 
-Conclusion : nous avons décidé d'utiliser le poteau du milieu comme baromètre qui compte le nombre de personne dans l'installation, et les poteaux extérieur pour faire de l'interactivité avec le sensor qui détecte l'arrivée et le départ des utilisateur. 
-- rencontre comité  
+- rencontre sur l'attraction du projet. Conclusion: nous avons décidé d'utiliser le poteau du milieu comme baromètre qui compte le nombre de personne dans l'installation, et les poteaux extérieur pour faire de l'interactivité avec le sensor qui détecte l'arrivée et le départ des utilisateur. 
+- rencontre comité technique. Conclusion: nous avons décidé de centraliser l'interactivité du projet. Les lumières et le son à partir d'un ordinateur placé dans une petite cabane situé à l'exterieur de l'installation, et nous allons faire passer les fils par terre à l'aide de passe-fil.
+- réalisation schéma de branchage centralisé
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/motionCapture.jpg)
@@ -28,16 +28,13 @@ ou
 ![ici est une description de l'image](medias/photoshop.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Les incertitudes restante sur les enjeux techniques relié à notre installation ont été répondu, et nous avons rectifier notre préprod.  
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -47,13 +44,13 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+Il n'y a pas d'écart per say, mais nous avons passé beaucoup à répondre à des questions auxquelles nous aurions du penser la session dernière, pour pouvoir commencé le projet solidement.  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+Nous avons su cerné les enjeux problématique de notre projet et avons posé des questions pertinentes relié à ces dits enjeux et avons fait les ajustement nécessaire.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Les défis de la prochaine semaine seront de s'assuré que nous allons avoir le matériel nécessaire au déployement de notre installation.
 
 ---
 ## Semaine 2
