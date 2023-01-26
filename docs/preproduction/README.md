@@ -31,15 +31,9 @@
 ![Cartographie 1](medias/plan_numéroté_vrai_2.png)
 ![Cartographie 1](medias/plan_direction_capteur.png)
 ### Plan d'éclairage des lumières adressables
-![Plan Lumières Adressables](medias/plan.png) <br>
+![Plan Lumières Adressables](medias/plan_lumiere.PNG) <br>
 Carré noir = Poteau central <br>
-Carré rouges = Lumières adressables (7) <br>
-Lignes noires = Angle fictif des lumières adressables <br>
 1 et 2 = Lumières pointant sur les tables <br>
-3 et 4 = Lumières comblant L,espace vide restant <br>
-5, 6 et 7 = Lumières pointant dans les branches des arbres <br>
-
-
 
 ## Intention de départ
 Dans ce projet, nous souhaitons réaliser une expérience interactive reprenant le thème commun de la classe: le Biopunk. La nature et la technologie sont des idées opposées: Elles représentent une dualité. Notre installation devra ressembler à un environnement relax, dans lequel les utilisateurs pourront explorer et interagir avec ce qu'il se trouve autour d'eux. La nature aura donc une apparence "artificielle", grâce à la présence de diverses technologies aux alentours .
