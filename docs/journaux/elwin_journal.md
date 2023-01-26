@@ -15,7 +15,12 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-test
+-Ajustements de plusieurs aspects github
+
+-Ajustements de la préproduction
+Déterminer qui de l'équipe sera sur le Comité Diffusion et le Comité Technique
+Mise en ligne du journal de création d'équipe (site Web)
+Commencer prototypage (s'il y a lieu)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/motionCapture.jpg)
