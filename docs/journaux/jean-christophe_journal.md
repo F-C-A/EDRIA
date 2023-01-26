@@ -29,7 +29,7 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Mon but cette semaine était de régler plusieurs problèmes techniques que nous avions. Centraliser les communications était dans un de mes objectifs et nous avons décidé d'opter pour cette centralisation des communications donc mes objectifs ont été accompli.
+Mon but cette semaine était de régler plusieurs problèmes techniques que nous avions. Centraliser les communications était un de mes objectifs et nous avons décidé d'opter pour cette centralisation des communications. Mes objectifs sont donc atteints.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Je n'ai pas rencontré de problèmes cette semaine. 
@@ -39,14 +39,13 @@ Je n'ai pas rencontré de problèmes cette semaine.
 - [x] Complètement
 - [ ] Assez
 - [ ] Un peu
-- [ ] 
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 Aucun écart
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Aucun problèmes a ce niveau
+Aucun problème a ce niveau
 
 ### Défis pour la prochaine semaine
 Les défis de la prochaine semaine seront d'avoir complètement terminé la préproduction. Les shémas de connection, le budget finalisé et envoyé, les listes de produits envoyé a cr34te.
