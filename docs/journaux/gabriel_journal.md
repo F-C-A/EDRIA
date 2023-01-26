@@ -27,6 +27,7 @@
   -> Réduction du nombre de lumières adressables DMX de 7 à 4 (les 3 au sol ont été enlevées)
   
 - Rencontre d'équipe/travail pour modifier et améliorer la préproduction.
+- Apporter des modifications au plan de lumières
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Moi en train de travailler](medias/gab_work.jpg)
