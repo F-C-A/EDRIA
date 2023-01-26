@@ -46,7 +46,7 @@ Je n'ai pas rencontré de problèmes cette semaine.
 Aucun écart
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+Aucun problèmes a ce niveau
 
 ### Défis pour la prochaine semaine
 Les défis de la prochaine semaine seront d'avoir complètement terminé la préproduction. Les shémas de connection, le budget finalisé et envoyé, les listes de produits envoyé a cr34te.
