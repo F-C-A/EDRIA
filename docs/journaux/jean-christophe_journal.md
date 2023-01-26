@@ -21,10 +21,6 @@
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/jc_work.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [X] Complètement
@@ -33,10 +29,10 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo.
+Mon but cette semaine était de régler plusieurs problèmes techniques que nous avions. Centraliser les communications était dans un de mes objectifs et nous avons décidé d'opter pour cette centralisation des communications donc mes objectifs ont été accompli.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Je n'ai pas rencontré de problèmes cette semaine. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -47,13 +43,13 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+Aucun écart
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Les défis de la prochaine semaine seront d'avoir complètement terminé la préproduction. Les shémas de connection, le budget finalisé et envoyé, les listes de produits envoyé a cr34te.
 
 ---
 ## Semaine 2
@@ -61,7 +57,7 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![ici est une description de l'image](medias/console.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -99,6 +95,9 @@ Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+
+![ici est une description de l'image](medias/photoshop.jpg)
+
 
 
 
