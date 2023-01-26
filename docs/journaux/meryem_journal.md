@@ -45,7 +45,7 @@ J'ai commencé le début de semaine avec plusieurs stress et questionnements. Le
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
-
+Je vais devoir commencer à mieux comprendre le mapping, afin de ne pas avoir de problèmes dans les prochaines semaines. Le mapping sera très important puisque nous centralisons les informations qui seront relayées aux différentes LEDS que je dois programmer. Aussi, un défi sera de finir la préproduction de façon claire, précise et concise. Finalement, le GitHub devra être complètement à jour et compris par tous.
 
 ---
 ## Semaine 2
