@@ -15,47 +15,47 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
+
+
 -Ajustements de plusieurs aspects github
 
 -Ajustements de la préproduction
-Déterminer qui de l'équipe sera sur le Comité Diffusion et le Comité Technique
-Mise en ligne du journal de création d'équipe (site Web)
-Commencer prototypage (s'il y a lieu)
+
+-Représentants Comité Diffusion et le Comité Technique déterminés
+
+-Mise en ligne du journal d'équipe
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/selphie.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ ] Assez
-- [x] Peu
+- [x ] Assez
+- [] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+Étant donné que c'est la première semaine, il y a beaucoup de planification à faire et les tâches importantes ne sont pas encore amorçées. Cependant, je me dois de rester au courant de toutes les avancées et changements de l'équipe.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Pour l'instant, continuer à faire ce que je fais. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [x] Assez
-- [ ] Un peu
+- [] Assez
+- [x] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
-
+Et bien, nous n'avons pas des échantillons de l'équipement qui nous servira à la réalisation du projet. Une liste de matériel doit être créée afin de pouvoir déterminer l'équipement nécessaire. Nos pourrons ensuite commander le reste en plus grande quantité.
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+M'occuper des tâches administratives en étant le plus à jour possible (en temps réel). 
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Tenter d'avoir le github complètement à jour, avec la liste de matériel prête à être envoyée. É
 
 ---
 ## Semaine 2
