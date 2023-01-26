@@ -32,8 +32,8 @@
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [x ] Assez
-- [] Peu
+- [x] Assez
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
@@ -45,7 +45,7 @@ Pour l'instant, continuer à faire ce que je fais.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [] Assez
+- [ ] Assez
 - [x] Un peu
 - [ ] Pas tout à fait
 
