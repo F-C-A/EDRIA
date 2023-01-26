@@ -5,25 +5,25 @@
     - [Cartographie](#Cartographie)
     - [Intention de départ](#Intention-de-départ)
     - [Synopsis](#Synopsis)
-    - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
-    - [Scénario, scénarimage ou document audio/visuel](#Scénario,-scénarimage-ou-document-audio/visuel)
+    - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(moodboard))
+    - [Scénario, scénarimage ou document audio/visuel](#scénario-scénarimage-ou-document-audiovisuel)
 2. [Contenu multimédia à intégrer](#Contenu-multimédia-à-intégrer)
     - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
-    - [Univers artistique des éléments](#Univers-artistique-des-éléments-centraux)
-3. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
+    - [Univers artistique des éléments](#univers-artistique-des-éléments)
+3. [Planification technique d'un prototype (devis technique)](#planification-technique-dun-prototype-devis-technique)
     - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
-    - [Matériaux requis](#Matériaux-de-scénographie-requis)
-    - [Équipements requis](#Équipements-requis)
+    - [Matériaux requis](#matériel-de-scénographie-requis)
+    - [Équipements requis](#équipements-requis)
     - [Logiciels requis](#Logiciels-requis)
     - [Ressources humaines requises](#Ressources-humaines-requises)
-    - [Ressources spatiales requises (rangement et locaux)](#Ressources-spatiales-requises-(rangement-et-locaux))
-    - [Contraintes techniques et potentiels problèmes de production](#Contraintes-techniques-et-potentiels-problèmes-de-production)
-4. [Planification de la production d'un prototype (budget et étapes de réalisation)](#Planification-de-la-production-(budget-et-étapes-de-réalisation))
+    - [Ressources spatiales requises (rangement et locaux)](#ressources-spatiales-requises-rangement-et-locaux)
+    - [Contraintes techniques et potentiels problèmes de production](#contraintes-techniques-et-potentiels-problèmes-de-production)
+4. [Planification de la production d'un prototype (budget et étapes de réalisation)](#Planification-d'un-prototype-(budget-et-étapes-de-réalisation))
     - [Budget prévisionnel](#Budget-prévisionnel)
     - [Échéancier global](#Échéancier-global)
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
-    - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe)
-    - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
+    - [Rôles et responsabilités des membres de l'équipe](#rôles-et-responsabilités-des-membres-de-léquipe)
+    - [Moments des rencontres d'équipe](#moments-des-rencontres-déquipe)
 
 # Intention ou concept
 ## Cartographie
@@ -64,7 +64,7 @@ Traversant un hiver froid et glacial, nos explorateurs arrivent en terre inconnu
 [Ambiance générale](https://www.youtube.com/watch?v=8Nj2O60BJdk)<br>
 
 ## Scénario, scénarimage ou document audio/visuel
-L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques champignons scintillent sur les poteaux à droite et à gauche doucement. Le poteau du milieu est complètement étein. À chaque entrée ou sortie par un chemin, un son de fée se fait entendre, pendant que les champignons sur les poteaux autour de l’entrée s’allument et clignotent et la lumière adressable autour s’ouvre aussi. Lorsqu’une personne entre dans la scène, les lumières au centre s'allument et plus de champignons scintillent, pendant qu’une superposition de sons commence dans l’ambiance sonore. Le poteau du milieu a les lumières à sa base ouvertes, comme un niveau. Il y a aussi des changements de couleurs dans les autres lumières adressables. Le nombre de champignons qui s’allument et le nombre de sons se superposant dans l’ambiance sonore augmente graduellement selon le nombre de personnes, donc entre 1 et 3 personnes, dans la scène. Toujours dans la gradation, à 4 personnes, il y a de la texture granulaire qui entre dans l’ambiance sonore. Les champignons allumés et les lumières adressables réagissent avec la texture abstraite. Le poteau du milieu a les lumières augmentant niveau par niveau selon le nombre de personnes. Finalement, nous arrivons à un sommet à 5 personnes et un événement multisensoriel se déclenche. Le poteau du milieu est finalement totalement ouvert.Lorsque la 5ème personne rentre dans la scène, tous les champignons et les lumières s’éteignent d’un coup pour quelques secondes pendant que l’on entend des voix coupées et ré-arrangées de manière générative. Les champignons s’ouvrent de zone en zone, donc autour des entrées, avec les lumières adressables en suivant le son. Finalement, lorsque tous les champignons et  lumières sont allumés, ils clignotent et changent de couleur tout en s’harmonisant avec l’ambiance sonore. À la fin de ce 20 secondes d’évènement spécial, l’ambiance sonore se calme, tout en entendant encore des voix. Les champignons sont tous allumés, dont certains scintillent doucement et rapidement. Toutes les lumières sont allumées, dont le poteau  du milieu, en réagissant avec des transitions douces de couleurs tout en suivant le son. Le sommet a été atteint et l’ambiance générale est en complète harmonie. Si des personnes quittent la scène, il y a une dégradation contraire à la description ci-dessus.
+L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de lumières scintillent sur les poteaux à droite et à gauche doucement. Le poteau du milieu est complètement étein. À chaque entrée ou sortie par un chemin, un son de fée se fait entendre, pendant que les boules sur les poteaux autour de l’entrée s’allument et clignotent et la lumière adressable autour s’ouvre aussi. Lorsqu’une personne entre dans la scène, les lumières au centre s'allument et plus de champignons scintillent, pendant qu’une superposition de sons commence dans l’ambiance sonore. Le poteau du milieu a les lumières à sa base ouvertes, comme un niveau. Il y a aussi des changements de couleurs dans les autres lumières adressables. Le nombre de champignons qui s’allument et le nombre de sons se superposant dans l’ambiance sonore augmente graduellement selon le nombre de personnes, donc entre 1 et 3 personnes, dans la scène. Toujours dans la gradation, à 4 personnes, il y a de la texture granulaire qui entre dans l’ambiance sonore. Les champignons allumés et les lumières adressables réagissent avec la texture abstraite. Le poteau du milieu a les lumières augmentant niveau par niveau selon le nombre de personnes. Finalement, nous arrivons à un sommet à 5 personnes et un événement multisensoriel se déclenche. Le poteau du milieu est finalement totalement ouvert.Lorsque la 5ème personne rentre dans la scène, tous les champignons et les lumières s’éteignent d’un coup pour quelques secondes pendant que l’on entend des voix coupées et ré-arrangées de manière générative. Les champignons s’ouvrent de zone en zone, donc autour des entrées, avec les lumières adressables en suivant le son. Finalement, lorsque tous les champignons et  lumières sont allumés, ils clignotent et changent de couleur tout en s’harmonisant avec l’ambiance sonore. À la fin de ce 20 secondes d’évènement spécial, l’ambiance sonore se calme, tout en entendant encore des voix. Les champignons sont tous allumés, dont certains scintillent doucement et rapidement. Toutes les lumières sont allumées, dont le poteau  du milieu, en réagissant avec des transitions douces de couleurs tout en suivant le son. Le sommet a été atteint et l’ambiance générale est en complète harmonie. Si des personnes quittent la scène, il y a une dégradation contraire à la description ci-dessus.
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
@@ -222,28 +222,6 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues
 
 ## Rôles et responsabilités des membres de l'équipe
 
-**Mirvel**
-- Installation de la pièce centrale;
-- Installation des poteaux extérieur;
-- Support de la création des champignons;
-- Production à grande échelle des champignons;
-
-Liste des tâches dans Git Hub:  
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/9 
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/10
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/28
-
-**Gabriel**
-- Création des différentes transitions de lumières qui seront jouées par rapport au nombre de personnes détectées;
-- Création d'une animation de lumières d'environ 10-20 secondes au climax (lorsqu'il y a 5 personnes de détectées);
-- Programmation de l'audio réactivité dans TouchDesigner des lumières lorsque des textures granulaires jouent;
-
-Liste des tâches dans Git Hub:
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/11
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/12
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/13
-
-
 **Elwin**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Coordination technique de l'équipe d'installation et d'intégration;
@@ -255,28 +233,6 @@ Liste des tâches dans Git Hub:
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/7
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/8
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/14
-
-**Jean-Christophe**
-- Création des différentes atmosphères audios qui seront jouées par rapport au nombre de personnes détectées dans la zone interactive ;
-- Création des paysages sonores;
-- Création d'une atmosphère sonore spéciale d'environ 10-20 secondes au climax (lorsqu'il y a 5 personnes de détectées);
-- Programmation de la réactivité du son à l'entrée ainsi qu'à la sortie d'une personne;
-
-Liste des tâches dans Git Hub:  
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/15
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/16
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/17
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/27
-
-**Loic**
-- Installation de la pièce centrale;
-- Installation des LEDs et champignons;
-- Coordination de la création et de l'integration champignons;
-
-Liste des tâches dans Git Hub:  
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/9
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/18
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/19
 
 **Meryem**
 - Coordination de l'équipe d'intégration;
@@ -293,6 +249,29 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues/24
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/25
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/26
 
+**Gabriel**
+- Création des différentes transitions de lumières qui seront jouées par rapport au nombre de personnes détectées;
+- Création d'une animation de lumières d'environ 10-20 secondes au climax (lorsqu'il y a 5 personnes de détectées);
+- Programmation de l'audio réactivité dans TouchDesigner des lumières lorsque des textures granulaires jouent;
+
+Liste des tâches dans Git Hub:
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/11
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/12
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/13
+
+
+**Jean-Christophe**
+- Création des différentes atmosphères audios qui seront jouées par rapport au nombre de personnes détectées dans la zone interactive ;
+- Création des paysages sonores;
+- Création d'une atmosphère sonore spéciale d'environ 10-20 secondes au climax (lorsqu'il y a 5 personnes de détectées);
+- Programmation de la réactivité du son à l'entrée ainsi qu'à la sortie d'une personne;
+
+Liste des tâches dans Git Hub:  
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/15
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/16
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/17
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/27
+
 **Dominic**
 - Coordination de l'équipe d'installation;
 - Installation des poteaux ;
@@ -304,13 +283,23 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues/10
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/20
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/21
 
+**Loic**
+- Installation de la pièce centrale;
+- Installation des LEDs et champignons;
+- Coordination de la création et de l'integration champignons;
+
+Liste des tâches dans Git Hub:  
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/9
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/18
+https://github.com/F-C-A/ENTRE-FUNGUS/issues/19
+
 **Tâches pas encore attribuées**  
 https://github.com/F-C-A/ENTRE-FUNGUS/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **Lundi 10h (1h-2h)** : Rencontre de suivi de projet.
-- **Jeudi 10h (1h-2h)** : Rencontre de suivi de projet.
+- **Mardi 13h (1h-2h)** : Rencontre de suivi de projet.
+- **Jeudi 13h (1h-2h)** : Rencontre de suivi de projet.
 
 
 Autre: 
