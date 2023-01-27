@@ -7,6 +7,8 @@ Tout d'abord, ce retour en classe nous a permis d'effectuer plusieurs réunions 
 
 ![reunions](medias/reunion1.jpg)
 
+Par la suite, nous devons réarranger notre préproduction. En effet, suite aux changements de directions par rapport à notre projet, beaucoup d'équipements et d'installations que nous avions prévu s'en retrouvent altérés. Nous avons refait une liste de notre budget et de nos besoins de matériel en tenant compte de ce que cr34te peut nous offrir. 
+
 ## Semaine 2
 
 ## Semaine 3
