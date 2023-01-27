@@ -229,12 +229,13 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues/8
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/14
 
 **Meryem**
-- Coordination de l'équipe d'intégration;
-- Création des différentes atmosphères et zones de champignons;
-- Création d'une animation de lumières des champignons d'environ 10-20 secondes au climax (5 personnes);
-- Programmation de l'audio réactivité des lumières des champignons lorsque les textures granulaires jouent;
-- Progammation de la réactivité des lumières des champignons à l'entrée et à la une sortie d'une personne;
-- Programmation de la réactivité du nombres de champignons allumés selon le nombre de personnes (entre 1 et 5);
+- Coordination de l'équipe de contenus et intéractivité;
+- Création des différentes atmosphères et zones de lumières;
+- Création d'une animation de lumières d'environ 60 secondes au climax (5 personnes);
+- Programmation de la réactivité des lumières lorsque les textures granulaires jouent;
+- Progammation de la réactivité des lumières sur les poteaux des entrées à l'entrée et à la une sortie d'une personne;
+- Programmation de la réactivité du nombres de lumières allumés selon le nombre de personnes (entre 1 et 5);
+- Programmation des différents niveaux sur le poteau du milieu selon le nombre de personnes (entre 1 et 5);
 
 Liste des tâches dans Git Hub:  
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/22
@@ -244,9 +245,10 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues/25
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/26
 
 **Gabriel**
-- Création des différentes transitions de lumières qui seront jouées par rapport au nombre de personnes détectées;
-- Création d'une animation de lumières d'environ 10-20 secondes au climax (lorsqu'il y a 5 personnes de détectées);
-- Programmation de l'audio réactivité dans TouchDesigner des lumières lorsque des textures granulaires jouent;
+- Création des différentes atmosphères des fixtures de lumières sur le poteau central;
+- Création d'une animation de lumières d'environ 60 secondes au climax (lorsqu'il y a 5 personnes de détectées);
+- Création des différentes vidéos réactives lorsqu'il y a des textures granulaires;
+- Création des différentes vidéos réactives de "patterns" de lumières qui seront jouées par rapport à l'audio et au nombre de personnes détectées;
 
 Liste des tâches dans Git Hub:
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/11
@@ -255,9 +257,9 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues/13
 
 
 **Jean-Christophe**
-- Création des différentes atmosphères audios qui seront jouées par rapport au nombre de personnes détectées dans la zone interactive ;
+- Création des différentes atmosphères audios qui seront jouées par rapport au nombre de personnes détectées dans la zone interactive;
 - Création des paysages sonores;
-- Création d'une atmosphère sonore spéciale d'environ 10-20 secondes au climax (lorsqu'il y a 5 personnes de détectées);
+- Création d'une atmosphère sonore spéciale d'environ 60 secondes au climax (lorsqu'il y a 5 personnes de détectées);
 - Programmation de la réactivité du son à l'entrée ainsi qu'à la sortie d'une personne;
 
 Liste des tâches dans Git Hub:  
@@ -267,10 +269,10 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues/17
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/27
 
 **Dominic**
-- Coordination de l'équipe d'installation;
-- Installation des poteaux ;
-- Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules;
+- Coordination de l'équipe d'installation et d'intégration;
+- Direction artistique;
+- Installation de la caméra, des détecteurs de mouvements et des fixtures;
+- Branchement et connections;
 
 Liste des tâches dans Git Hub:  
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/10
@@ -279,8 +281,9 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues/21
 
 **Loic**
 - Installation de la pièce centrale;
-- Installation des LEDs et champignons;
-- Coordination de la création et de l'integration champignons;
+- Installation des champignons;
+- Coordination de la création et de l'intégration des champignons;
+- Programmation des relais de connections Arduino et PureData;
 
 Liste des tâches dans Git Hub:  
 https://github.com/F-C-A/ENTRE-FUNGUS/issues/9
