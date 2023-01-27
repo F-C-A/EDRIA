@@ -107,44 +107,44 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 ## Matériel de scénographie requis
 
 * Poteaux
-    * Abs
-    * 12' x 4"
-    * Joint ABS 4"
-    * Cap ABS 4"
-    * Pattes d'éléphant
-    * Pied de sapin
-    * Cadre en bois
+    * Pont d'éclairage (cr34te)
+        * 1' x 1' x 8'
 
 * Poteau du milieu 
-    * Pont d'éclairage
-    * Base
-
+    * Pont d'éclairage (cr34te)
+        * 2' x 2' x 8'
+        * 2' x 2' x 4'
 ## Équipements requis
 
 * Audio
     * Haut-Parleurs Yamaha NS-AW194BL (8x)
-    * 8 fils RCA de 7' (M->F)
+    * fils 2 connecteur 14 gauge
     * Amplificateur 
+    * carte de son
    
 
 * Lumières
     * LED ALITOVE DC 12V WS2811 12mm
     * Arduino ATOM PoE kit with W5500
     * Lumières adressables
-    * Câble XLR
+    * DMX Dot 5W (cr34te)
+    * Boule Lumineuse 200mm (cr34te)
+    * Boule Lumineuse 36" (cr34te)
+    * Tubes Opal 1M (cr34te)
+    
 
 * Électricité
     * Source Ethernet
 
 * Réseau
     * Cables Ethernet de longueurs variées
-    * Switch PoE 5 ports
+    * Switch PoE 16 ports
 
 * Ordinateur
-    * Raspberry Pi
+    * capteur
 
 * Interactivité
-    * PIR Motion Sensor (AS312)
+    * **capteur de mouvement a déterminer**
     * Caméra OAK-1 PoE
     
 
@@ -152,7 +152,7 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 
 FL Studio (Version 21.0.0.3324)<br>
 VCV Rack (Version 2.2.1) <br>
-TouchDesigner (Version 2022.29850) <br>
+madmapper (Version 2022.29850) <br>
 Arduino IDE (Version 2.0.3) <br>
 
 ## Ressources humaines requises
