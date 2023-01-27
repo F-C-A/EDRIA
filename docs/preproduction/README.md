@@ -109,11 +109,20 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 * Poteaux
     * Pont d'éclairage (cr34te)
         * 1' x 1' x 8'
-
-* Poteau du milieu 
-    * Pont d'éclairage (cr34te)
         * 2' x 2' x 8'
         * 2' x 2' x 4'
+    
+    * specifique
+        * poteau 1
+            * 
+        * poteau 2
+        * poteau 3
+        * poteau 4
+        * poteau 5
+        * poteau 6
+        * poteau 7
+        * poteau 8
+        * poteau M
 ## Équipements requis
 
 * Audio
