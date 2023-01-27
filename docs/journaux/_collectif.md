@@ -5,7 +5,7 @@
 
 Tout d'abord, ce retour en classe nous a permis d'effectuer plusieurs réunions d'équipe, entre nous et avec les professeurs, afin de réorganiser nos idées et redéfinir nos priorités par rapport au projet. 
 
-
+(medias/reunion1.jpg)
 
 ## Semaine 2
 
