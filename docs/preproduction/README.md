@@ -81,7 +81,7 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/schema_connection.png)
+![exemple de schema](medias/schema_connection_general_1.png)
 
 ### Schéma de construction
 
