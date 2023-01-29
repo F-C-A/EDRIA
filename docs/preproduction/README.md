@@ -170,6 +170,7 @@ Arduino IDE (Version 2.0.3) <br>
 * TTP, location de matériel
 * Designeuse industrielle; Madame Geneviève 
 * Les prof du programme TIM
+* Cr34te (équipement et installation)
 
 ## Ressources spatiales requises (rangement et locaux)
 
