@@ -74,19 +74,9 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 
-
-### Plantation 
-
-![exemple de schema](medias/20xx.jpg)
-
 ### Schéma de branchement général
 
 ![exemple de schema](medias/schema_connection_general_1.png)
-
-### Schéma complet
-
-![exemple de schema](medias/schema_connection_complet.png)
-
 
  ### Emplacement 
  
