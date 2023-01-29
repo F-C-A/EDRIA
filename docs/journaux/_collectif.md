@@ -11,6 +11,10 @@ Par la suite, nous devons réarranger notre préproduction. En effet, suite aux 
 
 ![budget](medias/budget1.PNG)
 
+Nous avons prévu de tourner la vidéo de présentation de préproduction dans le weekend à venir, il faut donc une préproduction complète à temps. 
+
+Nous avons bien hâte d'avoir accès à des échantillons du matériel de cr34te!
+
 ## Semaine 2
 
 ## Semaine 3
