@@ -30,6 +30,8 @@
 
 ![Cartographie 1](medias/plan_numéroté_vrai_2.png)
 ![Cartographie 1](medias/plan_direction_capteur.png)
+### Schéma des passe fils.
+![Plan Lumières Adressables](medias/schema_electrique.png) <br>
 ### Plan d'éclairage des lumières adressables
 ![Plan Lumières Adressables](medias/plan_lumiere.PNG) <br>
 Carré noir = Poteau central <br>
