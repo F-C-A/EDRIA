@@ -128,7 +128,7 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
     * Lumières adressables
     * DMX Dot 5W (cr34te)
     * Boule Lumineuse 200mm (cr34te)
-    * Boule Lumineuse 36" (cr34te)
+    * Boule Lumineuse 36" (Cr34te)
     * Tubes Opal 1M (cr34te)
     * SRTING FESTOON (cr34te)
     * COLORado 2 Solo (cr34te)
