@@ -232,30 +232,23 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues
 **Elwin**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Coordination technique de l'équipe d'installation et d'intégration;
-- Documentation du déploiement du projet;
+- Documentation du déploiement du projet; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/14)
 - Tester la mise en ligne du projet; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/7)
-- Tenir le journal hebdomadaire de l'équipe;
+- Tenir le journal hebdomadaire de l'équipe; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/8)
 
-Liste des tâches dans Git Hub:  
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/7
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/8
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/14
+
 
 **Meryem**
 - Coordination de l'équipe de contenus et intéractivité;
-- Création des différentes atmosphères et zones de lumières;
-- Création d'une animation de lumières d'environ 60 secondes au climax (5 personnes);
-- Programmation de la réactivité des lumières lorsque les textures granulaires jouent;
-- Progammation de la réactivité des lumières sur les poteaux des entrées à l'entrée et à la une sortie d'une personne;
-- Programmation de la réactivité du nombres de lumières allumés selon le nombre de personnes (entre 1 et 5);
-- Programmation des différents niveaux sur le poteau du milieu selon le nombre de personnes (entre 1 et 5);
+- Création des différentes atmosphères et zones de lumières; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/22)
+- Création d'une animation de lumières d'environ 60 secondes au climax (5 personnes); (https://github.com/F-C-A/ENTRE-FUNGUS/issues/23)
+- Programmation de la réactivité des lumières lorsque les textures granulaires jouent; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/24)
+- Progammation de la réactivité des lumières sur les poteaux des entrées à l'entrée et à la une sortie d'une personne; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/25)
+- Programmation de la réactivité du nombres de lumières allumés selon le nombre de personnes (entre 1 et 5); (https://github.com/F-C-A/ENTRE-FUNGUS/issues/26)
+- Programmation des différents niveaux sur le poteau du milieu selon le nombre de personnes (entre 1 et 5); (https://github.com/F-C-A/ENTRE-FUNGUS/issues/46)
 
 Liste des tâches dans Git Hub:  
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/22
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/23
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/24
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/25
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/26
+
 
 **Gabriel**
 - Création des différentes atmosphères des fixtures de lumières sur le poteau central;
