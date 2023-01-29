@@ -206,7 +206,7 @@ Arduino IDE (Version 2.0.3) <br>
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget.png)
+![Budget prévisionnel](medias/budget1.JPG)
 
 [Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/FONGUSAMONGUS/EdlGhdyy8N1BpC-nrMZU9iABkAA59kKl6h62ncfrJwSruw?e=2n2DG0)
 
