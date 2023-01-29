@@ -26,6 +26,11 @@
     - [Moments des rencontres d'équipe](#moments-des-rencontres-déquipe)
 
 # Intention ou concept
+
+## Intention de départ
+Dans ce projet, nous souhaitons réaliser une expérience interactive amenant les individus à se rassembler pour créer un univers de plus en plus complet, tout en suivant le thème commun de la classe: le Biopunk. La nature et la technologie sont des idées opposées: elles représentent une dualité. La nature aura donc une apparence "artificielle", grâce à la présence de diverses technologies aux alentours. 
+
+
 ## Cartographie
 
 ![Cartographie 1](medias/plan_numéroté_vrai_2.png)
@@ -34,9 +39,6 @@
 ![Plan Lumières Adressables](medias/schema_electrique.png) <br>
 ### Plan d'éclairage des lumières adressables
 ![Plan Lumières Adressables](medias/plan_fixtures.png) <br>
-
-## Intention de départ
-Dans ce projet, nous souhaitons réaliser une expérience interactive amenant les individus à se rassembler pour créer un univers de plus en plus complet, tout en suivant le thème commun de la classe: le Biopunk. La nature et la technologie sont des idées opposées: elles représentent une dualité. La nature aura donc une apparence "artificielle", grâce à la présence de diverses technologies aux alentours. 
 
 ## Synopsis
 Traversant un hiver froid et glacial, nos explorateurs arrivent en terre inconnue : Entre Fungus. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous nos yeux. Des champignons lumineux attirent l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et observent ce qui s’y passe : une ambiance sonore joue, les champignons changent de couleur ainsi que de rythme, et les lumières éclairent la scène. 
@@ -49,13 +51,13 @@ Traversant un hiver froid et glacial, nos explorateurs arrivent en terre inconnu
 [Référence ambiophonique](https://www.youtube.com/shorts/v1o-gKb9cJc)<br>
 
 ### Lumières & Champignons
-
-[Moodboard Éclairage](medias/moodboard_ambiance_eclairage.png)<br>
 [Palette de couleurs](https://coolors.co/ffe065-fe81b4-25bcd4-1356b4-71f074)<br>
 [Champignons](https://www.youtube.com/watch?v=GZ8umWHb2j8)<br>
 [Lumières dans les arbres](https://www.youtube.com/watch?v=opkbghGGM30)<br>
 [Audioréactivité texture granulaire](https://www.youtube.com/watch?v=HyF5Q9zNhZ0)<br>
 [Ambiance générale](https://www.youtube.com/watch?v=8Nj2O60BJdk)<br>
+
+![Moodboard Éclairage](medias/moodboard_ambiance_eclairage.png)<br>
 
 ## Scénario, scénarimage ou document audio/visuel
 L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de lumières scintillent sur les poteaux à droite et à gauche doucement. Le poteau du milieu est complètement éteint. À chaque entrée ou sortie par un chemin, un son de fée se fait entendre, pendant que les boules sur les poteaux autour de l’entrée s’allument et clignotent. Lorsqu’une personne entre dans la scène, plus de boules de lumières scintillent pendant qu’une superposition de sons commence dans l’ambiance sonore. Le poteau du milieu a les lumières à sa base ouvertes, avec des champignons, comme un premier niveau. Il y a aussi des changements de couleurs dans les autres lumières adressables. Le nombre de boules de lumières qui s’allument et le nombre de sons se superposant dans l’ambiance sonore augmente graduellement selon le nombre de personnes, donc entre 1 et 3 personnes, dans la scène. Toujours dans la gradation, à 4 personnes, il y a de la texture granulaire qui entre dans l’ambiance sonore. Les lumières allumées et les lumières adressables réagissent avec la texture abstraite. Le poteau du milieu a des lumières et champignons augmentant niveau par niveau selon le nombre de personnes. Finalement, nous arrivons à un sommet à 5 personnes et un événement multisensoriel se déclenche. Le poteau du milieu est finalement totalement ouvert. Lorsque la 5ème personne rentre dans la scène, toutes les boules de lumières et les lumières s’éteignent d’un coup pendant quelques secondes pendant que l’on entend des voix coupées et ré-arrangées de manière générative. Les boules de lumières s’ouvrent de zone en zone, donc autour des entrées avec les lumières adressables en suivant le son. Finalement, lorsque tous les boules de lumières et  lumières sont allumés, ils clignotent et changent de couleur tout en s’harmonisant avec l’ambiance sonore. À la fin de ce 20 secondes d’évènement spécial, l’ambiance sonore se calme, tout en entendant encore des voix. Les boules de lumières sont toutes allumées, dont certaines scintillent doucement et rapidement. Toutes les lumières sont allumées, dont le poteau  du milieu, en réagissant avec des transitions douces de couleurs tout en suivant le son. Le sommet a été atteint et l’ambiance générale est en complète harmonie. Si des personnes quittent la scène, il y a une dégradation contraire à la description ci-dessus.
