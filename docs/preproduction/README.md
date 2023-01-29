@@ -214,9 +214,14 @@ Arduino IDE (Version 2.0.3) <br>
 https://github.com/F-C-A/ENTRE-FUNGUS/milestones
 
 *Dates importantes :*
-- Première itération : 31 janvier 2023
-- Prototype finale : 14 février 2023
-- Présentation des projets devant public : jeudi 25 mars (soir)
+- Visite à l'UQAM - Pavillon Emery (présentation projet): 6 février de 14h à 16h;
+- Générale technique en studio: vendredi 17 mars au matin;
+- Début de la diffusion: lundi 20 mars, 13h;
+- Diffusion des projets en mode autonome: lundi 20 au jeudi 23 mars;
+- Présentation aux étudiant.es de 1re année: vendredi 17 mars (9h50) et jeudi 23 mars (9h50 et 13h30);
+- Présentation aux étudiant.es de l'UQAM: date à venir;
+- Vernissage devant public : jeudi 23 mars 18h30;
+- Démontage: vendredi 24 mars.
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
