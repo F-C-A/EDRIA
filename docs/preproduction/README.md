@@ -116,99 +116,45 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
             * boule lumineuse 200mm (cr34te)
             * string festoon (cr34te)
         * poteau 2
-            * boule lumineuse 200mm (cr34te)
-            * string festoon (cr34te)
         * poteau 3
-            * speaker
-            * détecteur de mouvement
-            * arduino
-            * boule lumineuse 200mm (cr34te)
-            * string festoon (cr34te)
         * poteau 4
-            * speaker
-            * détecteur de mouvement
-            * arduino
-            * boule lumineuse 200mm (cr34te)
-            * string festoon (cr34te)
         * poteau 5
-            * boule lumineuse 200mm (cr34te)
-            * string festoon (cr34te)
         * poteau 6
-            * boule lumineuse 200mm (cr34te)
-            * string festoon (cr34te)
         * poteau 7
-            * speaker
-            * détecteur de mouvement
-            * arduino
-            * boule lumineuse 200mm (cr34te)
-            * string festoon (cr34te)
         * poteau 8
-            * speaker
-            * détecteur de mouvement
-            * arduino
-            * boule lumineuse 200mm (cr34te)
-            * string festoon (cr34te)
         * poteau M
-            * speaker
-            * LED ALITOVE DC 12V WS2811 12mm
-            * Lumières adressables (x4)
-            * DMX Dot 5W (cr34te)
-            * DMX DOT STRING  (cr34te)
-            * DMX DOT CLEAR (cr34te)
-            * Boule Lumineuse 200mm (cr34te)
-            * Boule Lumineuse 36" (cr34te)
-            * Tubes Opal 0.5M (cr34te)
-            * Tubes Opal 1M (cr34te)
-            * SRTING FESTOON (cr34te)
-            * COLORado 2 Solo (cr34te)
-            * fausse plante
-
-* Cabanon central
-    * mac mini
-    * Carte de son 
-    * Amplificateurs
-    * V-Show Artnet RDM DMX Controller
-
-
 ## Équipements requis
 
 * Audio
     * Haut-Parleurs Yamaha NS-AW194BL (8x)
     * fils 2 connecteur 14 gauge
-    * Amplificateurs
-    * Carte Son Externe USB SPDIF 7.1 StarTech
-    * Taskcam US-16x08
+    * Amplificateur 
+    * carte de son
    
+
 * Lumières
     * LED ALITOVE DC 12V WS2811 12mm
+    * Arduino ATOM PoE kit with W5500
     * Lumières adressables
     * DMX Dot 5W (cr34te)
-    * DMX DOT STRING  (cr34te)
-    * DMX DOT CLEAR (cr34te)
     * Boule Lumineuse 200mm (cr34te)
     * Boule Lumineuse 36" (cr34te)
-    * Tubes Opal 0.5M (cr34te)
     * Tubes Opal 1M (cr34te)
     * SRTING FESTOON (cr34te)
     * COLORado 2 Solo (cr34te)
 
-* Connection / controlleur
-    * V-Show Artnet RDM DMX Controller
-    * CL-PBDF (cr34te) (x3)
-    * Arduino ATOM PoE kit with W5500
-
 * Électricité
-    * Source Ethernet (POE)
+    * Source Ethernet
 
 * Réseau
     * Cables Ethernet de longueurs variées
     * Switch PoE 16 ports
 
 * Ordinateur
-    * 2 MAC Mini 
+    * capteur
 
 * Interactivité
-    * led motion sensor 
+    * **capteur de mouvement a déterminer**
     * Caméra OAK-1 PoE
     
 
@@ -343,9 +289,9 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues?q=is%3Aopen+is%3Aissue+no%3Aassigne
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **Mardi 13h (1h-2h)** : Rencontre de suivi de projet.
-- **Jeudi 13h (1h-2h)** : Rencontre de suivi de projet.
-
+- **Mercredi 9h** : Rencontre avec le comité Technique.
+- **Jeudi 9h** : Rencontre avec le comité communication.
+- **Vendredi 9h** : Rencontre avec le reste dela classe, rapports respectifs de chaque équipe.
 
 Autre: 
 - **À chaque jalon (milestone)** : Rencontre de suivi de projet.
