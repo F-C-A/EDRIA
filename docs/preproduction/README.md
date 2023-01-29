@@ -91,9 +91,6 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
  
  ![Produit Final](medias/exemple_produit.png)
 
-### Champignons 
-
-![exemple de fungus](medias/champi.png)
 
 ## Matériel de scénographie requis
 
