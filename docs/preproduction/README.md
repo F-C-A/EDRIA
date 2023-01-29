@@ -33,7 +33,9 @@
 ### Schéma des passe fils.
 ![Plan Lumières Adressables](medias/schema_electrique.png) <br>
 ### Plan d'éclairage des lumières adressables
-
+![Plan Lumières Adressables](medias/plan_lumiere.PNG) <br>
+Carré noir = Poteau central <br>
+1 et 2 = Lumières pointant sur les tables <br>
 
 ## Intention de départ
 Dans ce projet, nous souhaitons réaliser une expérience interactive amenant les individus à se rassembler pour créer un univers de plus en plus complet, tout en suivant le thème commun de la classe: le Biopunk. La nature et la technologie sont des idées opposées: elles représentent une dualité. La nature aura donc une apparence "artificielle", grâce à la présence de diverses technologies aux alentours. 
@@ -230,69 +232,54 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues
 **Elwin**
  - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe); <br>
  - Coordination technique de l'équipe d'installation et d'intégration; <br>
- - [Documentation du déploiement du projet](https://github.com/F-C-A/ENTRE-FUNGUS/issues/14) <br>
- - Tester la mise en ligne du projet; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/7) <br>
- - Tenir le journal hebdomadaire de l'équipe; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/8) <br>
+ - [Documentation du déploiement du projet;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/14) <br>
+ - [Tester la mise en ligne du projet;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/7) <br>
+ - [Tenir le journal hebdomadaire de l'équipe;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/8) <br>
 
 
 
 **Meryem**
 - Coordination de l'équipe de contenus et intéractivité;
-- Création des différentes atmosphères et zones de lumières; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/22)
-- Création d'une animation de lumières d'environ 60 secondes au climax (5 personnes); (https://github.com/F-C-A/ENTRE-FUNGUS/issues/23)
-- Programmation de la réactivité des lumières lorsque les textures granulaires jouent; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/24)
-- Progammation de la réactivité des lumières sur les poteaux des entrées à l'entrée et à la une sortie d'une personne; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/25)
-- Programmation de la réactivité du nombres de lumières allumés selon le nombre de personnes (entre 1 et 5); (https://github.com/F-C-A/ENTRE-FUNGUS/issues/26)
-- Programmation des différents niveaux sur le poteau du milieu selon le nombre de personnes (entre 1 et 5); (https://github.com/F-C-A/ENTRE-FUNGUS/issues/46)
+- [Création des différentes atmosphères et zones de lumières;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/22)
+- [Création d'une animation de lumières d'environ 60 secondes au climax (5 personnes);](https://github.com/F-C-A/ENTRE-FUNGUS/issues/23)
+- [Programmation de la réactivité des lumières lorsque les textures granulaires jouent;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/24)
+- [Progammation de la réactivité des lumières sur les poteaux des entrées à l'entrée et à la une sortie d'une personne;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/25)
+- [Programmation de la réactivité du nombres de lumières allumés selon le nombre de personnes (entre 1 et 5);](https://github.com/F-C-A/ENTRE-FUNGUS/issues/26)
+- [Programmation des différents niveaux sur le poteau du milieu selon le nombre de personnes (entre 1 et 5);](https://github.com/F-C-A/ENTRE-FUNGUS/issues/46)
 
-Liste des tâches dans Git Hub:  
+
 
 
 **Gabriel**
-- Création des différentes atmosphères des fixtures de lumières sur le poteau central;
-- Création d'une animation de lumières d'environ 60 secondes au climax (lorsqu'il y a 5 personnes de détectées);
-- Création des différentes vidéos réactives lorsqu'il y a des textures granulaires;
-- Création des différentes vidéos réactives de "patterns" de lumières qui seront jouées par rapport à l'audio et au nombre de personnes détectées;
+- [Création des différentes atmosphères des fixtures de lumières sur le poteau central;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/11)
+- [Création d'une animation de lumières d'environ 60 secondes au climax (lorsqu'il y a 5 personnes de détectées);](https://github.com/F-C-A/ENTRE-FUNGUS/issues/12)
+- [Création des différentes vidéos réactives lorsqu'il y a des textures granulaires;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/47)
+- [Création des différentes vidéos réactives de "patterns" de lumières qui seront jouées par rapport à l'audio et au nombre de personnes détectées;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/13)
 
-Liste des tâches dans Git Hub:
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/11
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/12
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/13
+
+
 
 
 **Jean-Christophe**
-- Création des différentes atmosphères audios qui seront jouées par rapport au nombre de personnes détectées dans la zone interactive;
-- Création des paysages sonores;
-- Création d'une atmosphère sonore spéciale d'environ 60 secondes au climax (lorsqu'il y a 5 personnes de détectées);
-- Programmation de la réactivité du son à l'entrée ainsi qu'à la sortie d'une personne;
+- [Création des différentes atmosphères audios qui seront jouées par rapport au nombre de personnes détectées dans la zone interactive;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/15)
+- [Création des paysages sonores;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/16)
+- [Création d'une atmosphère sonore spéciale d'environ 60 secondes au climax (lorsqu'il y a 5 personnes de détectées);](https://github.com/F-C-A/ENTRE-FUNGUS/issues/17)
+- [Programmation de la réactivité du son à l'entrée ainsi qu'à la sortie d'une personne;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/27)
 
-Liste des tâches dans Git Hub:  
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/15
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/16
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/17
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/27
 
 **Dominic**
 - Coordination de l'équipe d'installation et d'intégration;
-- Direction artistique;
-- Installation de la caméra, des détecteurs de mouvements et des fixtures;
-- Branchement et connections;
+- [Direction artistique;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/10)
+- [Installation de la caméra, des détecteurs de mouvements et des fixtures;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/20)
+- [Branchement et connections;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/21)
 
-Liste des tâches dans Git Hub:  
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/10
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/20
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/21
 
 **Loic**
-- Installation de la pièce centrale;
-- Installation des champignons;
-- Coordination de la création et de l'intégration des champignons;
-- Programmation des relais de connections Arduino et PureData;
+- [Installation de la pièce centrale;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/9)
+- [Installation des leds et champignons;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/18)
+- [Coordination de la création et de l'intégration des champignons;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/19)
+- [Programmation des relais de connections Arduino et PureData;](https://github.com/F-C-A/ENTRE-FUNGUS/issues/48)
 
-Liste des tâches dans Git Hub:  
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/9
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/18
-https://github.com/F-C-A/ENTRE-FUNGUS/issues/19
 
 **Tâches pas encore attribuées**  
 https://github.com/F-C-A/ENTRE-FUNGUS/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee+
