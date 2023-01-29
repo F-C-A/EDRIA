@@ -203,6 +203,9 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
     * led motion sensor 
     * Caméra OAK-1 PoE
     
+    
+## Budget prévisionnel
+![Budget prévisionnel](medias/budget1.JPG)
 
 ## Logiciels requis
 
@@ -249,8 +252,6 @@ Arduino IDE (Version 2.0.3) <br>
  | Les champignons peuvent ne pas être à l'épreuve des conditions climatiques | Créer des prototypes/échantillons qui résistent au froid et qui sont protégés. | On a déjà un prototype, mais il n'a pas été testé | 
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
-## Budget prévisionnel
-![Budget prévisionnel](medias/budget1.JPG)
 
 [Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/FONGUSAMONGUS/EdlGhdyy8N1BpC-nrMZU9iABkAA59kKl6h62ncfrJwSruw?e=2n2DG0)
 
