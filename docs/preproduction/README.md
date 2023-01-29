@@ -47,7 +47,7 @@ Traversant un hiver froid et glacial, nos explorateurs arrivent en terre inconnu
 ## Tableau d'ambiance (*moodboard*)
 
 ### Audio<br>
-[Référence féérique](https://github.com/F-C-A/ENTRE-FUNGUS/issues/26) <br>
+[Référence féérique](https://www.youtube.com/shorts/z6iGZhqrxRY) <br>
 [Référence ambiophonique](https://www.youtube.com/shorts/v1o-gKb9cJc)<br>
 
 ### Lumières & Champignons
@@ -232,7 +232,7 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues
 **Elwin**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Coordination technique de l'équipe d'installation et d'intégration;
-- Documentation du déploiement du projet; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/14)
+- [Documentation du déploiement du projet] (https://github.com/F-C-A/ENTRE-FUNGUS/issues/14)
 - Tester la mise en ligne du projet; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/7)
 - Tenir le journal hebdomadaire de l'équipe; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/8)
 
