@@ -232,7 +232,7 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues
 **Elwin**
  - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe); <br>
  - Coordination technique de l'équipe d'installation et d'intégration; <br>
- - [Documentation du déploiement du projet] (https://github.com/F-C-A/ENTRE-FUNGUS/issues/14) <br>
+ - [Documentation du déploiement du projet](https://github.com/F-C-A/ENTRE-FUNGUS/issues/14) <br>
  - Tester la mise en ligne du projet; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/7) <br>
  - Tenir le journal hebdomadaire de l'équipe; (https://github.com/F-C-A/ENTRE-FUNGUS/issues/8) <br>
 
