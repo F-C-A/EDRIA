@@ -233,7 +233,7 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Coordination technique de l'équipe d'installation et d'intégration;
 - Documentation du déploiement du projet;
-- [Tester la mise en ligne du projet;] (https://github.com/F-C-A/ENTRE-FUNGUS/issues/7)
+![Tester la mise en ligne du projet;] (https://github.com/F-C-A/ENTRE-FUNGUS/issues/7)
 - Tenir le journal hebdomadaire de l'équipe;
 
 Liste des tâches dans Git Hub:  
