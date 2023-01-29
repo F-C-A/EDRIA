@@ -79,13 +79,9 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 
 ![exemple de schema](medias/20xx.jpg)
 
-### Schéma de branchement 
+### Schéma de branchement général
 
 ![exemple de schema](medias/schema_connection_general_1.png)
-
-### Schéma de construction
-
-![exemple de schema](medias/schema_base_poteaux.png)
 
 ### Schéma complet
 
@@ -108,13 +104,17 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 
 * Poteaux
     * Pont d'éclairage (cr34te)
-        * 1' x 1' x 8'
+        * 1' x 1' x 8' 
         * 2' x 2' x 8'
         * 2' x 2' x 4'
     
     * specifique
         * poteau 1
-            * 
+            * speaker
+            * détecteur de mouvement
+            * arduino
+            * boule lumineuse 200mm (cr34te)
+            * string festoon (cr34te)
         * poteau 2
         * poteau 3
         * poteau 4
@@ -140,7 +140,8 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
     * Boule Lumineuse 200mm (cr34te)
     * Boule Lumineuse 36" (cr34te)
     * Tubes Opal 1M (cr34te)
-    
+    * SRTING FESTOON (cr34te)
+    * COLORado 2 Solo (cr34te)
 
 * Électricité
     * Source Ethernet
