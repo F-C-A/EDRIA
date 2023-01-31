@@ -144,9 +144,8 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
             * Lumières adressables (x4)
             * DMX Dot 5W (cr34te)
             * DMX DOT STRING  (cr34te)
-            * DMX DOT CLEAR (cr34te)
+            * DMX DOT clean (cr34te)
             * Boule Lumineuse 200mm (cr34te)
-            * Boule Lumineuse 36" (cr34te)
             * Tubes Opal 0.5M (cr34te)
             * Tubes Opal 1M (cr34te)
             * SRTING FESTOON (cr34te)
@@ -164,7 +163,9 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
     * [guirlande](https://www.amazon.ca/-/fr/guirlandes-artificiel-artificielles-d%C3%A9coration-d%C3%A9v%C3%A9nement/dp/B0B4NYLBVZ?ref_=Oct_Oct_d_obs_d_6647015011_1&pd_rd_w=EGtxN&content-id=amzn1.sym.a26ace70-029b-45dd-99a6-bbbb61b20bbb&pf_rd_p=a26ace70-029b-45dd-99a6-bbbb61b20bbb&pf_rd_r=NS71EYDHE8C69G6CR7WB&pd_rd_wg=90Ep1&pd_rd_r=538f1c55-3549-4d72-9945-09f1d838d06e&pd_rd_i=B0B4NYLBVZ&th=1)
     * [lot 3 plantes artificielles](https://www.amazon.ca/-/fr/Dremisland-Lot-plantes-artificielles-suspendre/dp/B09JJRNT3M/ref=lp_6647015011_1_1?th=1)
     * [fejka](https://www.ikea.com/ca/fr/p/fejka-plante-artificielle-en-pot-interieur-exterieur-a-accrocher-40349531/)
-    * 
+    * [fejka](https://www.ikea.com/ca/fr/p/fejka-plante-artificielle-en-pot-interieur-exterieur-a-accrocher-eucalyptus-70466811/)
+    * [fougère artificielle ext.](https://www.veronneau.com/fr/fougere-12-pkf036grgyf-16)
+    * [dieffenbachia vert artificiel](https://www.veronneau.com/fr/dieffenbachia-vert-artificiel-exterieur-18-mtf23287ttgr-3)
 
 
 ## Équipements requis
