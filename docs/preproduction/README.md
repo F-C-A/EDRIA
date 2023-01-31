@@ -146,6 +146,7 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
             * string festoon (cr34te)
         * poteau M
             * speaker
+            * arduino (2x) [lien](https://shop.m5stack.com/products/pir-module)
             * LED ALITOVE DC 12V WS2811 12mm
             * Lumières adressables (x4)
             * DMX Dot 5W (cr34te)
