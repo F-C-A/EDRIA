@@ -107,43 +107,36 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
     * specifique
         * poteau 1
             * speaker
-            * détecteur de mouvement
-            * arduino
-            * boule lumineuse 200mm (cr34te)
             * string festoon (cr34te)
+            * fausse plante
         * poteau 2
             * boule lumineuse 200mm (cr34te)
             * string festoon (cr34te)
+            * fausse plante
         * poteau 3
             * speaker
-            * détecteur de mouvement
-            * arduino
-            * boule lumineuse 200mm (cr34te)
             * string festoon (cr34te)
+            * fausse plante
         * poteau 4
             * speaker
-            * détecteur de mouvement
-            * arduino
-            * boule lumineuse 200mm (cr34te)
             * string festoon (cr34te)
+            * fausse plante
         * poteau 5
-            * boule lumineuse 200mm (cr34te)
+            * speaker
             * string festoon (cr34te)
+            * fausse plante
         * poteau 6
-            * boule lumineuse 200mm (cr34te)
+            * speaker
             * string festoon (cr34te)
+            * fausse plante
         * poteau 7
             * speaker
-            * détecteur de mouvement
-            * arduino
-            * boule lumineuse 200mm (cr34te)
             * string festoon (cr34te)
+            * fausse plante
         * poteau 8
             * speaker
-            * détecteur de mouvement
-            * arduino
-            * boule lumineuse 200mm (cr34te)
             * string festoon (cr34te)
+            * fausse plante
         * poteau M
             * speaker
             * arduino (2x) [lien](https://shop.m5stack.com/products/pir-module)
@@ -165,6 +158,13 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
     * Carte de son 
     * Amplificateurs
     * V-Show Artnet RDM DMX Controller
+
+* Fausse plantes
+    * [fougère](https://www.amazon.ca/-/fr/artificielles-am%C3%A9nagement-paysager-artificielle-ext%C3%A9rieur/dp/B0BN3NNMQR?ref_=Oct_Oct_d_onr_d_6647015011_3&pd_rd_w=AOhWA&content-id=amzn1.sym.ff4b1194-feb0-4d65-8ed9-e093f266f982&pf_rd_p=ff4b1194-feb0-4d65-8ed9-e093f266f982&pf_rd_r=NS71EYDHE8C69G6CR7WB&pd_rd_wg=90Ep1&pd_rd_r=538f1c55-3549-4d72-9945-09f1d838d06e&pd_rd_i=B0BN3NNMQR)
+    * [guirlande](https://www.amazon.ca/-/fr/guirlandes-artificiel-artificielles-d%C3%A9coration-d%C3%A9v%C3%A9nement/dp/B0B4NYLBVZ?ref_=Oct_Oct_d_obs_d_6647015011_1&pd_rd_w=EGtxN&content-id=amzn1.sym.a26ace70-029b-45dd-99a6-bbbb61b20bbb&pf_rd_p=a26ace70-029b-45dd-99a6-bbbb61b20bbb&pf_rd_r=NS71EYDHE8C69G6CR7WB&pd_rd_wg=90Ep1&pd_rd_r=538f1c55-3549-4d72-9945-09f1d838d06e&pd_rd_i=B0B4NYLBVZ&th=1)
+    * [lot 3 plantes artificielles](https://www.amazon.ca/-/fr/Dremisland-Lot-plantes-artificielles-suspendre/dp/B09JJRNT3M/ref=lp_6647015011_1_1?th=1)
+    * [fejka](https://www.ikea.com/ca/fr/p/fejka-plante-artificielle-en-pot-interieur-exterieur-a-accrocher-40349531/)
+    * 
 
 
 ## Équipements requis
