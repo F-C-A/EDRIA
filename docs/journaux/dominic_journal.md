@@ -51,7 +51,10 @@ Les défis de la prochaine semaine seront de s'assuré que nous allons avoir le 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Rencontre d'équipe mardi le 31 janvier. Conclusion: nous avons décidé de se concentré sur le poteau central. Nous allons garder les poteaux extérieurs pour donner une ambience, mais ces-derniers ne seront doté d'aucun détecteur de mouvement. Les poteaux extérieur n'auront qu'une bande LED, des fausses plantes en décoration, et les haut-parleurs. Les amplificateurs nécessaire seront situé dans notre cabine à l'extérieur de l'installation. Tout les éléments intéractifs seront sur le poteau central. Le seule capteur utilisé sera un détecteur de distance.
+- Sélection des fausses plates pour la décoration des poteaux
+- Schéma de connection général
+- design du poteau central
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
