@@ -41,7 +41,7 @@ Dans un univers féerique, rassembler autour d'une sculpture représentant la du
 ![Plan Lumières Adressables](medias/plan_fixtures.png) <br>
 
 ## Synopsis
-Traversant un hiver froid et glacial, nos explorateurs arrivent en terre inconnue : Entre Fungus. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous nos yeux. Des champignons lumineux attirent l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et observent ce qui s’y passe : une ambiance sonore joue, les champignons changent de couleur ainsi que de rythme, et les lumières éclairent la scène. 
+Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnue : Entre Fungus. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous leurs yeux. Une structure centrale attire l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et s'approchent de la dite structure: des lumières s'allument, des sons se déclenchent, et il semblerait que la présence de plusieurs personnes soit nécessaire pour progresser...
 
 
 ## Tableau d'ambiance (*moodboard*)
