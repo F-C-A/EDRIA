@@ -267,7 +267,6 @@ https://github.com/F-C-A/ENTRE-FUNGUS/milestones
 - Générale technique en studio: vendredi 17 mars au matin;
 - Début de la diffusion: lundi 20 mars, 13h;
 - Diffusion des projets en mode autonome: lundi 20 au jeudi 23 mars;
-- Présentation aux étudiant.es de 1re année: vendredi 17 mars (9h50) et jeudi 23 mars (9h50 et 13h30);
 - Présentation aux étudiant.es de l'UQAM: date à venir;
 - Vernissage devant public : jeudi 23 mars 18h30;
 - Démontage: vendredi 24 mars.
