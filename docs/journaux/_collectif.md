@@ -21,6 +21,7 @@ Cette semaine a été riche en rebondissements. En premier lieu, nous avons chan
 
 ![reunions](medias/meeting1.jpg)
 
+En 2e lieu, nous avons refait la vidéo de présentation de la préproduction. Suite aux commentaires des professeurs sur la première, cette 2e vidéo est plus précise et concise. Elle devrait bien permettre à n'importe qui de comprendre la direction de notre projet.
 
 ## Semaine 3
 
