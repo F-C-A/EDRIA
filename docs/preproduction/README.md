@@ -158,28 +158,11 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
     * Amplificateurs
     * V-Show Artnet RDM DMX Controller
 
-* Fausse plantes
-    * [fougère](https://www.amazon.ca/-/fr/artificielles-am%C3%A9nagement-paysager-artificielle-ext%C3%A9rieur/dp/B0BN3NNMQR?ref_=Oct_Oct_d_onr_d_6647015011_3&pd_rd_w=AOhWA&content-id=amzn1.sym.ff4b1194-feb0-4d65-8ed9-e093f266f982&pf_rd_p=ff4b1194-feb0-4d65-8ed9-e093f266f982&pf_rd_r=NS71EYDHE8C69G6CR7WB&pd_rd_wg=90Ep1&pd_rd_r=538f1c55-3549-4d72-9945-09f1d838d06e&pd_rd_i=B0BN3NNMQR)
-    * [guirlande](https://www.amazon.ca/-/fr/guirlandes-artificiel-artificielles-d%C3%A9coration-d%C3%A9v%C3%A9nement/dp/B0B4NYLBVZ?ref_=Oct_Oct_d_obs_d_6647015011_1&pd_rd_w=EGtxN&content-id=amzn1.sym.a26ace70-029b-45dd-99a6-bbbb61b20bbb&pf_rd_p=a26ace70-029b-45dd-99a6-bbbb61b20bbb&pf_rd_r=NS71EYDHE8C69G6CR7WB&pd_rd_wg=90Ep1&pd_rd_r=538f1c55-3549-4d72-9945-09f1d838d06e&pd_rd_i=B0B4NYLBVZ&th=1)
-    * [lot 3 plantes artificielles](https://www.amazon.ca/-/fr/Dremisland-Lot-plantes-artificielles-suspendre/dp/B09JJRNT3M/ref=lp_6647015011_1_1?th=1)
-    * [fejka](https://www.ikea.com/ca/fr/p/fejka-plante-artificielle-en-pot-interieur-exterieur-a-accrocher-40349531/)
-    * [fejka](https://www.ikea.com/ca/fr/p/fejka-plante-artificielle-en-pot-interieur-exterieur-a-accrocher-eucalyptus-70466811/)
-    * [fougère artificielle ext.](https://www.veronneau.com/fr/fougere-12-pkf036grgyf-16)
-    * [dieffenbachia vert artificiel](https://www.veronneau.com/fr/dieffenbachia-vert-artificiel-exterieur-18-mtf23287ttgr-3)
 
+## Équipements requis (Liste officielle matériel)
 
-## Équipements requis
-
-* Audio
-    * Haut-Parleurs Yamaha NS-AW194BL (8x)
-    * fils 2 connecteur 14 gauge
-    * Amplificateurs
-    * Carte Son Externe USB SPDIF 7.1 StarTech
-    * Taskcam US-16x08
-   
-* Lumières
-    * LED ALITOVE DC 12V WS2811 12mm
-    * Lumières adressables
+### Cr34te
+* __Lumières__
     * DMX Dot 5W (cr34te)
     * DMX DOT STRING  (cr34te)
     * DMX DOT CLEAR (cr34te)
@@ -190,28 +173,51 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
     * SRTING FESTOON (cr34te)
     * COLORado 2 Solo (cr34te)
 
-* Connection / controlleur
-    * V-Show Artnet RDM DMX Controller
-    * CL-PBDF (cr34te) (x3)
-    * Arduino ATOM PoE kit with W5500
+* __Connection / controlleur__
+    * CL-PBDF (cr34te) (x3) ?????
 
-* Électricité
-    * Source Ethernet (POE)
+* __Installation__
+    * Pond d'éclairage 
+        * 1' x 1' x 8'
+        * 2' x 2' x 8'
+        * 2' x 2' x 4'
 
-* Réseau
+
+### À acheter 
+* __Audio__
+    * [Haut-Parleurs Yamaha NS-AW194BL (8x)](https://www.amazon.ca/-/fr/Yamaha-NS-AW194BL-Haut-parleurs-int%C3%A9rieur-ext%C3%A9rieur/dp/B007QTAWYC)
+    * [fils 2 connecteur 14 gauge](https://www.amazon.ca/dp/B01M300ZX5/ref=sspa_dk_detail_1?pd_rd_i=B00HZWYQZG&pd_rd_w=PEu8S&content-id=amzn1.sym.c7dca932-da6a-44fc-af09-cc68d2449b34&pf_rd_p=c7dca932-da6a-44fc-af09-cc68d2449b34&pf_rd_r=5FN5JM6M2R5XVBDJP136&pd_rd_wg=o112i&pd_rd_r=5f664501-b01e-46a0-b16c-2d0cb1f615d3&s=electronics&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNjVEUkZESFFWT0c0JmVuY3J5cHRlZElkPUEwNDE4NTAyMzUySEFUSFhBQlVZUiZlbmNyeXB0ZWRBZElkPUEwMTQ2OTA4WVYwVlhNUDNERTVIJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1)
+    * [ini Amplificateur Audio Lepy LP-2020A](https://www.amazon.ca/-/fr/LP-2020A-Amplificateur-alimentation-%C3%A9lectrique-nord-am%C3%A9ricaine/dp/B00V9AYMZ4/ref=sr_1_3?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NVRM4H0I62DY&keywords=class+D+amplifier&qid=1675281087&sprefix=class+d+amplifier%2Caps%2C68&sr=8-3)
+    * [Carte Son Externe USB SPDIF 7.1 StarTech](https://www.amazon.ca/TASCAM-US-16x08-USB-Audio-Interface/dp/B00MIXF200?th=1)
+   
+* __Connection / controlleur__
+    * [V-Show Artnet RDM DMX Controller](https://www.amazon.com/V-Show-Artnet-RDM-DMX-Controller/dp/B09F2CBJHD)
+    * [Arduino ATOM PoE kit with W5500](https://docs.m5stack.com/en/atom/atom_poe)
+
+* __Réseau__
     * Cables Ethernet de longueurs variées
-    * Switch PoE 16 ports
+    * [Switch PoE 16 ports](https://www.amazon.ca/-/fr/YuanLey-Commutateur-Gigabit-commutateur-Ethernet/dp/B08QHHY7GJ/ref=sr_1_7?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=21G4L0QRII2&keywords=switch%2B16%2Bport%2Bpoe&qid=1674764463&sprefix=switch%2B16%2Bport%2Bpo%2Caps%2C72&sr=8-7&th=1)
+    * Modem LTE (a voir)
 
-* Ordinateur
-    * 2 MAC Mini 
-
-* Interactivité
-    * led motion sensor 
-    * Caméra OAK-1 PoE
+* __Ordinateur__
+    * [2 MAC Mini](https://www.apple.com/ca/shop/buy-mac/mac-mini)
     
+* __Interactivité__
+    * proximity Sensor (Guillaume) (x12)
+
+* __Fausse plantes__
+    * [fougère](https://www.amazon.ca/-/fr/artificielles-am%C3%A9nagement-paysager-artificielle-ext%C3%A9rieur/dp/B0BN3NNMQR?ref_=Oct_Oct_d_onr_d_6647015011_3&pd_rd_w=AOhWA&content-id=amzn1.sym.ff4b1194-feb0-4d65-8ed9-e093f266f982&pf_rd_p=ff4b1194-feb0-4d65-8ed9-e093f266f982&pf_rd_r=NS71EYDHE8C69G6CR7WB&pd_rd_wg=90Ep1&pd_rd_r=538f1c55-3549-4d72-9945-09f1d838d06e&pd_rd_i=B0BN3NNMQR)
+    * [guirlande](https://www.amazon.ca/-/fr/guirlandes-artificiel-artificielles-d%C3%A9coration-d%C3%A9v%C3%A9nement/dp/B0B4NYLBVZ?ref_=Oct_Oct_d_obs_d_6647015011_1&pd_rd_w=EGtxN&content-id=amzn1.sym.a26ace70-029b-45dd-99a6-bbbb61b20bbb&pf_rd_p=a26ace70-029b-45dd-99a6-bbbb61b20bbb&pf_rd_r=NS71EYDHE8C69G6CR7WB&pd_rd_wg=90Ep1&pd_rd_r=538f1c55-3549-4d72-9945-09f1d838d06e&pd_rd_i=B0B4NYLBVZ&th=1)
+    * [lot 3 plantes artificielles](https://www.amazon.ca/-/fr/Dremisland-Lot-plantes-artificielles-suspendre/dp/B09JJRNT3M/ref=lp_6647015011_1_1?th=1)
+    * [fejka](https://www.ikea.com/ca/fr/p/fejka-plante-artificielle-en-pot-interieur-exterieur-a-accrocher-40349531/)
+    * [fejka](https://www.ikea.com/ca/fr/p/fejka-plante-artificielle-en-pot-interieur-exterieur-a-accrocher-eucalyptus-70466811/)
+    * [fougère artificielle ext.](https://www.veronneau.com/fr/fougere-12-pkf036grgyf-16)
+    * [dieffenbachia vert artificiel](https://www.veronneau.com/fr/dieffenbachia-vert-artificiel-exterieur-18-mtf23287ttgr-3)
+
     
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget1.JPG)
+[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/FONGUSAMONGUS/EdlGhdyy8N1BpC-nrMZU9iABkAA59kKl6h62ncfrJwSruw?e=2n2DG0)
 
 ## Logiciels requis
 
@@ -255,9 +261,6 @@ Arduino IDE (Version 2.0.3) <br>
  | Tout le matériel peut ne pas être à l'épreuve des conditions climatiques | Créer des prototypes/échantillons qui résistent au froid et qui sont protégés. | Les échantillons de cr34te devraient se montrer utiles pour reproduire à moins grande échelle nos tests d'interactivité. | 
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
-
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/FONGUSAMONGUS/EdlGhdyy8N1BpC-nrMZU9iABkAA59kKl6h62ncfrJwSruw?e=2n2DG0)
-
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
