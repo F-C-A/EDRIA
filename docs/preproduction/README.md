@@ -185,7 +185,7 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 
 ### À acheter 
 * __Audio__
-    * [Haut-Parleurs Yamaha NS-AW194BL (8x)](https://www.amazon.ca/-/fr/Yamaha-NS-AW194BL-Haut-parleurs-int%C3%A9rieur-ext%C3%A9rieur/dp/B007QTAWYC)
+    * [Haut-P-arleurs Yamaha NS-AW194BL (8x)](https://www.amazon.ca/-/fr/Yamaha-NS-AW194BL-Haut-parleurs-int%C3%A9rieur-ext%C3%A9rieur/dp/B007QTAWYC)
     * [fils 2 connecteur 14 gauge](https://www.amazon.ca/dp/B01M300ZX5/ref=sspa_dk_detail_1?pd_rd_i=B00HZWYQZG&pd_rd_w=PEu8S&content-id=amzn1.sym.c7dca932-da6a-44fc-af09-cc68d2449b34&pf_rd_p=c7dca932-da6a-44fc-af09-cc68d2449b34&pf_rd_r=5FN5JM6M2R5XVBDJP136&pd_rd_wg=o112i&pd_rd_r=5f664501-b01e-46a0-b16c-2d0cb1f615d3&s=electronics&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNjVEUkZESFFWT0c0JmVuY3J5cHRlZElkPUEwNDE4NTAyMzUySEFUSFhBQlVZUiZlbmNyeXB0ZWRBZElkPUEwMTQ2OTA4WVYwVlhNUDNERTVIJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1)
     * [ini Amplificateur Audio Lepy LP-2020A](https://www.amazon.ca/-/fr/LP-2020A-Amplificateur-alimentation-%C3%A9lectrique-nord-am%C3%A9ricaine/dp/B00V9AYMZ4/ref=sr_1_3?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NVRM4H0I62DY&keywords=class+D+amplifier&qid=1675281087&sprefix=class+d+amplifier%2Caps%2C68&sr=8-3)
     * [Carte Son Externe USB SPDIF 7.1 StarTech](https://www.amazon.ca/TASCAM-US-16x08-USB-Audio-Interface/dp/B00MIXF200?th=1)
@@ -205,7 +205,9 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 * __Interactivité__
     * proximity Sensor (Guillaume) (x12)
 
-* __Fausse plantes__
+* __Décoration__
+    * Peinture UV
+    * Peinture Luminesante
     * [fougère](https://www.amazon.ca/-/fr/artificielles-am%C3%A9nagement-paysager-artificielle-ext%C3%A9rieur/dp/B0BN3NNMQR?ref_=Oct_Oct_d_onr_d_6647015011_3&pd_rd_w=AOhWA&content-id=amzn1.sym.ff4b1194-feb0-4d65-8ed9-e093f266f982&pf_rd_p=ff4b1194-feb0-4d65-8ed9-e093f266f982&pf_rd_r=NS71EYDHE8C69G6CR7WB&pd_rd_wg=90Ep1&pd_rd_r=538f1c55-3549-4d72-9945-09f1d838d06e&pd_rd_i=B0BN3NNMQR)
     * [guirlande](https://www.amazon.ca/-/fr/guirlandes-artificiel-artificielles-d%C3%A9coration-d%C3%A9v%C3%A9nement/dp/B0B4NYLBVZ?ref_=Oct_Oct_d_obs_d_6647015011_1&pd_rd_w=EGtxN&content-id=amzn1.sym.a26ace70-029b-45dd-99a6-bbbb61b20bbb&pf_rd_p=a26ace70-029b-45dd-99a6-bbbb61b20bbb&pf_rd_r=NS71EYDHE8C69G6CR7WB&pd_rd_wg=90Ep1&pd_rd_r=538f1c55-3549-4d72-9945-09f1d838d06e&pd_rd_i=B0B4NYLBVZ&th=1)
     * [lot 3 plantes artificielles](https://www.amazon.ca/-/fr/Dremisland-Lot-plantes-artificielles-suspendre/dp/B09JJRNT3M/ref=lp_6647015011_1_1?th=1)
