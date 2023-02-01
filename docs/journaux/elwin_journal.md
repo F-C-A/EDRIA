@@ -65,6 +65,7 @@ Tenter d'avoir le github complètement à jour, avec la liste de matériel prêt
 - Mise à jour complète de la préproduction
 - Journal de l'équipe
 - Tournage de la vidéo de présentation de la préproduction
+- Rencontre commité communication
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
