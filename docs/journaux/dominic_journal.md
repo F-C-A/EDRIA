@@ -24,8 +24,8 @@
 ![ici est une description de l'image](medias/selphie.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [x] Complètement
-- [ ] Assez
+- [ ] Complètement
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -63,30 +63,32 @@ Les défis de la prochaine semaine seront de s'assuré que nous allons avoir le 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ nous avons accomplie la majorité des tâches en lien avec l'installation. Il nous restera plusieurs test à faire avec l'équipement, mais nous avons réussis à lister de façons exhaustive les composantes nécessaire à la réalisation de notre projet.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+éventuellement, nous allons devoir faire un schéma précis du branchement de chaque poteau, mais nous devons, de prime à bord, confirmer à 100% le schéma de branchement général. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+nous avons terminer tout ce que nous devions faire pour passer à la prochaine étape de notre projet.
+nous devons impérativement recevoir des échantillons et commencer nos tests la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+nous avons terminer les listes de matériels de manière exhaustive. Nous sommes donc prêts à commander des échantillons
 
 ### Défis pour la prochaine semaine
+Amener à complétion les différents tests nécessaires à la réalisation de notre installation.
 
 
 ---
