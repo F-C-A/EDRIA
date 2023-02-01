@@ -17,6 +17,11 @@ Nous avons bien hâte d'avoir accès à des échantillons du matériel de cr34te
 
 ## Semaine 2
 
+Cette semaine a été riche en rebondissements. En premier lieu, nous avons changé la façon dont notre interactivité allait marcher. L'idée de la structure centrle semble promettante, et simplifie notre projet. 
+
+![reunions](medias/meeting1.jpg)
+
+
 ## Semaine 3
 
 ## Semaine 4
