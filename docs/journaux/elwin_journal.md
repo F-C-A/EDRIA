@@ -55,29 +55,35 @@ Et bien, nous n'avons pas des échantillons de l'équipement qui nous servira à
 M'occuper des tâches administratives en étant le plus à jour possible (en temps réel). 
 
 ### Défis pour la prochaine semaine
-Tenter d'avoir le github complètement à jour, avec la liste de matériel prête à être envoyée. É
+Tenter d'avoir le github complètement à jour, avec la liste de matériel prête à être envoyée. 
 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
 
+- Changements majeurs pour l'installation, le poteau central occupera une importance plus grosse et sera le centre de l'attention
+- Mise à jour complète de la préproduction
+- Journal de l'équipe
+- Tournage de la vidéo de présentation de la préproduction
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![ici est une description de l'image](medias/meeting1.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+ Oui, dans l'ensemble, le github est oas mal à jour, les seuls changements qui pourraient occurer concernent les difficultés que nous pourrions rencontrer au fur et à mesure que la team installation et la team intégration avancent. Ces incertitudes font en sorte que je m'octroie la note assez.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Pour l'instant,pas grand chose, si ce n'est s'en tenir aux échéanciers et régler les problèmes au fur et à mesure qu'ils arrivent (ne pas les laisser s'accumuler car je crois qu'ils seront réglés à l'avenir)
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
