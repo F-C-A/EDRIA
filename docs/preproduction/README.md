@@ -28,7 +28,7 @@
 # Intention ou concept
 
 ## Intention de départ
-Dans ce projet, nous souhaitons réaliser une expérience interactive amenant les individus à se rassembler pour créer un univers de plus en plus complet, tout en suivant le thème commun de la classe: le Biopunk. La nature et la technologie sont des idées opposées: elles représentent une dualité. La nature aura donc une apparence "artificielle", grâce à la présence de diverses technologies aux alentours. 
+Dans un univers féerique, rassembler autour d'une sculpture représentant la dualité entre la technologie et la nature. La nature aura donc une apparence "artificielle", grâce à la présence de diverses technologies aux alentours. 
 
 
 ## Cartographie
