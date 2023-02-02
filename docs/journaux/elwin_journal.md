@@ -103,8 +103,7 @@ Toujours resté up to date dans les micro échéanciers que nous nous donnons et
 
 
 ### Défis pour la prochaine semaine
--Liste de matériel et commande amazon envoyée définitevement
--Réalisation complète de la préproduction pour l'UQAM
+Liste de matériel et commande amazon envoyée définitevement. Il faut également que la préproduction soit complète pour l'UQAM. Si possible, avoir des échantillons/prototypes de matériel ou de médias (ex: demander à jean-christophe zephir de réaliser des tests de son.)
 
 ---
 ## Semaine 3 
