@@ -77,14 +77,13 @@ Se répète en boucle tant et aussi longtemps que personne n'est détecté.
     
   Le poteau du milieu est complètement fermé. Sur les poteaux extérieurs, les fixtures adressables ont une intensité de 25% et fade-in lentement en dégradés de couleurs vert, bleu et mauve foncé. Quelques Dots String fade-in lentement en dégradés couleur similaires alors que d’autres Dots clignotent avec des teintes de jaune.
     
-![Idle Inspiration Fade In](medias/idle_on.png)
+<img src="medias/idle_on.png"  width="50%">
 
 * #### 1.2 Expiration (Fade Out)
 
-  Le poteau du milieu est complètement fermé. Sur les poteaux extérieurs, les
-  fixtures adressables et toutes les dot string fade-out lentement pour s’éteindre.
+  Le poteau du milieu est complètement fermé. Sur les poteaux extérieurs, les fixtures adressables et toutes les dot string fade-out lentement pour s’éteindre.
   
-![Idle Inspiration Fade In](medias/idle_off.png)
+<img src="medias/idle_off.png"  width="50%">
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
