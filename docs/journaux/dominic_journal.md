@@ -59,7 +59,9 @@ Les défis de la prochaine semaine seront de s'assuré que nous allons avoir le 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![ici est une description de l'image](medias/budget2.jpg)
+![ici est une description de l'image](medias/sketch_poteau_central_01.jpg)
+![ici est une description de l'image](medias/sketch_poteau_central_2.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
