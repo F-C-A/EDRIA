@@ -103,8 +103,8 @@ Toujours resté up to date dans les micro échéanciers que nous nous donnons et
 
 
 ### Défis pour la prochaine semaine
-Liste de matériel et commande amazon envoyée définitevement
-Réalisation complète de la préproduction pour l'UQAM
+-Liste de matériel et commande amazon envoyée définitevement
+-Réalisation complète de la préproduction pour l'UQAM
 
 ---
 ## Semaine 3 
