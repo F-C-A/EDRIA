@@ -79,12 +79,7 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 ## Schémas ou plans techniques
 
 
-
-### Schéma de branchement général
-
-![exemple de schema](medias/schema_connection_general_1.png)
-
-### Schéma de branchement Complet
+### Schéma de branchement
 
 ![exemple de schema](medias/schema_complet_v2.png)
 
@@ -166,28 +161,29 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 
 ### Cr34te
 * __Lumières__
-    * DMX DOT STRING (festoon) (8x 15' 1x 25' ) (cr34te)
-    * DMX DOT CLEAR ( 64x ) (cr34te)
-    * Boule Lumineuse 200mm ( 20x-25x ) cr34te)
-    * Tubes Opal 0.5M ( 4x ) (cr34te)
-    * Tubes Opal 1M ( 2x ) (cr34te)
-    * COLORado 2 Solo ( x8 ) (cr34te)
-
+    * (~8x25' 1x 50') DMX DOT STRING (festoon) (cr34te)
+    * ( 64x ) DMX DOT CLEAR (cr34te)
+    * ( 20x-25x ) Boule Lumineuse 200mm cr34te)
+    * ( x1 ) Boule Lumineuse 36' cr34te)
+    * ( 4x ) Tubes Opal 0.5M (cr34te)
+    * ( 2x ) Tubes Opal 1M (cr34te)
+    * ( x8 ) COLORado 2 Solo (cr34te)
+    
 * __Connection / controlleur__
-    * CL-PBDF (cr34te) (x3) ?????
+    * ( ~2 ) CL-PBDF (cr34te)
 
 * __Installation__
     * Pond d'éclairage 
-        * 1' x 1' x 8' (triangle)
-        * 2' x 2' x 8' (carré)
+        * ( x8 ) 1' x 1' x 8' (triangle)
+        * ( x1 ) 2' x 2' x 8' (carré)
 
 
 ### À acheter 
 * __Audio__
-    * [Haut-P-arleurs Yamaha NS-AW194BL (8x)](https://www.amazon.ca/-/fr/Yamaha-NS-AW194BL-Haut-parleurs-int%C3%A9rieur-ext%C3%A9rieur/dp/B007QTAWYC)
+    * [( 9x ) Haut-P-arleurs Yamaha NS-AW194BL](https://www.amazon.ca/-/fr/Yamaha-NS-AW194BL-Haut-parleurs-int%C3%A9rieur-ext%C3%A9rieur/dp/B007QTAWYC)
     * [fils 2 connecteur 14 gauge](https://www.amazon.ca/dp/B01M300ZX5/ref=sspa_dk_detail_1?pd_rd_i=B00HZWYQZG&pd_rd_w=PEu8S&content-id=amzn1.sym.c7dca932-da6a-44fc-af09-cc68d2449b34&pf_rd_p=c7dca932-da6a-44fc-af09-cc68d2449b34&pf_rd_r=5FN5JM6M2R5XVBDJP136&pd_rd_wg=o112i&pd_rd_r=5f664501-b01e-46a0-b16c-2d0cb1f615d3&s=electronics&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNjVEUkZESFFWT0c0JmVuY3J5cHRlZElkPUEwNDE4NTAyMzUySEFUSFhBQlVZUiZlbmNyeXB0ZWRBZElkPUEwMTQ2OTA4WVYwVlhNUDNERTVIJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1)
-    * [ini Amplificateur Audio Lepy LP-2020A](https://www.amazon.ca/-/fr/LP-2020A-Amplificateur-alimentation-%C3%A9lectrique-nord-am%C3%A9ricaine/dp/B00V9AYMZ4/ref=sr_1_3?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NVRM4H0I62DY&keywords=class+D+amplifier&qid=1675281087&sprefix=class+d+amplifier%2Caps%2C68&sr=8-3)
-    * [Carte Son Externe USB SPDIF 7.1 StarTech](https://www.amazon.ca/TASCAM-US-16x08-USB-Audio-Interface/dp/B00MIXF200?th=1)
+    * [ ( x5 )Nobsound Mini Bluetooth 4.0 Digital Amplifier](https://www.amazon.ca/Nobsound-Bluetooth-Digital-Amplifier-Supply/dp/B07CWMHTCM)
+    * (peut-etre) [Carte Son Externe USB SPDIF 7.1 StarTech](https://www.amazon.ca/TASCAM-US-16x08-USB-Audio-Interface/dp/B00MIXF200?th=1)
    
 * __Connection / controlleur__
     * [V-Show Artnet RDM DMX Controller](https://www.amazon.com/V-Show-Artnet-RDM-DMX-Controller/dp/B09F2CBJHD)
@@ -201,10 +197,10 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
     * Modem LTE (a voir)
 
 * __Ordinateur__
-    * [2 MAC Mini](https://www.apple.com/ca/shop/buy-mac/mac-mini)
+    * [( x2) MAC Mini](https://www.apple.com/ca/shop/buy-mac/mac-mini)
     
 * __Interactivité__
-    * proximity Sensor (Guillaume) (x12)
+    * ( x12 ) proximity Sensor (Guillaume) 
 
 * __Décoration__
     * Peinture UV
