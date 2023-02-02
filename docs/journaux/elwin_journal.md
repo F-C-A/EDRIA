@@ -89,18 +89,22 @@ Pour l'instant,pas grand chose, si ce n'est s'en tenir aux échéanciers et rég
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Il n'y a pas vraiment eu d'écart pour le moment, il s'agit plutôt d'avoir toutes les ressources et références nécessaire maintenant afin de pouvoir avancer rapidement lors de l'installation et de l'intégration. Les rencontres des comités se sont montrées productives et efficaces.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Toujours resté up to date dans les micro échéanciers que nous nous donnons et, si possible, poser des questions aux professeurs lors d'incertitudes. Ils donnent toujours de bons conseils, il est donc judicieux d'aller les voir souvent. 
+
 
 ### Défis pour la prochaine semaine
-
+Liste de matériel et commande amazon envoyée définitevement
+Réalisation complète de la préproduction pour l'UQAM
 
 ---
 ## Semaine 3 
