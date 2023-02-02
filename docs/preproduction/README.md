@@ -101,55 +101,57 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 
 * Poteaux
     * Pont d'éclairage (cr34te)
-        * 1' x 1' x 8' 
-        * 2' x 2' x 8'
-        * 2' x 2' x 4'
+        * 1' x 1' x 8' (triangle)
+        * 2' x 2' x 8' (carré)
     
     * specifique
         * poteau 1
             * speaker
-            * string festoon (cr34te)
+            * string festoon 15' (cr34te)
             * fausse plante
         * poteau 2
-            * boule lumineuse 200mm (cr34te)
-            * string festoon (cr34te)
+            * speaker
+            * string festoon 15' (cr34te)
             * fausse plante
+            * colorado
         * poteau 3
             * speaker
-            * string festoon (cr34te)
+            * string festoon 15' (cr34te)
             * fausse plante
         * poteau 4
             * speaker
-            * string festoon (cr34te)
+            * string festoon 15' (cr34te)
             * fausse plante
+            * colorado
         * poteau 5
             * speaker
-            * string festoon (cr34te)
+            * string festoon 15' (cr34te)
             * fausse plante
         * poteau 6
             * speaker
-            * string festoon (cr34te)
+            * string festoon 15' (cr34te)
             * fausse plante
+            * colorado
         * poteau 7
             * speaker
-            * string festoon (cr34te)
+            * string festoon 15' (cr34te)
             * fausse plante
         * poteau 8
             * speaker
-            * string festoon (cr34te)
+            * string festoon 15' (cr34te)
             * fausse plante
+            * colorado
         * poteau M
             * speaker
             * arduino (2x) [lien](https://shop.m5stack.com/products/pir-module)
             * LED ALITOVE DC 12V WS2811 12mm
             * Lumières adressables (x4)
             * DMX Dot 5W (cr34te)
-            * DMX DOT STRING  (cr34te)
-            * DMX DOT clean (cr34te)
+            * DMX DOT STRING festoon ( (cr34te)
+            * DMX DOT clean (64) (cr34te)
             * Boule Lumineuse 200mm (cr34te)
             * Tubes Opal 0.5M (cr34te)
             * Tubes Opal 1M (cr34te)
-            * SRTING FESTOON (cr34te)
             * COLORado 2 Solo (cr34te)
             * fausse plante
 
@@ -164,10 +166,10 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 
 ### Cr34te
 * __Lumières__
-    * DMX DOT STRING (festoon) (cr34te)
-    * DMX DOT CLEAR (cr34te)
-    * Boule Lumineuse 200mm ( x20-x25 ) (cr34te)
-    * Tubes Opal 0.5M ( x4 ) (cr34te)
+    * DMX DOT STRING (festoon) (8x 15' 1x 25' ) (cr34te)
+    * DMX DOT CLEAR ( 64x ) (cr34te)
+    * Boule Lumineuse 200mm ( 20x-25x ) cr34te)
+    * Tubes Opal 0.5M ( 4x ) (cr34te)
     * Tubes Opal 1M ( 2x ) (cr34te)
     * COLORado 2 Solo ( x8 ) (cr34te)
 
@@ -176,9 +178,8 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 
 * __Installation__
     * Pond d'éclairage 
-        * 1' x 1' x 8'
-        * 2' x 2' x 8'
-        * 2' x 2' x 4'
+        * 1' x 1' x 8' (triangle)
+        * 2' x 2' x 8' (carré)
 
 
 ### À acheter 
