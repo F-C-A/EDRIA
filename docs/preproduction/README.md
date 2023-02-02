@@ -73,13 +73,13 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 
 Se répète en boucle tant et aussi longtemps que personne n'est détecté.
 
-* #### 1.1 Inspiration (Fade In)
+* ##### 1.1 Inspiration (Fade In)
     
   Le poteau du milieu est complètement fermé. Sur les poteaux extérieurs, les fixtures adressables ont une intensité de 25% et fade-in lentement en dégradés de couleurs vert, bleu et mauve foncé. Quelques Dots String fade-in lentement en dégradés couleur similaires alors que d’autres Dots clignotent avec des teintes de jaune.
     
   <img src="medias/idle_on.png"  width="55%">
 
-* #### 1.2 Expiration (Fade Out)
+* ##### 1.2 Expiration (Fade Out)
 
   Le poteau du milieu est complètement fermé. Sur les poteaux extérieurs, les fixtures adressables et toutes les dot string fade-out lentement pour s’éteindre.
   
@@ -87,7 +87,7 @@ Se répète en boucle tant et aussi longtemps que personne n'est détecté.
 
 #### 2. Présence (Éveil)
 
-* #### 2.1 Technologie 1 (Boules 200mm)
+* ##### 2.1 Technologie 1 (Boules 200mm)
 
   Lorsque les capteurs sur le premier côté détectent une personne, les Boules 200mm vont s’illuminer en suivant une gradation linéaire. Au fur de la progression, celles qui se seront allumées en premier vont s'éteindre en premier créant un effet de vivant. Cette animation vise à représenter l’audio utilisant des sons d’eau avec un effet de “growl”.
 
@@ -95,13 +95,13 @@ Se répète en boucle tant et aussi longtemps que personne n'est détecté.
   <img src="medias/boules2.png"  width="55%">
   <img src="medias/boules3.png"  width="55%">
 
-* #### 2.2 Technologie 2 (DMX Pixel)
+* ##### 2.2 Technologie 2 (DMX Pixel)
 
   Lorsque les capteurs sur le deuxième côté détectent une personne, les DMX Pixel produisent un clignotement pour imiter les textures granulaires de l'audio.
   
   <img src="medias/pixel_granulaire.png"  width="55%">
 
-* #### 2.3 Technologie 3 (Dot String)
+* ##### 2.3 Technologie 3 (Dot String)
 
   Lorsque les capteurs sur le troisième côté détectent une personne, les Dot String vont s’ouvrir complètement puis vibrer visiblement pour représenter l’audio d’une onde carré avec un effet vocodex.
   
@@ -109,13 +109,54 @@ Se répète en boucle tant et aussi longtemps que personne n'est détecté.
   <img src="medias/dot_string2.png"  width="55%">
   <img src="medias/dot_string1.png"  width="55%">
 
-* #### 2.4 Technologie 4 (Bande LED)
+* ##### 2.4 Technologie 4 (Bande LED)
 
   Lorsque les capteurs sur le quatrième côté détectent une personne, la bande LED fait une animation qui traverse linéairement et progressivement toute la bande, puis suivant les lumières, seulement quelques unes s'allument et disparaissent en fade de teinte jaune pour imiter des sons de fée de l'audio.
   
   <img src="medias/ledstrip1.png"  width="55%">
   <img src="medias/ledstrip2.png"  width="55%">
   <img src="medias/ledstrip3.png"  width="55%">
+  
+#### 3. Climax
+
+* ##### 3.1 Silence (Fermeture des lumières)
+
+  Toutes les lumières et l’audio s’éteignent doucement (power down). Ce silence dure environ 3 secondes.
+  
+  <img src="medias/climax_off.png"  width="55%">
+
+* ##### 3.2 Illumination simultanée des poteaux extérieurs
+
+  Tous les poteaux extérieurs s’illuminent au même moment, y compris toutes les fixtures adressables. Le poteau du milieu reste éteint.
+  
+  <img src="medias/climax_on.png"  width="55%">
+
+* ##### 3.3 Illumination technologie par technologie du poteau central
+
+  Le poteau du milieu s’illumine technologie par technologie. Chaque technologie lumineuse est associée à une banque de son. Les poteaux extérieurs restent allumés, mais ne s’animent pas. Les fixtures addressable changent de couleur fluidement en différents dégradés. Les tubes opal et les dot clean s’ajoutent à ce moment.
+  
+  <img src="medias/activation_technologie1.png"  width="55%">
+  <img src="medias/activation_technologie2.png"  width="55%">
+  <img src="medias/activation_technologie3.png"  width="55%">
+  <img src="medias/activation_technologie4.png"  width="55%">
+  <img src="medias/tubes_opal.png"  width="55%">
+  <img src="medias/dot_clear.png"  width="55%">
+
+* ##### 3.4 Démonstration UV courtes durant la montée audio
+
+  À travers les changements de couleurs fluides des fixtures adressables, celles-ci allument l’UV de temps en temps pendant des courtes pour dévoiler la luminescence des fausses plantes à l’aide de la peinture UV appliquée dessus.
+  
+  <img src="medias/uv_desfois.png"  width="55%">
+
+* ##### 3.5 Fermeture des lumière + Ouverture UV au summum
+
+  Au summum de l’animation spéciale, toutes les lumières s’éteignent à nouveau avant que toutes les lumières UV s’ouvrent pendant quelques secondes pour montrer et mettre l’emphase sur la luminescence des fausses plantes.
+  
+  <img src="medias/uv_touttemps.png"  width="55%">
+
+* ##### 3.1 Jeu de lumières
+
+  Différents patterns de lumières sont joués par toutes les technologies et les fixtures adressables.
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
