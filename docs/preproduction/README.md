@@ -154,7 +154,7 @@ Se répète en boucle tant et aussi longtemps que personne n'est détecté.
   
   <img src="medias/uv_touttemps.png"  width="55%">
 
-* ##### 3.1 Jeu de lumières
+* ##### 3.6 Jeu de lumières
 
   Différents patterns de lumières sont joués par toutes les technologies et les fixtures adressables.
 
