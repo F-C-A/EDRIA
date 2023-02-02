@@ -48,7 +48,7 @@ Réalisation de la vidéo de présentation et rédaction de la liste de matérie
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+Cette semaine mon équipe et moi etions toujours dans l'étape de concrétisation du concept de notre projet. Du à cela j'ai fait beaucoup de rencontre d'équipe de maniere a presiser et optimiser notre concept a la situation. J'ai dresser la liste complete du matériel a louer et acheter de plus j'ai fait le montage de notre vidéo explicative.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
