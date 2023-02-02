@@ -55,6 +55,7 @@ Les défis de la prochaine semaine seront de s'assuré que nous allons avoir le 
 - Sélection des fausses plates pour la décoration des poteaux
 - Schéma de connection général
 - design du poteau central
+- Liste de matériel à acheter et location
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
