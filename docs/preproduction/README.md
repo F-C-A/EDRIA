@@ -77,20 +77,45 @@ Se répète en boucle tant et aussi longtemps que personne n'est détecté.
     
   Le poteau du milieu est complètement fermé. Sur les poteaux extérieurs, les fixtures adressables ont une intensité de 25% et fade-in lentement en dégradés de couleurs vert, bleu et mauve foncé. Quelques Dots String fade-in lentement en dégradés couleur similaires alors que d’autres Dots clignotent avec des teintes de jaune.
     
-<img src="medias/idle_on.png"  width="55%">
+  <img src="medias/idle_on.png"  width="55%">
 
 * #### 1.2 Expiration (Fade Out)
 
   Le poteau du milieu est complètement fermé. Sur les poteaux extérieurs, les fixtures adressables et toutes les dot string fade-out lentement pour s’éteindre.
   
-<img src="medias/idle_off.png"  width="55%">
+  <img src="medias/idle_off.png"  width="55%">
 
 #### 2. Présence (Éveil)
 
 * #### 2.1 Technologie 1 (Boules 200mm)
-* #### 2.2 Technologie 2 ()ules 200mm)
-* #### 2.1 Technologie 1 (Boules 200mm)
-* #### 2.1 Technologie 1 (Boules 200mm)
+
+  Lorsque les capteurs sur le premier côté détectent une personne, les Boules 200mm vont s’illuminer en suivant une gradation linéaire. Au fur de la progression, celles qui se seront allumées en premier vont s'éteindre en premier créant un effet de vivant. Cette animation vise à représenter l’audio utilisant des sons d’eau avec un effet de “growl”.
+
+  <img src="medias/boules1.png"  width="55%">
+  <img src="medias/boules2.png"  width="55%">
+  <img src="medias/boules3.png"  width="55%">
+
+* #### 2.2 Technologie 2 (DMX Pixel)
+
+  Lorsque les capteurs sur le deuxième côté détectent une personne, les DMX Pixel produisent un clignotement pour imiter les textures granulaires de l'audio.
+  
+  <img src="medias/pixel_granulaire.png"  width="55%">
+
+* #### 2.3 Technologie 3 (Dot String)
+
+  Lorsque les capteurs sur le troisième côté détectent une personne, les Dot String vont s’ouvrir complètement puis vibrer visiblement pour représenter l’audio d’une onde carré avec un effet vocodex.
+  
+  <img src="medias/dot_string1.png"  width="55%">
+  <img src="medias/dot_string2.png"  width="55%">
+  <img src="medias/dot_string1.png"  width="55%">
+
+* #### 2.4 Technologie 4 (Bande LED)
+
+  Lorsque les capteurs sur le quatrième côté détectent une personne, la bande LED fait une animation qui traverse linéairement et progressivement toute la bande, puis suivant les lumières, seulement quelques unes s'allument et disparaissent en fade de teinte jaune pour imiter des sons de fée de l'audio.
+  
+  <img src="medias/ledstrip1.png"  width="55%">
+  <img src="medias/ledstrip2.png"  width="55%">
+  <img src="medias/ledstrip3.png"  width="55%">
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
