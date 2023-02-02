@@ -53,7 +53,9 @@ Les défis de la prochaine semaine seront d'avoir complètement terminé la pré
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+J'ai effectué la création de certains médias sonores associé aux sons granulaires.
+J'ai participé a la scénarisation du projet.
+J'ai créé une certaine cohérence entre l'audio visuel.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Association de chaque son a une technologie lumineuse](medias/console.jpg)
@@ -67,7 +69,7 @@ Les défis de la prochaine semaine seront d'avoir complètement terminé la pré
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- Notre objectif cette semaine était de finir le scénario pour l'audio visuel. Nous avons donc fait le scénario sur le tableau blanc de "la crèshe" pour associer chaque son a une technologie lumineuse (ex. les boules 200mm sont associé a des sons d'eau organiques représenté par des "growls"). J'ai aussi commencé à faire la banque de sons pour aider mes coéquipier à mieux comprendre l'aspect sonore de l'installation.
+ Notre objectif cette semaine était de finir le scénario pour l'audio visuel. Nous avons donc fait le scénario sur le tableau blanc de "la crèshe" pour associer chaque son a une technologie lumineuse (ex. les boules 200mm sont associé a des sons d'eau organiques représenté par des "growls"). J'ai aussi commencé à faire la banque de sons pour aider mes coéquipier à mieux comprendre l'aspect sonore de l'installation multimédia.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Je vais faire d'autres sons durant mon temps libre pour que "l'image" ou plutôt les sons soit plus claire auprès de mon équipe.
@@ -80,13 +82,14 @@ Je vais faire d'autres sons durant mon temps libre pour que "l'image" ou plutôt
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Nous étions serré en temps, mais nous avons réussi a faire le scénarimage et trouvé/fait des références de sons.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Pusique la préproduction est faite, nous ne devrions pas avoir ce problème une seconde fois.
 
 ### Défis pour la prochaine semaine
-Commencer la création de médias et 
+Commencer la création de médias.
+Commencer a effectuer des tests (pour ceux qui sont possibles)
 
 ---
 ## Semaine 3 
