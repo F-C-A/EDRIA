@@ -37,8 +37,6 @@ Dans un univers féerique, rassembler autour d'une sculpture représentant la du
 ![Cartographie 1](medias/plan_direction_capteur.png)
 ### Schéma des passe fils.
 ![Plan Lumières Adressables](medias/schema_electrique.png) <br>
-### Plan d'éclairage des lumières adressables
-![Plan Lumières Adressables](medias/plan_fixtures.png) <br>
 
 ## Synopsis
 Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnue : Entre Fungus. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous leurs yeux. Une structure centrale attire l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et s'approchent de la dite structure: des lumières s'allument, des sons se déclenchent, et il semblerait que la présence de plusieurs personnes soit nécessaire pour progresser...
@@ -86,6 +84,9 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 
 ![exemple de schema](medias/schema_connection_general_1.png)
 
+### Schéma de branchement Complet
+
+![exemple de schema](medias/schema_complet_v2.png)
 
  ### Emplacement 
  
@@ -163,15 +164,12 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 
 ### Cr34te
 * __Lumières__
-    * DMX Dot 5W (cr34te)
-    * DMX DOT STRING  (cr34te)
+    * DMX DOT STRING (festoon) (cr34te)
     * DMX DOT CLEAR (cr34te)
-    * Boule Lumineuse 200mm (cr34te)
-    * Boule Lumineuse 36" (cr34te)
-    * Tubes Opal 0.5M (cr34te)
-    * Tubes Opal 1M (cr34te)
-    * SRTING FESTOON (cr34te)
-    * COLORado 2 Solo (cr34te)
+    * Boule Lumineuse 200mm ( x20-x25 ) (cr34te)
+    * Tubes Opal 0.5M ( x4 ) (cr34te)
+    * Tubes Opal 1M ( 2x ) (cr34te)
+    * COLORado 2 Solo ( x8 ) (cr34te)
 
 * __Connection / controlleur__
     * CL-PBDF (cr34te) (x3) ?????
@@ -193,6 +191,8 @@ L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de l
 * __Connection / controlleur__
     * [V-Show Artnet RDM DMX Controller](https://www.amazon.com/V-Show-Artnet-RDM-DMX-Controller/dp/B09F2CBJHD)
     * [Arduino ATOM PoE kit with W5500](https://docs.m5stack.com/en/atom/atom_poe)
+    * [Keystone](https://www.amazon.ca/Cable-Matters-Mount-24-Port-Keystone/dp/B0072JVT02)
+    * [PowerStrip](https://www.amazon.ca/StarTech-com-RKPW161915-19-Inch-Rackmount-Distribution/dp/B003GSGNE0)
 
 * __Réseau__
     * Cables Ethernet de longueurs variées
