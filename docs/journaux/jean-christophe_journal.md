@@ -58,7 +58,7 @@ J'ai participé a la scénarisation du projet.
 J'ai créé une certaine cohérence entre l'audio visuel.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Association de chaque son a une technologie lumineuse](medias/console.jpg)
+![Association de chaque son a une technologie lumineuse](medias/img4025.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
