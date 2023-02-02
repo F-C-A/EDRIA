@@ -75,11 +75,18 @@ Se répète en boucle tant et aussi longtemps que personne n'est détecté.
 
 * #### 1.1 Inspiration (Fade In)
     
-  Le poteau du milieu est complètement fermé. Sur les poteaux extérieurs, les fixtures adressables ont une intensité
-  de 25% et fade-in lentement en dégradés de couleurs vert, bleu et mauve foncé. Quelques Dots String fade-in lentement
-  en dégradés couleur similaires alors que d’autres Dots clignotent avec des teintes de jaune.
+  Le poteau du milieu est complètement fermé. Sur les poteaux extérieurs, les fixtures adressables ont une
+  intensité de 25% et fade-in lentement en dégradés de couleurs vert, bleu et mauve foncé. Quelques Dots String
+  fade-in lentement en dégradés couleur similaires alors que d’autres Dots clignotent avec des teintes de jaune.
     
-![Idle Inspiration Fade In](medias/schema_complet_v2.png)
+![Idle Inspiration Fade In](medias/idle_on.png)
+
+* #### 1.2 Expiration (Fade Out)
+
+  Le poteau du milieu est complètement fermé. Sur les poteaux extérieurs, les
+  fixtures adressables et toutes les dot string fade-out lentement pour s’éteindre.
+  
+![Idle Inspiration Fade In](medias/idle_off.png)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
