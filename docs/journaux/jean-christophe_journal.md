@@ -56,26 +56,26 @@ Les défis de la prochaine semaine seront d'avoir complètement terminé la pré
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/console.jpg)
+![Association de chaque son a une technologie lumineuse](medias/console.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Notre objectif cette semaine était de finir le scénario pour l'audio visuel. Nous avons donc fait le scénario sur le tableau blanc de "la crèshe" pour associer chaque son a une technologie lumineuse (ex. les boules 200mm sont associé a des sons d'eau organiques représenté par des "growls"). J'ai aussi commencé à faire la banque de sons pour aider mes coéquipier à mieux comprendre l'aspect sonore de l'installation.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais faire d'autres sons durant mon temps libre pour que "l'image" ou plutôt les sons soit plus claire auprès de mon équipe.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -86,7 +86,7 @@ Les défis de la prochaine semaine seront d'avoir complètement terminé la pré
 
 
 ### Défis pour la prochaine semaine
-
+Commencer la création de médias et 
 
 ---
 ## Semaine 3 
