@@ -28,7 +28,7 @@
 # Intention ou concept
 
 ## Intention de départ
-Dans un univers féerique, rassembler autour d'une sculpture représentant la dualité entre la technologie et la nature. La nature aura donc une apparence "artificielle", grâce à la présence de diverses technologies aux alentours. 
+Dans un univers féerique, rassembler autour d'une sculpture représentant la dualité entre la technologie et la nature.
 
 
 ## Cartographie
@@ -66,15 +66,11 @@ Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnu
 
 ## Scénario, scénarimage ou document audio/visuel
 
-### Scénario
-
-L’ambiance sonore est calme lorsqu’il n’y a personne. Quelques boules de lumières scintillent sur les poteaux à droite et à gauche doucement. Le poteau du milieu est complètement éteint. À chaque entrée ou sortie par un chemin, un son de fée se fait entendre, pendant que les boules sur les poteaux autour de l’entrée s’allument et clignotent. Lorsqu’une personne entre dans la scène, plus de boules de lumières scintillent pendant qu’une superposition de sons commence dans l’ambiance sonore. Le poteau du milieu a les lumières à sa base ouvertes, avec des champignons, comme un premier niveau. Il y a aussi des changements de couleurs dans les autres lumières adressables. Le nombre de boules de lumières qui s’allument et le nombre de sons se superposant dans l’ambiance sonore augmente graduellement selon le nombre de personnes, donc entre 1 et 3 personnes, dans la scène. Toujours dans la gradation, à 4 personnes, il y a de la texture granulaire qui entre dans l’ambiance sonore. Les lumières allumées et les lumières adressables réagissent avec la texture abstraite. Le poteau du milieu a des lumières et champignons augmentant niveau par niveau selon le nombre de personnes. Finalement, nous arrivons à un sommet à 5 personnes et un événement multisensoriel se déclenche. Le poteau du milieu est finalement totalement ouvert. Lorsque la 5ème personne rentre dans la scène, toutes les boules de lumières et les lumières s’éteignent d’un coup pendant quelques secondes pendant que l’on entend des voix coupées et ré-arrangées de manière générative. Les boules de lumières s’ouvrent de zone en zone, donc autour des entrées avec les lumières adressables en suivant le son. Finalement, lorsque tous les boules de lumières et  lumières sont allumés, ils clignotent et changent de couleur tout en s’harmonisant avec l’ambiance sonore. À la fin de ce 20 secondes d’évènement spécial, l’ambiance sonore se calme, tout en entendant encore des voix. Les boules de lumières sont toutes allumées, dont certaines scintillent doucement et rapidement. Toutes les lumières sont allumées, dont le poteau  du milieu, en réagissant avec des transitions douces de couleurs tout en suivant le son. Le sommet a été atteint et l’ambiance générale est en complète harmonie. Si des personnes quittent la scène, il y a une dégradation contraire à la description ci-dessus.
-
 ### Scénarimage
 
-#### 1. Idle (Respiration)
+#### 1. État de sommeil (0 personnes)
 
-Se répète en boucle tant et aussi longtemps que personne n'est détecté.
+Un effet de respiration dans l'audio, les lumières suivant le rythme, se répète en boucle tant et aussi longtemps que personne n'est détecté. 
 
 * ##### 1.1 Inspiration (Fade In)
     
@@ -88,7 +84,9 @@ Se répète en boucle tant et aussi longtemps que personne n'est détecté.
   
   <img src="medias/idle_off.png"  width="55%">
 
-#### 2. Présence (Éveil)
+#### 2. État d'éveil (Au moins 1 personne)
+
+Lorsqu'une personne entre dans la zone d'un côté de la sculpture, la technologie associée au côté s'active avec un son lui correspondant.
 
 * ##### 2.1 Technologie 1 (Boules 200mm)
 
@@ -120,7 +118,9 @@ Se répète en boucle tant et aussi longtemps que personne n'est détecté.
   <img src="medias/ledstrip2.png"  width="55%">
   <img src="medias/ledstrip3.png"  width="55%">
   
-#### 3. Climax
+#### 3. Climax (Au moins 4 personnes)
+
+Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation de lumières et de sons entre 45 et 60 secondes s'active.
 
 * ##### 3.1 Silence (Fermeture des lumières)
 
