@@ -175,14 +175,14 @@ Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation
         * *(Technologie lumineuse: Bande LEDS):* **Son féérique (pad);**
     * 5 sons d'une courte durée par cotés de poteaux ( 5x4 )
     * Son de respiration ( idle )
-    * Paysage sonore de 30 à 60 secondes ( Apogée )
+    * Paysage sonore de 45 à 60 secondes ( Climax )
 ---
 
 * __Lumière (vidéo)__
-    * 7 scene Madmapper
+    * 7 scènes Madmapper
     * 10 vidéos
         * 3 vidéos pour les DMX
-        * 4 vidéos pour chaque technologies
+        * 4 vidéos pour chaque technologie
         * 2 vidéos pour le climax
         * 1 vidéo pour le idle
 ---
