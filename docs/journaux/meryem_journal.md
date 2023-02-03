@@ -50,6 +50,12 @@ Je vais devoir commencer à mieux comprendre le mapping, afin de ne pas avoir de
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
+- Premier comité communication
+- Confirmation de l'intention du projet
+- Simplirication et confirmation de l'intéractivité du projet
+- Rédaction des liens entre la lumière et le son de façon précise
+- Rédaction des étapes du scénario
+- Rédaction du scénarimage
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -59,31 +65,27 @@ Je vais devoir commencer à mieux comprendre le mapping, afin de ne pas avoir de
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Suite à la rencontre mardi, nos professeurs nous ont dit que notre projet était trop ambitieux avec le temps alloué et le budget. Guillaume m'a finalement annoncé que la Caméra POE ne pouvait avoir lieu, donc que nous ne pouvions compter le nombre de personne précisément. Il donna la solution d'avoir des capteurs sur le poteau du milieu à la place, mais cela ne prendrait pas la zone entière. De plus, Daryl nous avertissait qu'avec le temps, il serait très difficile de faire l'intéractivité sur les poteaux extérieurs. Ces deux enjeux modifiaient complètement notre intéractivité et on devait se tourner de bord. Nous nous sommes rencontrés en équipe et après de longs questionnements, nous avons décidé précisément l'intention de notre projet et l'intéractivité associée à celle-ci. Nous passions d'une intéractivité de la zone entière à seulement le poteau central. Ensuite, le reste de la semaine, l'équipe d'intéractivité devait s'attarder sur chaque étape pour le scénarimage. De longues rencontres sur le questionnement pour le son, les lumières, les liens entre eux, etc. Cette étape était si longue que je n'ai pas pu commencer à voir MadMapper et j'ai été en retard pour faire mon journal.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais commencer à voir des vidéos sur Madmapper pendant la fin de semaine. Aussi, pour les prochaines semaines, je vais écrire mon journal au fur et à mesure afin de ne pas être en retard vers la fin de la semaine. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Tout de même, je suis fière du gros travail que j'ai accompli cette semaine avec mon équipe. Le projet évolue rapidement, mais nous ne prenons pas de retard sur nos dates limites! 
 
 ### Défis pour la prochaine semaine
-
+Ce sera de commencer les tests afin d'évaluer si tout ce que nous voulons faire en intéractivité est possible et réalisable. Il faudra terminer la préproduction ensuite. 
 
 ---
 ## Semaine 3 
