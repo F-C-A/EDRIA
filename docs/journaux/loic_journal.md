@@ -28,7 +28,7 @@
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
-- [ ] Assez
+- [ ] Assezz
 - [] Peu
 - [ ] Pas du tout
 
@@ -48,40 +48,41 @@ Réalisation de la vidéo de présentation et rédaction de la liste de matérie
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-Cette semaine mon équipe et moi etions toujours dans l'étape de concrétisation du concept de notre projet. Du à cela j'ai fait beaucoup de rencontre d'équipe de maniere a presiser et optimiser notre concept a la situation. J'ai dresser la liste complete du matériel a louer et acheter de plus j'ai fait le montage de notre vidéo explicative.
+Cette semaine mon équipe et moi etions toujours dans l'étape de concrétisation du concept de notre projet. Du à cela j'ai fait beaucoup de rencontre d'équipe de maniere a presiser et optimiser notre concept à la situation. J'ai dresser la liste complete du matériel à louer et acheter de plus j'ai fait le montage de notre vidéo explicative. J'ai commencer à travailler sur une nouvelle maquette visuelle sur photoshop pour pouvoir avoir une bonne representation visuelle de notre projet dans l'Espace qui sera à jour avec nos dernier changement et avec nos dernieres idee. Je me suis aussi familiariser avec la programmation de lumiere via arknet et madmapper
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![meeting](medias/meeting1.jpg)
+![meeting](medias/budget2.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Bien que j'ai pu avancer autant la préprod que j'avais initiallement prévue, j'aurais aimé mettre plus de temps sur des tache comme le deisgn d'une bannière web, le photoshop et d'autre tâche de se type. Ces tâche n'était pas prioritaire mais vont tout de même devoir être faite lors de la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais prendre un peu plus de temps dans ma semaine la semaine prochaine pour rattraper le leger retard.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Nous aurions aimé terminer plus rapidement la préproduction pour pouvoir nous mettre plus tôt sur la réalisation de notre vidéo, mais nous avons tout de même réussi à prendre une légère avance au niveau de la réalisation de la liste de matériel et de notre idée de réalisation concrète de projet.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+pour nous assurer du bon fonctionnement de notre projet. Puisque nous commencer la conception active de notre projet lors de la semaine 4 la semaine prochaine sera particulièrement demandante au niveau de la préparation. De plus, j'aimerais commencer à travailler sur le code arduino qui servira à la captation de présence sur notre structure.
 
 ---
 ## Semaine 3 
