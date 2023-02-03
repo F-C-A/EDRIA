@@ -42,12 +42,14 @@ Dans un univers féerique, rassembler autour d'une sculpture représentant la du
 Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnue : Entre Fungus. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous leurs yeux. Une structure centrale attire l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et s'approchent de la dite structure: des lumières s'allument, des sons se déclenchent, et il semblerait que la présence de plusieurs personnes soit nécessaire pour progresser...
 
 
+
 ## Tableau d'ambiance (*moodboard*)
 
 ### Audio<br>
 [Référence féérique](https://www.youtube.com/shorts/z6iGZhqrxRY) <br>
 [Référence ambiophonique](https://www.youtube.com/shorts/v1o-gKb9cJc)<br>
 
+---
 ### Lumières & Champignons
 [Palette de couleurs](https://coolors.co/ffe065-fe81b4-25bcd4-1356b4-71f074)<br>
 [Champignons](https://www.youtube.com/watch?v=GZ8umWHb2j8)<br>
@@ -64,6 +66,7 @@ Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnu
 [Photo #3 | Référence non retrouvée/Artiste inconnu](https://www.youtube.com/watch?v=yUHwj6AAWJE) <br>
 [Photo #4 | Fond de Enchanted Magical Forest 1 Hour Ambient](https://www.youtube.com/watch?v=yUHwj6AAWJE) <br>
 
+---
 ## Scénario, scénarimage ou document audio/visuel
 
 ### Scénarimage
@@ -164,9 +167,29 @@ Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-2 paysages sonores (dont 1 modulable)
+ * __Audio__
+    * 4 paysages sonores d'une durée de 1h
+        * *(Technologie lumineuse: boule):* **Sons liquides;**
+        * *(Technologie lumineuse: DMX Pixel):* **Son de textures granulaires;**
+        * *(Technologie lumineuse: Dots strings):* **Son square waves;**
+        * *(Technologie lumineuse: Bande LEDS):* **Son féérique (pad);**
+    * 5 sons d'une courte durée par cotés de poteaux ( 5x4 )
+    * Son de respiration ( idle )
+    * Paysage sonore de 30 à 60 secondes ( Apogée )
+---
 
-4 modules multimédias (captation des données, interprétation des données, contrôle d'éclairage et effets audiovisuels)
+* __Lumière (vidéo)__
+    * 7 scene Madmapper
+    * 10 vidéos
+        * 3 vidéos pour les DMX
+        * 4 vidéos pour chaque technologies
+        * 2 vidéos pour le climax
+        * 1 vidéo pour le idle
+---
+* __Communication__
+    * Patcher arduino de traitement de données recensées par les capteurs
+    * Patcher Pur data pour envoyer ces données vers madmapper
+   
 
 
 ## Univers artistique des éléments
@@ -252,7 +275,7 @@ Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation
     * Carte de son 
     * Amplificateurs
     * V-Show Artnet RDM DMX Controller
-
+---
 
 ## Équipements requis (Liste officielle matériel)
 
@@ -274,7 +297,7 @@ Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation
         * ( x8 ) 1' x 1' x 8' (triangle)
         * ( x1 ) 2' x 2' x 8' (carré)
 
-
+---
 ### À acheter 
 * __Audio__
     * [( 9x ) Haut-P-arleurs Yamaha NS-AW194BL](https://www.amazon.ca/-/fr/Yamaha-NS-AW194BL-Haut-parleurs-int%C3%A9rieur-ext%C3%A9rieur/dp/B007QTAWYC)
@@ -317,17 +340,20 @@ Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation
 
 ## Logiciels requis
 
-FL Studio (Version 21.0.0.3324)<br>
-VCV Rack (Version 2.2.1) <br>
-madmapper (Version 2022.29850) <br>
-Arduino IDE (Version 2.0.3) <br>
+* FL Studio (Version 21.0.0.3324)<br>
+* VCV Rack (Version 2.2.1) <br>
+* Madmapper (Version 2022.29850) <br>
+* Arduino IDE (Version 2.0.3) <br>
 
+---
 ## Ressources humaines requises
 
 * TTP, location de matériel
 * Designeuse industrielle; Madame Geneviève 
 * Les prof du programme TIM
 * Cr34te (équipement et installation)
+
+---
 
 ## Ressources spatiales requises (rangement et locaux)
 
@@ -340,6 +366,7 @@ Arduino IDE (Version 2.0.3) <br>
 * Petit Studio
     * Enregistrement audio
 
+---
 ## Contraintes techniques et potentiels problèmes de production
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
@@ -370,13 +397,18 @@ https://github.com/F-C-A/ENTRE-FUNGUS/milestones
 - Vernissage devant public : jeudi 23 mars 18h30;
 - Démontage: vendredi 24 mars.
 
+
+---
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
 https://github.com/orgs/F-C-A/projects/1
 
+
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
 https://github.com/F-C-A/ENTRE-FUNGUS/issues
 
+
+---
 ## Rôles et responsabilités des membres de l'équipe
 
 **Elwin**
