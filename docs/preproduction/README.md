@@ -1,27 +1,27 @@
 # Préproduction
 
 # Table des matières
-1. [Intention ou concept](#Intention-ou-concept)
-    - [Cartographie](#Cartographie)
-    - [Intention de départ](#Intention-de-départ)
-    - [Synopsis](#Synopsis)
+1. [Intention ou concept](#intention-ou-concept)
+    - [Cartographie](#cartographie)
+    - [Intention de départ](#intention-de-départ)
+    - [Synopsis](#synopsis)
     - [Tableau d'ambiance (*moodboard*)](#tableau-dambiance-moodboard)
     - [Scénario, scénarimage ou document audio/visuel](#scénario-scénarimage-ou-document-audiovisuel)
-2. [Contenu multimédia à intégrer](#Contenu-multimédia-à-intégrer)
-    - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
+2. [Contenu multimédia à intégrer](#contenu-multimédia-à-intégrer)
+    - [Inventaire du contenu multimédia](#inventaire-du-contenu-multimédia)
     - [Univers artistique des éléments](#univers-artistique-des-éléments)
 3. [Planification technique d'un prototype (devis technique)](#planification-technique-dun-prototype-devis-technique)
-    - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
+    - [Schémas ou plans techniques](#schémas-ou-plans-techniques)
     - [Matériaux requis](#matériel-de-scénographie-requis)
     - [Équipements requis](#équipements-requis)
-    - [Logiciels requis](#Logiciels-requis)
-    - [Ressources humaines requises](#Ressources-humaines-requises)
+    - [Logiciels requis](#logiciels-requis)
+    - [Ressources humaines requises](#ressources-humaines-requises)
     - [Ressources spatiales requises (rangement et locaux)](#ressources-spatiales-requises-rangement-et-locaux)
     - [Contraintes techniques et potentiels problèmes de production](#contraintes-techniques-et-potentiels-problèmes-de-production)
 4. [Planification de la production d'un prototype (budget et étapes de réalisation)](#planification-de-la-production-dun-prototype-budget-et-étapes-de-réalisation)
-    - [Budget prévisionnel](#Budget-prévisionnel)
-    - [Échéancier global](#Échéancier-global)
-    - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
+    - [Budget prévisionnel](#budget-prévisionnel)
+    - [Échéancier global](#échéancier-global)
+    - [Liste des tâches à réaliser](#liste-des-tâches-à-réaliser)
     - [Rôles et responsabilités des membres de l'équipe](#rôles-et-responsabilités-des-membres-de-léquipe)
     - [Moments des rencontres d'équipe](#moments-des-rencontres-déquipe)
 
@@ -436,8 +436,9 @@ https://github.com/F-C-A/ENTRE-FUNGUS/issues?q=is%3Aopen+is%3Aissue+no%3Aassigne
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **Mardi 13h (1h-2h)** : Rencontre de suivi de projet.
-- **Jeudi 13h (1h-2h)** : Rencontre de suivi de projet.
+- **Mardi 13h (1h)** : Rencontre suite au rencontre avec les enseignant.
+- **Mecredi 13h (1h)** : Rencontre suite au commité de communiquation.
+- **Jeudi 13h (1h-2h)** : Rencontre de suivi suite au comité technique.
 
 
 Autre: 
