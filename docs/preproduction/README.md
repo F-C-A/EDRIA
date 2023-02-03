@@ -60,7 +60,7 @@ Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnu
 ### Références
 
 [Photo #1 | Na'vi River Journey - The World of Avatar au Disney's Animal Kingdom](https://touringplans.com/blog/everything-you-need-to-know-about-navi-river-journey/) <br>
-[Photo #2 | Fond de Enchanted Magical Forest 1 Hour Ambient](https://www.youtube.com/watch?v=yUHwj6AAWJE) <br>
+[Photo #2 | Fantasy Magical Path Through Enchanted Forest](https://www.freepik.com/premium-photo/fantasy-magical-path-through-enchanted-forest-trees-dreamy-wilderness-nature-night-mysterious-nat_32811852.htm) <br>
 [Photo #3 | Fond de Enchanted Magical Forest 1 Hour Ambient](https://www.youtube.com/watch?v=yUHwj6AAWJE) <br>
 [Photo #4 | Fond de Enchanted Magical Forest 1 Hour Ambient](https://www.youtube.com/watch?v=yUHwj6AAWJE) <br>
 
