@@ -75,7 +75,8 @@ Cette fin de semaine, je vais commencer à travailler sur des "patterns" de lumi
 
 Notre travail sur le scénarimage!
 
-![Moi en train de travailler](medias/gab_work.jpg)
+<img src="medias/scenarimage.jpg" width="65%">
+<img src="medias/textes_scenarimage.PNG" width="65%">
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
