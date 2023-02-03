@@ -59,7 +59,8 @@ Je vais devoir commencer à mieux comprendre le mapping, afin de ne pas avoir de
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Rencontre d'équipe sur l'intéractivité](medias/meryem_sem2.jpg)
+![Scénarimage](medias/scenarimage_sem2.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
