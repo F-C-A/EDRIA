@@ -65,38 +65,50 @@ Cette fin de semaine, je vais commencer à travailler sur des "patterns" de lumi
 ## Semaine 2
 ### Résumé des réalisations effectuées
 
+- Rencontre de clarification de l'intention de l'installation
+- 3 Rencontres pour le scénarimage de l'installation
+- Écriture des textes des images du scénarimage
+- Mise en ligne sur github du scénarimage
+- Écriture des références du moodboard d'ambiance générale
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+Notre travail sur le scénarimage!
 
+![Moi en train de travailler](medias/gab_work.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+Je m'étais dis que j'allais commencé à faire du prototypage de couleur pour les fixtures adressables lors de la soirée des portes ouvertes, mais j'avais un mal de tête insupportable, donc je n'ai pas pu être présent. Cependant, même si je n'ai pas rempli complètement mes objectifs, j'ai réalisé d'autres tâches qui ont pris la grande majorité de mon temps et qui a fait avancer le projet davantage.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Remettre à la semaine prochaine le travail que je m'étais fixé, c'est-à-dire le prototypage de couleur. Je vais demander au TTP le matériel pour brancher au moins une lumière et faire des tests de couleur. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Pas tant d'écart pour l'instant je trouve. Je sens que notre projet avance à une bonne vitesse grâce à nos multiples rencontres, réunions et suivis. Il se concrétise de plus en plus. Cependant, nous devons filmer notre vidéo demain, le vendredi 3 Février 2023, mais je sais qu'il nous reste quelques petits détails à ajouter à la préproduction et avec la soirée porte ouverte, ça enlève du temps pour travailler dessus.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Je sens que nos réunions prennent souvent beaucoup de temps à cause de la complexité et la grosseur de notre projet. Je crois qu'on serait capable de les réduirent pour moins qu'elles s'éternisent.
 
 ### Défis pour la prochaine semaine
+- Faire le prototypage des couleurs pour les fixtures adressables
 
 
 ---
