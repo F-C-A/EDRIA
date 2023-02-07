@@ -198,7 +198,11 @@ Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation
 
 ### Schéma de branchement
 
-![exemple de schema](medias/schema_complet_v2.png)
+![schéma de branchement](medias/schema_complet_v2.png)
+
+### Schéma poteau central
+
+![schéma poteau central](medias/schema poteau central.drawio.png)
 
  ### Emplacement 
  
