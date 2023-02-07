@@ -202,7 +202,7 @@ Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation
 
 ### Schéma poteau central
 
-![schéma poteau central](medias/schema poteau central.drawio.png)
+![schéma poteau central](medias/schéma poteau central.drawio.png)
 
  ### Emplacement 
  
