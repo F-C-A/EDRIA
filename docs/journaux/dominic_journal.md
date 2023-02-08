@@ -97,7 +97,10 @@ Amener à complétion les différents tests nécessaires à la réalisation de n
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+ - dernier petits ajustement au budget
+ - rencontre avec Daryl (08/02/2023), conclusion: centralisation dans le studio. Pour le son, quatre haut-parleur au centre plus huit autour.
+ - schéma détaillé du poteaux central et ordre de montage.
+ - rencontre avec Elwin: liste des dates importantes pour mon échéancier.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -111,7 +114,7 @@ Amener à complétion les différents tests nécessaires à la réalisation de n
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -124,10 +127,10 @@ Amener à complétion les différents tests nécessaires à la réalisation de n
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Du à certaines découvertes récentes, nous allons centraliser notre projet dans le studio. Ceci me force à revisiter le schéma de branchement, heureusement, les changements sont assez mineurs dans leurs grandeurs.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je garde mes anciens schéma de branchement, dans l'idée d'en avoir un pour toutes les possibilitées possibles, et avoir des back-up au cas où nous devrions étrangement nous adapter une nième fois. 
 
 ### Défis pour la prochaine semaine
 
