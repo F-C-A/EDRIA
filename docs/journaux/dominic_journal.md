@@ -101,28 +101,30 @@ Amener à complétion les différents tests nécessaires à la réalisation de n
  - rencontre avec Daryl (08/02/2023), conclusion: centralisation dans le studio. Pour le son, quatre haut-parleur au centre plus huit autour.
  - schéma détaillé du poteaux central et ordre de montage.
  - rencontre avec Elwin: liste des dates importantes pour mon échéancier.
+ - recherche pure data
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image semaine 3](medias/IMG_0333.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-
+Malheureusement, nous avons pas pu allé chez cr34te pour prendre des échantillons, alors je n'ai pas pu commencer mes tests.  Malgré tout j'ai pu mettre du temps pour me familiariser avec pure data, ce qui sera utile lors de l'intégration.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Je m'assure de me trouver des tâches que je peux faire pour que mon équipe ne orenne pas de retard. 
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
