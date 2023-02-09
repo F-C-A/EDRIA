@@ -17,11 +17,18 @@ Nous avons bien hâte d'avoir accès à des échantillons du matériel de cr34te
 
 ## Semaine 2
 
-Cette semaine a été riche en rebondissements. En premier lieu, nous avons changé la façon dont notre interactivité allait marcher. L'idée de la structure centrle semble promettante, et simplifie notre projet. 
+Cette semaine a été riche en rebondissements. En premier lieu, nous avons changé la façon dont notre interactivité allait marcher. L'idée de la structure centrale semble promettante, et simplifie notre projet. 
 
 ![reunions](medias/meeting1.jpg)
 
 En 2e lieu, nous avons refait la vidéo de présentation de la préproduction. Suite aux commentaires des professeurs sur la première, cette 2e vidéo est plus précise et concise. Elle devrait bien permettre à n'importe qui de comprendre la direction de notre projet.
+
+![reunions](medias/video1.JPG)
+
+En 3e lieu, les équipes d'intégration ainsi que d'installations ont réalisé des schémas/scénarimages détaillés. Ces réalisations donnent vraiment une idée claire du déroulement de l'expérience.
+
+![reunions](medias/scenarimage_sem2.png)
+![reunions](medias/sketch_poteau_central_2.jpg)
 
 ## Semaine 3
 
