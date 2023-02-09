@@ -30,6 +30,8 @@ En 3e lieu, les équipes d'intégration ainsi que d'installations ont réalisé 
 ![reunions](medias/scenarimage_sem2.png)
 ![reunions](medias/sketch_poteau_central_2.jpg)
 
+Le budget est assez complet, nous attendons donc les échantillons de cr34te afind de pouvoir jouer avec. La grande majorité des préparatifs sont terminés, nous pourrons normalement commencer la production la semaine prochaine.
+
 ## Semaine 3
 
 ## Semaine 4
