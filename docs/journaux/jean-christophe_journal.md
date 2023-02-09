@@ -20,7 +20,7 @@
 - Révision générale du concept et de la technique utilisé. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/jc_work.jpg)
+![Jean-Christophe fait une liste de produits à acheter](medias/jc_work.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [X] Complètement
@@ -94,11 +94,11 @@ Commencer a effectuer des tests (pour ceux qui sont possibles)
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-Pour cette semaine je devais faire des tests sur la spacialisation des speakers et de la création de médias. J'ai effectué les tests de spacialisation avec Dominic dans le grand studio et j'ai aussi commencé la création plus spécifique des médias dans le but de les envoyer à Meryem et à Gabriel
+Pour cette semaine je devais faire des tests avec les speakers et de la création de médias. J'ai effectué ces tests avec Dominic dans le grand studio et j'ai aussi commencé la création de médias pour le mode "éveil" de notre installation dans le but de les envoyer à Meryem et à Gabriel la semaine prochaine.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![ici est une description de l'image](medias/photoshop.jpg)
+![Visite à l'UQAM pour voir l'évolution de leurs prototypes](medias/jc_visite_uqam.jpg)
 
 
 
@@ -106,15 +106,15 @@ Pour cette semaine je devais faire des tests sur la spacialisation des speakers 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [X] Assez
-- [ ] Peu
+- [ ] Assez
+- [X] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-J'ai réussi à-
+Certains de mes deadlines était difficile à respecter. Je suis un peu en retard dans la création de médias, mais ce retard ne devrais pas trop se faire sentir dans le travail des semaines à venir.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais continuer de travailler sur les sons durant les soirés et durant les fin de semaines pour ne pas donner de retard à Meryem et à Gabriel.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -130,7 +130,7 @@ Les échéanciers qui m'ont été donné cette semaine était extrèmement diffi
 Je n'aurai pas le choix de travailler durant les fins de semaines sur l'audio pour avoir le temps de terminer mes taches à temps.
 
 ### Défis pour la prochaine semaine
-Terminer la trame sonore du mode éveil complètement et l'avoir envoyé à meryem pour le 17 Février.
+Terminer la trame sonore du mode éveil complètement et l'avoir envoyé à Meryem et Gabriel pour le 17 Février.
 
 ---
 ## Semaine 4
