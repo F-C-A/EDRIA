@@ -94,7 +94,7 @@ Commencer a effectuer des tests (pour ceux qui sont possibles)
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+Pour cette semaine je devais faire des tests sur la spacialisation des speakers et de la création de médias. J'ai effectué les tests de spacialisation avec Dominic dans le grand studio et j'ai aussi commencé la création plus spécifique des médias dans le but de les envoyer à Meryem et à Gabriel
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -106,12 +106,12 @@ Commencer a effectuer des tests (pour ceux qui sont possibles)
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai réussi à-
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -120,16 +120,17 @@ Commencer a effectuer des tests (pour ceux qui sont possibles)
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [X] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Les échéanciers qui m'ont été donné cette semaine était extrèmement difficile a respecter puisque je n'avais qu'une seule journée pour faire un des cotés de la bande sonore (Le mode éveil).
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je n'aurai pas le choix de travailler durant les fins de semaines sur l'audio pour avoir le temps de terminer mes taches à temps.
 
 ### Défis pour la prochaine semaine
+Terminer la trame sonore du mode éveil complètement et l'avoir envoyé à meryem pour le 17 Février.
 
 ---
 ## Semaine 4

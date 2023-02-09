@@ -173,6 +173,9 @@ Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation
     * 5 sons d'une courte durée par cotés de poteaux ( 5x4 )
     * Son de respiration ( idle )
     * Paysage sonore de 45 à 60 secondes ( Climax )
+
+        [Documentation complète](https://docs.google.com/document/d/1G0ipLxlnnkN6PNWmdoCUJ1VOL-VgRDy19ehneK7n8qE/edit?usp=sharing)
+
 ---
 
 * __Lumière (vidéo)__
