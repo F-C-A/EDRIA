@@ -91,39 +91,46 @@ Ce sera de commencer les tests afin d'évaluer si tout ce que nous voulons faire
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
+- Visite à l'UQAM et présentation de notre projet
+- Finition de la préproduction
+- Détermination des dates limites
+- Comité communication: 1ère idée de texte pour projet
+- Comité technique: Détermination de la possibilité d'utiliser le FabLab de la BAnQ
+- Premier jet et essais sur Madmapper
+- Apprentissage des scènes et transitions sur Madmapper
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Visite d'UQAM](medias/mery_UQAM.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Nous sommes partis voir l'UQAM lundi matin. Mardi matin, nous avons eu la confirmation de notre préproduction avec les professeurs. Ils ont félicités mon travail de scénarimage dont l'organisation et la clarté de celle-ci et j'en étais fière. Cependant, ils ont critiqués le manque de deadlines pour notre projet. Nous avons dû alors faire une grosse rencontre d'équipe, personne par personne avec le chef du projet, afin de déterminer les dates limites. Je me suis rendue compte que j'avais moins de temps que prévu afin d'apprendre et finir Madmapper pour le projet, puisque je dois attendre que l'audio soit terminé pour commencer. De plus, je me suis rendue compte que nous avions moins de temps pour les retouches et les bugs après l'installation. Cela m'a stressé encore plus. J'ai ensuite commencé à apprendre MadMapper et je suis contente de l'avancement que j'ai eu, mais maintenant que les deadlines sont autants limites, je dois avancer plus rapidement.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais devoir commencer à prototyper Madmapper sans même avoir de tests ou d'audio disponible.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Mon échéancier a dû être modifié puisque je ne peux pas bouger sans audio.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+J'ai dû repenser à mon échéancier et je vais devoir terminer mes tests en prototypage avant même d'avoir finis mes médias.
 
 ### Défis pour la prochaine semaine
+Je dois commencer mes tests avec les échantillons de Cr34te, en ayant des exemples de médias. Je dois aussi comprendre comment je vais séparer mes lumières sur MadMapper.
 
 ---
 ## Semaine 4
