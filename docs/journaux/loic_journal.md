@@ -108,7 +108,8 @@ Cette semaine, j'ai travaillé sur plusieurs projets différents :
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 ![visualisation](medias/visualisation.png)
-![meeting](medias/visualisation.png)
+![meeting](medias/sensors.jpg)
+![meeting](medias/montage.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -122,22 +123,23 @@ Cette semaine, j'ai travaillé sur plusieurs projets différents :
  J'ai fait plus que ce que je comptais faire cette semaine sur ceertain aspect. Dû au fait que le code arduino est déja fait en très grnade partie. Les test que j'avais prévu pour la semiane son déja presque fini. Par contre, je n'ai pas fait tout les tests avec maddmapper que javais prévu et nous n'avons pas pu aller chercher le matériel de Cr34te
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Pour les tests, je vais les terminer aujourd'hui. Pour ce qui est de Cr34te, 
+Pour les tests, je vais les terminer aujourd'hui. Pour ce qui est de Cr34te, pusique la situation est hors de mon controle, je n'ai pas d'autre choix que d'attendre.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Comme mentionné plus haut, il n'y a pas eu d'équart particuier à l'exeption de Cr34te, cela fait en sorte que nous n'avons pas pu faire certain des tests qui étaient prévus pour las semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous allons rattraper les tests manqué en allant chercheer l'équipement en début de semaine prochaine.
 
 ### Défis pour la prochaine semaine
+Pour la semaine prochaine j'aimerais avoir finis la majortité du code pure data relié au sensors et à la connection avec madmapper, j'aimerais si possible commencer à faire des tets avec l'intégration sonore au patcher.
 
 ---
 ## Semaine 4
