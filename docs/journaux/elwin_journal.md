@@ -116,7 +116,7 @@ Liste de matériel et commande amazon envoyée définitevement. Il faut égaleme
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![Tableau résumant les différentes deadlines importantes pour les membres de l'équipe.](medias/deadline.jpg)
+![Tableau résumant les différentes deadlines importantes pour les membres de l'équipe.](medias/deadline.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
