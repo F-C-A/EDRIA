@@ -108,40 +108,44 @@ Liste de matériel et commande amazon envoyée définitevement. Il faut égaleme
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+-Rencontres individuelles et en groupe afin d'établir un échéancier qui devrait arranger tout le monde pour les prochaines semaines
+-Visite à l'UQAM et Présentation de notre projet
+-Préproduction terminée
+-Comité communication: Mon texte est apprécié
+-Amélioration du github avec des milestones plus spécifiques par rapport aux issues
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Tableau résumant les différentes deadlines importantes pour les membres de l'équipe.](medias/deadline.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ L'ensemble des tâches me conçernant sont concluantes. Cependant, celles qui sont hors de notre contrôle sont difficiles à évaluer, majoritairement conçernant cr34te. Nous n'aurons pas réussi à avoir des échantillons de leur matériel cette semaine, ce n'est pas bien grave mais il faudra les obtenir le plus tôt possible. Les listes de matériel devraient être envoyées sous peu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Avancer le plus possible avec les choses qui sont sous notre contrôle. La team d'intégration est bien partie de ce côté, et la création de médias suit son cours.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Pas d'écart de mon côté, si ce n'est que la visite chez cr34te n'a pas pu se faire.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Avancer le plus possible avec ce qui ne concerne pas les éléments extérieurs.
 
 ### Défis pour la prochaine semaine
-
+Commencer à jouer avec de l'équipement d'installation si possible, et avoir des médias de prêt pour la présentation des 1ere année.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
