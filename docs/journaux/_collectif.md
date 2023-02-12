@@ -34,6 +34,11 @@ Le budget est assez complet, nous attendons donc les échantillons de cr34te afi
 
 ## Semaine 3
 
+Cette semaine nous a permis de commencer la production concrète de notre projet. D'abord, nous avons rendu visite aux étudiants de l'UQAM. L'objectif était d'observer les avancées des projets tout en révélant les notres, avec les videos de préproduction que nous avions préparé.
+
+![reunions](medias/uqam1.JPG)
+![reunions](medias/uqam2.JPG)
+
 ## Semaine 4
 
 ## Semaine 5
