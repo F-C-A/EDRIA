@@ -39,6 +39,16 @@ Cette semaine nous a permis de commencer la production concrète de notre projet
 ![reunions](medias/uqam1.JPG)
 ![reunions](medias/uqam2.JPG)
 
+Par la suite, nous avons effectué des rencontres en groupe et individuelles avec Elwin. Nous manquions d'échéanciers précis, et chaque membre de l'équipe possède des dealines qui leur sont propres. Afin de rendre le processus clair, un échéancier global a été établi. 
+
+![reunions](medias/deadline.JPG)
+
+Suite à cela, il était normalement prévu d'aller chercher des échantillons chez cr34te jeudi 9 Février, mais la sortie n'a pas pu se faire suite suite à un manque de communication de la compagnie. La team d'intégration a commencé a tester des médias sur les logiciels importants, comme madmapper par exemple. 
+
+![reunions](medias/lumieres_etat_sommeil.png)
+![reunions](medias/sensors.jpg)
+
+Nous espérons vraiment avoir accès à du matériel de cr34te pour la semaine prochaine, la team d'installation en a vraiment besoin. Autre que ça, nous avançons bien, et chacun s'attelle à ses tâches respectives. 
 ## Semaine 4
 
 ## Semaine 5
