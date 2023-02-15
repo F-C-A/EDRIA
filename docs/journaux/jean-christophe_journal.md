@@ -99,7 +99,7 @@ Pour cette semaine je devais faire des tests avec les speakers et de la créatio
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 ![Visite à l'UQAM pour voir l'évolution de leurs prototypes](medias/jc_visite_uqam.jpg)
-
+La visite était à l'UQAM m'a permis de mieux comprendre les concepts sonores et visuels et les discussions avec les étudiants m'ont permis de mieux comprendre comment atteindre ces objectifs.
 
 
 
@@ -135,39 +135,41 @@ Terminer la trame sonore du mode éveil complètement et l'avoir envoyé à Mery
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+Cette semaine j'ai terminé les 4 cotés monophoniques du centre de l'installation interactive. J'ai aussi terminé la création le mixage et le mastering de la trame sonore d'arrière plan qui sera panné en surround durant la semaine 6. J'ai aussi ajouté d'autres références audio au document de scénario lumière/audio. J'ai aussi entamé la création de certains sons "on enter".
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Test surround avec les speakers et l'équipement de Cr34te](medias/.jpg)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai réussi à faire toutes mes tâches pour la semaine en atteignant mes deadlines comme prévu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Puisque je suis a jour avec les deadlines, je n'ai qu'à garder le même rythme pour les prochaines semaines.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+J'ai été un peu en retard pour l'envoi des médias (la date était dimanche, mais je les ai envoyé lundi vers midi du à certaines modifications de dernière minute)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il n'y aura rien à faire.
 
 ### Défis pour la prochaine semaine
+Terminer la composition, le mixage et le mastering du climax.
 
 ---
 ## Semaine 5
