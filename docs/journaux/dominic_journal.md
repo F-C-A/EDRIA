@@ -142,7 +142,8 @@ Je garde mes anciens schéma de branchement, dans l'idée d'en avoir un pour tou
 - récupération des échantillons chez cr34te (14/02/2023)
 - installation du dot string (festoon), tube Opal et boule 200mm sur le pont d'éclairage [test matériel] conclusion: nous devons nous procurer des clamps et des zip ties pour installer efficacement les différentes lumières. (14/02/2023)
 - connection des différentes composantes allant se trouver dans le cabanon sur un chariot. (15/02/2023)
-- 
+- installation des speaker sur notre prototype. (16/02/2023)
+- test des haut-parleur. Conclusion: nous avons réussis à faire fonctionné les haut-parleurs Dual, les haut-parleurs externes et le subwoofer. Nous aurons besoins d'un deuxième cabanon pour le sub. 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
