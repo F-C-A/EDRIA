@@ -149,39 +149,49 @@ Commencer à jouer avec de l'équipement d'installation si possible, et avoir de
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+-Aide générale d'installation (cable management, agencement des technologies ensemble)
+-Documentation des avancées de prototype de l'équipe
+-Devoirs du comité communication 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![la structure centrale porototype prend forme](medias/elwin_work4.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'aurais tendance à dire assez, cependant, nous avons commencé la production d'un prototype quand même fonctionnel cette semaine, étant donné que cr34te ne nous donne du matériel que pour 1 semaine. J'aide donc Dominic en installation, mais je ne peux aider qu'aux petites tâches, étant donné que nous sommes pressés d'avoir un prototype qui fonctionne, même s'il parait ''bootleg''. Nous devons donc lier le peu de médias que nous avons avec l'équipement qui arrivera plus tard.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Personellement, je n'ai pas de problème à régler en tant que tel. Après les essais de prototypage, les milestones commenceront à s'atteindre. Je continuerai de faire de la documentation et d'aider en installation lorsque nos tests seront concluants et que nous aurons une bonne idée claire de l,ensemble de l'installation.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+La team intégration s,active dans la création de leurs médias. Normalement ils devraient être dans les temps, et nous transfèrent ce qu'ils ont réalisés au fur et à mesure pour que nous fassions des tests en installation. Nous avons un prototype plutôt satisfaisant, et nous aurons donc des bonnes explications à donner aux 1ere années la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Continuer d'expérimenter le plus possible dans nos délais.
 
 ### Défis pour la prochaine semaine
+-Avoir un logo pour l'équipe (comité communication)
+-Avoir un prototype bien complet
+-Avancer les issues/milestones de github
+-Mardi participer au tournage de 2square afin de promouvoir/expliquer notre projet
+-Jeudi/Vendredi Montrer tout le processus de création de notre projet aux 1ere années
 
 ---
 ## Semaine 5
