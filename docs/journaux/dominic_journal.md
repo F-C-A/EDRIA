@@ -147,7 +147,7 @@ Je garde mes anciens schéma de branchement, dans l'idée d'en avoir un pour tou
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![image semaine 4](medias/fom_plus_proto.jpg)
+![image semaine 4](medias/dom_plus_proto.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
