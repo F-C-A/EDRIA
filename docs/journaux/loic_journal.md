@@ -144,7 +144,7 @@ Pour la semaine prochaine j'aimerais avoir finis la majortité du code pure data
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+Cette semaine j'ai mis la majorité de mon temps sur la première itération de notre prototype. Dans un premier temps j'ai créer un prototype sur roues avec un sensors et 4 DMX de façons à tester l'interactivité entre le sensors et maddmapper. Ses tests m'ont permis de mettre au point un patcher de relais pure data question de faire le liens entre les données captées par le sensors et le logi9.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -153,30 +153,31 @@ Pour la semaine prochaine j'aimerais avoir finis la majortité du code pure data
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Bien que j'ai pu faire plus que ce que je m'avais fixé au niveau du son et de l'installation, je n'ai pu finaliser les patch pure data. Je suis très bien avancé mais il me reste encore plusieurs chose à deboguer et corriger
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Puisque je suis en avance par raport à d'autre tâche du prijet, je pourrais finaliser mes patchs sans prendre de retard
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+  Noud voulions avoir un prototype complètement viable vendredi. Pour l'instant la plupart des aspects seront pret mais il y a toujours quelque problème avec le liens entre les sensors et les animations 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais poser des question et faire de la recherche pour reussir à rentrer dans les deadline le plus possible
 
 ### Défis pour la prochaine semaine
+Pour la semaine prochaine j'aimerais sourtout pouvoir ajouter 2 capteur à nos prototype sans creer de probleme avec le reste de l'installation.
 
 ---
 ## Semaine 5
