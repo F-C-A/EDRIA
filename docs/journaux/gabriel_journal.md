@@ -166,6 +166,8 @@ Continuer pour l'instant avec les 5p Hex de American DJ, car de toute façon, j'
 - Créer l'animation de l'état d'éveil (4 animations? 1 par technologie?)
 - Continuer à faire des tests et m'approprier le logiciel MadMapper
 
+
+
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
@@ -176,6 +178,7 @@ Continuer pour l'instant avec les 5p Hex de American DJ, car de toute façon, j'
 - Création dans After Effects d'une animation 2D de dégradés animés à l'aide d'effets pour l'état d'éveil
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+Animation d'un dégradé de couleur dans After Effects pour l'état d'éveil
 
 ![Dégradés État Éveil](medias/gradient_eveil.PNG)
 
@@ -210,6 +213,8 @@ Pour me concentrer et arrêter d'être distrait par mon environnment, je vais co
 - Discuter avec Meryem pour les couleurs utilisées afin de ne pas avoir des couleurs qui se répètent
 - Refaire l'animation de l'état d'éveil si elle ne marche pas bien lors du prototypage de vendredi
 - Aider où les personnes de mon équipe en ont de besoin
+
+
 
 ---
 ## Semaine 5
