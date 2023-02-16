@@ -66,7 +66,6 @@ Cette fin de semaine, je vais commencer à travailler sur des "patterns" de lumi
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
 - Rencontre de clarification de l'intention de l'installation.
 
 - 3 Rencontres pour le scénarimage de l'installation.
@@ -170,39 +169,47 @@ Continuer pour l'instant avec les 5p Hex de American DJ, car de toute façon, j'
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
+- Apprentissage plus approfondi de After Effects et MadMapper
 
+- Réalisation de tests d'animation dans After Effects et MadMapper
+
+- Création dans After Effects d'une animation 2D de dégradés animés à l'aide d'effets pour l'état d'éveil
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Dégradés État Éveil](medias/gradient_eveil.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai créé une animation prototype de l'état d'éveil et continué à réaliser des tests dans MadMapper de plus que dans After Effects. Par contre, je n'ai pas fait l'animation d'état de sommeil, car elle est surtout basée sur l'audio et c'est l'audio de cet état-ci qui est réalisé en dernier.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Pas grand chose que je peux faire, car l'audio pour l'état de sommeil était pas encore réalisé, mais je peux concentrer mes efforts sur un état à la fois au lieu d'en faire plusieurs à la fois.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Je crois que ma partie des fixtures adressables a pris du retard, puisque j'ai été beaucoup distrait par mon environnement, mais à part de cela, le prototype final sera terminé pour vendredi et à mes yeux tout le reste semble avancer à un bon rythme.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Pour me concentrer et arrêter d'être distrait par mon environnment, je vais commencer à mettre des écouteurs avec de la musique pour me concentrer sur mon ordinateur.
 
 ### Défis pour la prochaine semaine
+- Réussir à travailler efficacement en me concentrant sur mon travail
+- Discuter avec Meryem pour les couleurs utilisées afin de ne pas avoir des couleurs qui se répètent
+- Refaire l'animation de l'état d'éveil si elle ne marche pas bien lors du prototypage de vendredi
+- Aider où les personnes de mon équipe en ont de besoin
 
 ---
 ## Semaine 5
