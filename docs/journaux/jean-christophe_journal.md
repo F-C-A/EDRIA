@@ -138,7 +138,7 @@ Terminer la trame sonore du mode éveil complètement et l'avoir envoyé à Mery
 Cette semaine j'ai terminé les 4 cotés monophoniques du centre de l'installation interactive. J'ai aussi terminé la création le mixage et le mastering de la trame sonore d'arrière plan qui sera panné en surround durant la semaine 6. J'ai aussi ajouté d'autres références audio au document de scénario lumière/audio. J'ai aussi entamé la création de certains sons "on enter".
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Test surround avec les speakers et l'équipement de Cr34te](medias/.jpg)
+![Test surround avec les speakers et l'équipement de Cr34te](medias/jc_test_sono.jpg)
 
 
 
