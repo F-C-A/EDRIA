@@ -139,39 +139,44 @@ Je garde mes anciens schéma de branchement, dans l'idée d'en avoir un pour tou
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
+- récupération des échantillons chez cr34te (14/02/2023)
+- installation du dot string (festoon), tube Opal et boule 200mm sur le pont d'éclairage [test matériel] conclusion: nous devons nous procurer des clamps et des zip ties pour installer efficacement les différentes lumières. (14/02/2023)
+- connection des différentes composantes allant se trouver dans le cabanon sur un chariot. (15/02/2023)
+- 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![image semaine 4](medias/fom_plus_proto.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Je pense que nous avons accomplie la majorité des tests possible en ce qui concerne l'installation physique des lumières sur le pont d'éclairage (conclusion: voir réalisation de la semaine).  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+n/a
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ce n'est pas un écart écart, mais nous devons retourner les échantillons de cr34te lundi, alors nous n'avons pas beaucoup de temps pour se familiariser avec le matériel que nous allons utiliser pour le produit finale.  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
+Mon objectif principale pour la semaine prochaine sera de créer un plan de déploiement complet et exhaustivement détaillé en préparation de la journée du 13 mars 2023, quand cr34te vont venir installer le matériel. 
 
 ---
 ## Semaine 5
