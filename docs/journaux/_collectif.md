@@ -51,6 +51,25 @@ Suite à cela, il était normalement prévu d'aller chercher des échantillons c
 Nous espérons vraiment avoir accès à du matériel de cr34te pour la semaine prochaine, la team d'installation en a vraiment besoin. Autre que ça, nous avançons bien, et chacun s'attelle à ses tâches respectives. 
 ## Semaine 4
 
+Cette semaine, nous avons reçu des exemplaires de matériel de cr34te. Cependant, le matériel ne nous est prêté que pour 1 semaine (donc à remettre lundi 20 février). Nous nous sommes donc activés afin de délivrer un prototype d'installation et d'interactivité pour le vendredi 17 février. Chacun s'est concentré sur ses tâches respectives, et le résultat final a donné un résultat satisfaisant, même avec cette limite de temps conçernant le matériel. 
+
+Pour la team d'installation, Dominic, Loic et Elwin se sont attelés à simuler le poteau central qui servira de support pour l'interactivité. La structure fait environ le 2/5 de la taille finale que nous utiliserons, et les speakers sont également disposés aux alentours. Nous avons également ajouté des fausses plantes pour avoir un aperçu esthétique du poteau.
+
+![reunions](medias/dom_plus_proto.jpg)
+
+Pour la team d'intégration, les médias sont en train de se créer et avancent a bon rythme. Nous avons pu en tester quelques uns pour le prototype.
+La liaison puredata entre les données captées par les sensors et le logi9 permet au utilisateurs de bien être détectés lorsque quelqu'un se place devant le sensor. 
+
+![reunions](medias/prototype1.JPG)
+![reunions](medias/mery_prototype_02.jpg)
+
+Certains agencements de lumière on été changés en cours de route afin de rendre la structure centrale plus belle esthétiquement parlant (elle peut paraitre surchargée lorsque toutes les lumières sonmt ouvertes en même temps). 
+
+Les animations de lumière avancent à bon rythme en accordance avec les sons qui sont créés. Chaque animation de lumière dépend de l'ambiance sonore, nous essayons donc de toujours garder en tête l'influence qu'aura le son dans la scène.
+
+Pour la semaine prochaine, nous devrons rendre la mtériel qui nous a servi de prototype. La team d'installation commencera les plans détaillés qui serviront de référence pour cr34te lorsqu'ils viendront installer le matériel. Pour la team d'intégration, il s'aggira d'avancer les médias le plus possible afin de couvrir les différentes phases Sommeil-Éveil-Climax. 
+
+Nous aurons également des présentations à faire dans le cadre de la technique. Nos tests ont été plutôt concluants, nous saurons expliquer en détail les divers méchanismes et interactions entre les différentes technologies présentes dans Edria.
 ## Semaine 5
 
 ## Semaine 6
