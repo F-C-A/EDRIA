@@ -135,10 +135,10 @@ Je dois commencer mes tests avec les échantillons de Cr34te, en ayant des exemp
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
--Avancement de MadMapper
--Tests des lumières sur l'installation
--Modification du type de lumières sur l'installation
--Prototype terminé
+- Avancement de MadMapper
+- Tests des lumières sur l'installation
+- Modification du type de lumières sur l'installation
+- Prototype terminé
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Prototype des lumières](medias/mery_prototype_02.jpg)
