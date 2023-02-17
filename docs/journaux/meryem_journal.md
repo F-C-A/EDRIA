@@ -138,7 +138,8 @@ Je dois commencer mes tests avec les échantillons de Cr34te, en ayant des exemp
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Prototype des lumières](medias/mery_prototype_02.jpg)
+![Prototype des lumières](medias/mery_prototype_01.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
