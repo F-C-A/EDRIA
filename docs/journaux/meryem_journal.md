@@ -135,7 +135,10 @@ Je dois commencer mes tests avec les échantillons de Cr34te, en ayant des exemp
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+-Avancement de MadMapper
+-Tests des lumières sur l'installation
+-Modification du type de lumières sur l'installation
+-Prototype terminé
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Prototype des lumières](medias/mery_prototype_02.jpg)
@@ -145,30 +148,29 @@ Je dois commencer mes tests avec les échantillons de Cr34te, en ayant des exemp
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+Nous avons reçu le matériel de Cr34te au début de la semaine. Nous avons eu la mauvaise nouvelle des professeurs que nous allions devoir remettre le matériel lundi prochain. Nous devions alors finir le prototype pour ce vendredi, les professeurs n'étant pas là les lundis, afin d'avoir l'approbation. Je devais donc laisser la création des vidéos d'animation pour une autre semaine et faire des tests sur les lumières le plus possible puisque je ne pourrais pas le voir en temps réel dans le futur. C'est vers le milieu de la semaine que nous avons remarqué que la façon que nous voulions créer les animations sur MadMapper n'était pas possible. Après un gros coup de stress, nous avons trouvé une solution, et j'ai maintenant une idée plus claire de comment je vais effectuer mes différentes scènes. Vers la fin de la semaine, l'installation du prototype étant terminé, nous avons dû repenser au design du poteau du milieu parce que plusieurs lumières ne marchaient pas esthétiquement. Cela m'a un peu bousculé sur mes animations, mais ce n'est pas au moins une grosse modification. J'ai donc pris toute la semaine pour faire des tests et finir le prototype en apprenant Madmapper, et je suis assez fière de l'amélioration que j'ai effectuée. Cependant, j'aurais aimé commencer mes vidéos afin de pouvoir tester en temps réel.
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais commencer mes vidéos la semaine prochaine, en ayant des lumières d'Amazon pour tester. Ce ne sera pas complètement représentatif, mais ce sera assez.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Même si je n'ai pas pu commencer mes vidéos, je m'étais fixé comme date limite de mes tests le 23 février. J'ai fini ces tests une semaine d'avance à cause du changement de dates pour le matériel, donc j'ai une semaine de plus pour me concentrer sur les médias que je dois créer.
 
 
 ### Défis pour la prochaine semaine
+Ce sera de commencer les vidéos, idéalement, avoir fini les animations des différents côtés du poteau central, ayant maintenant l'audio pour.
 
 ---
 ## Semaine 5
