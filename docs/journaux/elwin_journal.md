@@ -181,7 +181,7 @@ Personellement, je n'ai pas de problème à régler en tant que tel. Après les 
 
 #### S'il y a des écarts, décrivez-les.
 
-La team intégration s,active dans la création de leurs médias. Normalement ils devraient être dans les temps, et nous transfèrent ce qu'ils ont réalisés au fur et à mesure pour que nous fassions des tests en installation. Nous avons un prototype plutôt satisfaisant, et nous aurons donc des bonnes explications à donner aux 1ere années la semaine prochaine.
+La team intégration s'active dans la création de leurs médias. Normalement ils devraient être dans les temps, et nous transfèrent ce qu'ils ont réalisés au fur et à mesure pour que nous fassions des tests en installation. Nous avons un prototype plutôt satisfaisant, et nous aurons donc des bonnes explications à donner aux 1ere années la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Continuer d'expérimenter le plus possible dans nos délais.
@@ -196,40 +196,46 @@ Continuer d'expérimenter le plus possible dans nos délais.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Comité communication, Confection d'un logo, synopsis et intention ainsi que texte d'invitation
+- GantLab chart
+- Tournage de 2square et Présentation aux 1ere années
+- Prototype plutôt complet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![logo](medias/Edria_logo_noir.png)
+![gant](medias/gantlab.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai effectué les tâches que je m'étais données. Cependant, le gantlab que j'ai réalisé est moyennement clair, il y a beaucoup de barres qui font penser à des blocs, ce qui indique pas trop les objectifs de chaque semaine. Soit il faudrait changer ça par personne, ou demander à Daryl une autre façon d'organiser cela. Notre prototype de la semaine passée était bien complet, cette semaine je n'ai pas mal participé qu'à des retouches et ajustements en fonction du matériel que nous recevons au fur et à mesure.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Tenter de prendre plus d'initiatives de moi-même ainsi que me faire expliquer par Dominic les schémas d'installation qu'il réalise. Trouver une manière de rendre le gantlab plus lisible ou bien de trouver un autre site/logiciel.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Cette semaine pour moi oui. Cependant, certaines tâches assignées aux autres coéquipier peuvent prendre du retard, par exemple pour le son. Cela pourrait décaler les deadline et changer les dates pour le github.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Comme d'habitude, garder le github à jour.
 
 ### Défis pour la prochaine semaine
 
+- Continuer de participer pour l'installation, il y a toujours des ajustements et des test de matériel à faire
+- AVoir un gant ou autre système de calendrier plus clair
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
