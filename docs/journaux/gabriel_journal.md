@@ -219,37 +219,47 @@ Pour me concentrer et arrêter d'être distrait par mon environnment, je vais co
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
+- Animations finales de l'état d'éveil pour les fixtures adressables aposées sur les poteaux extérieurs :
 
+  -> Création de 4 animations de dégradés animés (40s chaque)
+  
+  -> Copie des 4 animations, puis inversement de celles-ci pour créer 8 animations
+  
+  -> Chaque paire d'animations (normale et inversées) sont rotationnées selon les valeurs respectives (0°, 90°, 180° et 270°)
+  
+  -> Création de 2 mosaïques 2x2 de 4 animations du même type (vidéo normale ou inversée)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+Animation Éveil Finale
 
-
+![Plan Mosaïque Éveil](medias/eveil_plan.jpg)
+![Animation Finale Éveil MadMapper](medias/eveil_final_madmapper.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai refait l'animation d'éveil comme j'avais dit que j'allais refaire, j'ai réussi à me débloquer de mon état distrait et réussi à avancer sur les animations en travaillant de la maison et en mettant de la musique lorsqu'à l'école. Par contre, je n'ai pas encore parlée avec Meryem pour les couleurs, mais je ne crois pas en avoir besoin avant le climax seulement, donc j'étais un peu trop d'avance dans mes défis.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Continuer à avancer en créant des animations pour les états de sommeil et pour le climax. Il n'y a pas de situation qui a besoin de solution pour l'instant, je m'étais simplement fixé un objectif trop tôt, car il sera réalisé seulement plus tard dans la création de médias.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Pour ma part j'avance accordément à l'échéancier, mais on change de capteur, donc au niveau du projet complet, nous aurons d'autres tests à réaliser pour les nouveaux capteurs ce qui fait en sorte que nous aurons à refaire une partie étant déjà supposée être faite, ce qui ralentira le travail le l'intégration. De plus, ces capteurs nous seront disponibles seulement dans 2 semaines
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Pas grand chose que l'on peut faire pour le changement de capteurs. On peut tout de même faire des recherches sur le fonctionnement de ceux-ci et régler le plus de problèmes pour les capteurs que nous avons à l'instant pour espérer qu'ils règleront aussi ceux des nouveaux capteurs.
 
 ### Défis pour la prochaine semaine
 
