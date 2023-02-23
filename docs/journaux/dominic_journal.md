@@ -182,7 +182,9 @@ Mon objectif principale pour la semaine prochaine sera de créer un plan de dép
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- schéma de branchement pour les composantes audio de l'installation. 
+- schéma d'installation des hauts-parleurs
+- finalisation de la liste de matériel
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -191,12 +193,12 @@ Mon objectif principale pour la semaine prochaine sera de créer un plan de dép
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai tout fait les test que je pouvais faire avec le matériel que j'ai pour le moment et j'ai commencer les schéma d'installation. De plus, nous avons réussi à faire un prototype fonctionnel avec deux sensor.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -204,18 +206,18 @@ Mon objectif principale pour la semaine prochaine sera de créer un plan de dép
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Je n'ai pas pu tester certaines technologie comme les dmx pixel 5v ou tester de mettre plusieur boule 200mm.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+Mon défi pour la semaine prochaine sera de faire un prototype fonctionnel de boite avec 3 ou 6 sensor connecté.
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
