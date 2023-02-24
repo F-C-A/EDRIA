@@ -174,47 +174,49 @@ Terminer la composition, le mixage et le mastering du climax.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+J'ai composé le clima, j'ai commencé a mixer et masteriser le climax et j'ai avancé sur certains sons "on enter"
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![FL Studio de Edria](medias/fl_edria.png)
+![Jean-Christophe au petit studio usant du controller midi](medias/jc_piano.jpg)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je ne suis pas autant en avance que je le voulait, mais je ne suis pas dans un retard qui pourrait être problématique.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Comme d'habitude je vais travailler en soirée et durant les fins de semaines.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait
+- [X] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+À cause des visites au studio, je n'ai pas pu être productif pendant la première moitié de la semaine, ce qui m'a nui pour l'aspect de composition du climax
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais travailler de soir et durant les fins de semaines.
 
 ### Défis pour la prochaine semaine
-
+Terminer le Idle pour lundi, modifier certains des sons mono du mode éveil et ajouter quelques sons à l'arrière plan du mode éveil. Je dois aussi terminer les 5 variations de sons "on enter" pour vendredi prochain.
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Jean-Christophe au petit studio usant du controller midi](medias/.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
