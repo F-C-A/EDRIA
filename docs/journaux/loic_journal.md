@@ -183,39 +183,41 @@ Pour la semaine prochaine j'aimerais sourtout pouvoir ajouter 2 capteur à nos p
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+j'ai participé a la conception du gantt, jai revu une partie des issues du github, jai ajouter deux capteur a l'installation, regler une partie des problèmes audios et j'ai modifier les photos presente sur le site web.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Alt text](medias/puredata_2.png)
+![Alt text](medias/update-web.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ avec l'avance que jai pris la semaine derniere, il m'a ete facile de continuer sans prendre aucum retard.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+puisque je suis a l'avance je n'ai pas a remedier a la situation.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Puisque j'ai pu prendre de l'avance il n'y a pas d'equart
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+puisque je suis a l'avance je n'ai pas a remedier a la situation.
 
 ### Défis pour la prochaine semaine
+Faire une banniere pour le site et regler les derniers problème audio 
 
 ---
 ## Semaine de rattrapage
