@@ -186,8 +186,8 @@ Pour la semaine prochaine j'aimerais sourtout pouvoir ajouter 2 capteur à nos p
 j'ai participé a la conception du gantt, jai revu une partie des issues du github, jai ajouter deux capteur a l'installation, regler une partie des problèmes audios et j'ai modifier les photos presente sur le site web.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Alt text](medias/puredata_2.png)
-![Alt text](medias/update-web.png)
+![](medias/puredata_2.png)
+![](medias/web_update.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
