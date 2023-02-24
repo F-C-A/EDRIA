@@ -262,6 +262,10 @@ Pour ma part j'avance accordément à l'échéancier, mais on change de capteur,
 Pas grand chose que l'on peut faire pour le changement de capteurs. On peut tout de même faire des recherches sur le fonctionnement de ceux-ci et régler le plus de problèmes pour les capteurs que nous avons à l'instant pour espérer qu'ils règleront aussi ceux des nouveaux capteurs.
 
 ### Défis pour la prochaine semaine
+- Ajustements finaux pour les animations d'état d'éveil
+- Création de l'animation finale de l'état de sommeil
+
+
 
 ---
 ## Semaine de rattrapage
