@@ -184,7 +184,7 @@ Mon objectif principale pour la semaine prochaine sera de créer un plan de dép
 ### Résumé des réalisations effectuées
 - schéma de branchement pour les composantes audio de l'installation. 
 - schéma d'installation des hauts-parleurs
-- finalisation de la liste de matériel
+- finalisation de la liste de matériel 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![schema branchement detail audio](medias/schema_branchement_detail_audio.png)
@@ -197,7 +197,7 @@ Mon objectif principale pour la semaine prochaine sera de créer un plan de dép
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai tout fait les test que je pouvais faire avec le matériel que j'ai pour le moment et j'ai commencer les schéma d'installation. De plus, nous avons réussi à faire un prototype fonctionnel avec deux sensor.
+ J'ai tout fait les test que je pouvais faire avec le matériel que j'ai pour le moment et j'ai commencer les schéma d'installation. De plus, nous avons réussi à faire un prototype fonctionnel avec deux capteurs.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -211,12 +211,16 @@ Mon objectif principale pour la semaine prochaine sera de créer un plan de dép
 
 #### S'il y a des écarts, décrivez-les.
 Je n'ai pas pu tester certaines technologie comme les dmx pixel 5v ou tester de mettre plusieur boule 200mm.
+Les capteurs TOF ne sont pas étanche alors nous allons probablement les changer pour des capteurs de recule d'automobile. 
+Nous allons avoir la nécessité d'acquérir un connecteur 4 broches à 5 broches pour connecter les fixture colordash au cr34te 8 node
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ces problèmes sont mineur pour le moment puisqu'il nous reste encore du temps pour les regler. Cependant, plus nous le reglons rapidement, moins ils grossissent.   
 
 ### Défis pour la prochaine semaine
-Mon défi pour la semaine prochaine sera de faire un prototype fonctionnel de boite avec 3 ou 6 sensor connecté.
+Mon défis pour la semaine prochaine sera de simuler le rack extérieur dans un chariot avec le nouveau système artnet que cr34te nous a prêté.
+Peut-être essayer de monter les haut-parleurs Dual sur les support que nous utilisons pour simuler nos poteaux extérieurs dans notre prototype.
+
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
