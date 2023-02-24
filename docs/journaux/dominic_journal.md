@@ -187,7 +187,6 @@ Mon objectif principale pour la semaine prochaine sera de créer un plan de dép
 - finalisation de la liste de matériel
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-schema_brenchement_detail_audio
 ![schema branchement detail audio](medias/schema_branchement_detail_audio.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
