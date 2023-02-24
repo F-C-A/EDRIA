@@ -175,14 +175,14 @@ Ce sera de commencer les vidéos, idéalement, avoir fini les animations des dif
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
--Interview par 2Square
--Test des différentes animations de lumières 
--Test des différentes couleurs et agencement par rapport au son et aux autres lumières 
--Création des animations d'éveil sur After Effects
--Comité communication: Logo et résumé du projet
--Variations synchronisées d'animations avec le son
--Présentation aux premières années
--Test des différents univers pour les lumières 
+- Interview par 2Square
+- Test des différentes animations de lumières 
+- Test des différentes couleurs et agencement par rapport au son et aux autres lumières 
+- Création des animations d'éveil sur After Effects
+- Comité communication: Logo et résumé du projet
+- Variations synchronisées d'animations avec le son
+- Présentation aux premières années
+- Test des différents univers pour les lumières 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Création des médias pour les lumières](medias/mery-sem5.jpg)
