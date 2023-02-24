@@ -175,7 +175,14 @@ Ce sera de commencer les vidéos, idéalement, avoir fini les animations des dif
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+-Interview par 2Square
+-Test des différentes animations de lumières 
+-Test des différentes couleurs et agencement par rapport au son et aux autres lumières 
+-Création des animations d'éveil sur After Effects
+-Comité communication: Logo et résumé du projet
+-Variations synchronisées d'animations avec le son
+-Présentation aux premières années
+-Test des différents univers pour les lumières 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Création des médias pour les lumières](medias/mery-sem5.jpg)
@@ -184,31 +191,31 @@ Ce sera de commencer les vidéos, idéalement, avoir fini les animations des dif
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je n'ai pas pu commencer mes médias comme voulu au début de la semaine avec l'interview de 2Square et l'incertitude que nous gardions peut-être le matériel. Dès que j'ai eu la bonne nouvelle que le matériel serait gardé, et que nous pouvions garder le prototype comme il était, j'étais extrêmement heureuse! Ça m'a enlevé beaucoup de stress puisque les animations et les couleurs changent beaucoup de lumières en lumières. Il est donc plus facile pour moi de juger avec le son l'animation lorsque je peux tester en même temps sur Madmapper. Je suis donc restée tout le reste de la semaine jusqu'à 10h30 au studio afin de me concentrer à créer mes médias. Avec les présentations des 1ères années me ralentissant puisque je ne pouvais travailler en même temps, j'ai réussi à finir 3 côtés sur 4, mais j'aurais aimé finir les 4 côtés pour ce vendredi. Je considère quand même cette semaine comme une semaine très productive et très amusante avec les différentes présentations et interview, je suis donc assez fière de moi!
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais essayer de finir mon 4ème côté pendant la fin de semaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Pour l'instant, je ne suis pas en retard dans mes médias. Cependant, j'aurais dû finir mes 4 côtés en même temps que Jean-Christophe ait finit le son de climax. J'ai la fin de semaine en plus pour la finir, parce qu'il n'a pas fini son son vendredi comme prévu et prend aussi la fin de semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais devoir passer encore plus de temps que prévu à l'école pendant la semaine de relâche afin de finir mes médias de façon plus efficace et rapide. 
 
 ### Défis pour la prochaine semaine
-
+Comme il n'y aura aucune rencontre la semaine prochaine avec les professeurs, en plus d'avoir aucune autre chose à effectuer, je vais aller à l'école souvent pendant la semaine pour créer tout le reste de mes médias. Je dois finir tous mes médias, dont la synchronisation avec le son, pour vendredi prochain.
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
