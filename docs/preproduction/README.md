@@ -203,13 +203,15 @@ Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation
 
 ![schéma de branchement](medias/schema_de_branchement_general_3.png)
 
+#### Schéma de branchement détaillé pour l'audio
+
+![schema branchement detail audio](medias/schema_branchement_detail_audio.png)
+
 ### Schéma poteau central
 
 ![schéma poteau central](medias/schema_poteau_central.png)
 
-### Schéma de branchement détaillé pour l'audio
 
-![schema branchement detail audio](medias/schema_branchement_detail_audio.png)
 
  ### Emplacement 
  
