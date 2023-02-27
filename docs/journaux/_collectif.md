@@ -77,20 +77,20 @@ Cette semaine, nous en avons profité pour faire des ajustements et des test de 
 
 En terme d'installation, tous les tests avec le matériel disponibles ont été réalisés, et des schémas de branchement ont été réalisés. Les sensors marchent bien, mais nous pensons en utiliser des plus étanches, comme par exemple, les sensors utilisés sur les voitures. Nous continuons donc de faire des tests au fur et à mesure que le matériel commandé arrive.
 
-![reunions](schema_branchement_detail_audio.png)
+![reunions](medias/schema_branchement_detail_audio.png)
 
 En terme d'intégration, la création des médias se déroule sans encombre. Les animations de lumière marchent bien et rendent bien sur madmapper. La plupart des extraits sonores sont utilisés comme références pour les animations. Nous n'avons pas tant testé les animations et les rendus de couleur UV par contre. 
 
-![reunions](mery-sem5.jpg)
+![reunions](medias/mery-sem5.jpg)
 
 Important de noter que la plupart des tâches de chaque membre de l'équipe se concrétisent, il faut donc continuer à garder une organisation claire et une bonne communication entre les avancées des membres de l'équipe. 
 
-![reunions](elwin_work6.JPG)
+![reunions](medias/elwin_work6.JPG)
 
 Cette semaine, nous avons également eu des présentations de projet. Mardi 21 février, 2square sont venus filmer et regarder les équipes pendant le dévloppement du projet. Ils en ont profité pour poser des questions et nous interviewer sur notre processus de création, notre ressenti par rapport au projet, etc.
 Les étudiants en 1ere année du programme sont également venus nous voir Jeudi et Vendredi de la même semaine. Notre tâche était de les guider à travers les projets du groupe. En répondant à leurs questions et en démontrant le fonctionnement d'Edria, nous croyons en avoir inspiré plus d'un.
 
-![reunions](mery-sem5-2.JPG)
+![reunions](medias/mery-sem5-2.JPG)
 
 
 
