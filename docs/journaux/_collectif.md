@@ -49,6 +49,7 @@ Suite à cela, il était normalement prévu d'aller chercher des échantillons c
 ![reunions](medias/sensors.jpg)
 
 Nous espérons vraiment avoir accès à du matériel de cr34te pour la semaine prochaine, la team d'installation en a vraiment besoin. Autre que ça, nous avançons bien, et chacun s'attelle à ses tâches respectives. 
+
 ## Semaine 4
 
 Cette semaine, nous avons reçu des exemplaires de matériel de cr34te. Cependant, le matériel ne nous est prêté que pour 1 semaine (donc à remettre lundi 20 février). Nous nous sommes donc activés afin de délivrer un prototype d'installation et d'interactivité pour le vendredi 17 février. Chacun s'est concentré sur ses tâches respectives, et le résultat final a donné un résultat satisfaisant, même avec cette limite de temps conçernant le matériel. 
@@ -70,7 +71,31 @@ Les animations de lumière avancent à bon rythme en accordance avec les sons qu
 Pour la semaine prochaine, nous devrons rendre la mtériel qui nous a servi de prototype. La team d'installation commencera les plans détaillés qui serviront de référence pour cr34te lorsqu'ils viendront installer le matériel. Pour la team d'intégration, il s'aggira d'avancer les médias le plus possible afin de couvrir les différentes phases Sommeil-Éveil-Climax. 
 
 Nous aurons également des présentations à faire dans le cadre de la technique. Nos tests ont été plutôt concluants, nous saurons expliquer en détail les divers méchanismes et interactions entre les différentes technologies présentes dans Edria.
+
 ## Semaine 5
+Cette semaine, nous en avons profité pour faire des ajustements et des test de matériel ainsi que de médias. Nous avons pu garder le matériel de cr34te qui a été prêté, et tout le monde fait preuve de minutie afin de donner un résultat satisfaisant. 
+
+En terme d'installation, tous les tests avec le matériel disponibles ont été réalisés, et des schémas de branchement ont été réalisés. Les sensors marchent bien, mais nous pensons en utiliser des plus étanches, comme par exemple, les sensors utilisés sur les voitures. Nous continuons donc de faire des tests au fur et à mesure que le matériel commandé arrive.
+
+![reunions](schema_branchement_detail_audio.png)
+
+En terme d'intégration, la création des médias se déroule sans encombre. Les animations de lumière marchent bien et rendent bien sur madmapper. La plupart des extraits sonores sont utilisés comme références pour les animations. Nous n'avons pas tant testé les animations et les rendus de couleur UV par contre. 
+
+![reunions](mery-sem5.jpg)
+
+Important de noter que la plupart des tâches de chaque membre de l'équipe se concrétisent, il faut donc continuer à garder une organisation claire et une bonne communication entre les avancées des membres de l'équipe. 
+
+![reunions](elwin_work6.JPG)
+
+Cette semaine, nous avons également eu des présentations de projet. Mardi 21 février, 2square sont venus filmer et regarder les équipes pendant le dévloppement du projet. Ils en ont profité pour poser des questions et nous interviewer sur notre processus de création, notre ressenti par rapport au projet, etc.
+Les étudiants en 1ere année du programme sont également venus nous voir Jeudi et Vendredi de la même semaine. Notre tâche était de les guider à travers les projets du groupe. En répondant à leurs questions et en démontrant le fonctionnement d'Edria, nous croyons en avoir inspiré plus d'un.
+
+![reunions](mery-sem5-2.JPG)
+
+
+
+La semaine prochaine étant une semaine de rattrapage, il n'y aura pas de réunions obligatoires à l'école. Chacun en profitera pour avancer de leur côté.
+La majorité des médias devront être réalisés (pour les 3 états SOmmeil/Éveil/Climax.) Nous en profiterons pour continuer des test de matériel au fur et à mesure que ça arrive. 
 
 ## Semaine 6
 
