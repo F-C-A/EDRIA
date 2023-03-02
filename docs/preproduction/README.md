@@ -207,6 +207,14 @@ Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation
 
 ![schema branchement detail audio](medias/schema_brenchement_detail_audio.png)
 
+#### Schéma de branchement détaillé pour l'alimentation
+
+![schema branchement detail alimentation](medias/schema_branchement_alimentation_detail.png)
+
+#### Schéma de branchement détaillé pour le distribution poe
+
+![schema branchement detail switch poe](medias/schema_branchement_detail_switch_ethernet.png)
+
 ### Schéma poteau central
 
 ![schéma poteau central](medias/schema_poteau_central.png)
