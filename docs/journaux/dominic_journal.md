@@ -224,7 +224,12 @@ Peut-être essayer de monter les haut-parleurs Dual sur les support que nous uti
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Réorganisation du prototype du rack extérieur pour inclure le nouveau module artnet.
+- installation des haut-parleur Dual sur les poteaux ext. de notre prototype.
+- gestion des cables
+- essaie de la gaine pour les bundles de fils.
+- création de schémas de branchement détaillé pour les différents modules du rack ext.
+- peinture sur les fausse plantes.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -232,20 +237,20 @@ Peut-être essayer de monter les haut-parleurs Dual sur les support que nous uti
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai réalisé tout les défis que je m'étais donné pour cette semaine et même plus.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+n/a
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -257,6 +262,7 @@ Peut-être essayer de monter les haut-parleurs Dual sur les support que nous uti
 
 
 ### Défis pour la prochaine semaine
+Dépendemment de ce qu'il va être possible pour moi de réalisé la semaine prochaine, j'aimerais soit commencer l'installation des modules dans le vrai rack ext., soit faire l'installation et les schémas de branchement détaillé des systèmes pour les capteurs, et si j'ai le temps, avoir terminé tout ce qui est DA sur le prototype.
 
 ---
 ## Semaine 6
