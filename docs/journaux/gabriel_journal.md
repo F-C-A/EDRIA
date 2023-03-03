@@ -273,6 +273,7 @@ Pas grand chose que l'on peut faire pour le changement de capteurs. On peut tout
 - Rencontre avec Meryem et Jean-Christophe pour parler du climax
 - Planification du climax
 - Animation du climax pour les fixtures adressables + UV
+- Ajustements minimes de l'animation de l'état d'éveil
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 Travail sur l'animation du climax des fixtures adressables
@@ -301,7 +302,7 @@ J'ai réalisé les quelques ajustements que je m'étais fixé pour l'animation d
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Je n'étais pas là à travailler au studio pour la majorité de la semaine, car nous avons manquez de courant dans les prises électriques, donc je ne suis pas au courant de nos écarts d'équipe. Je sais que cette situation nous a ralenti/empêchés de travail 1-2 jours de la semaine, mais grâce aux rallonges électricques que Guillaume a installé, j'ai entendu auprès mon équipe que nous avons été tout de même capable d'avancer. Personnellement, je n'ai pas d'écart. La semaine prochaine je m'attaque à la finalisation du contenu à créer (animations des différents états).
+Je n'étais pas là à travailler au studio pour la majorité de la semaine, car nous avons manquez de courant dans les prises électriques, donc je ne suis pas au courant de nos écarts d'équipe. Je sais que cette situation nous a ralenti/empêchés de travail 1-2 jours de la semaine, mais grâce aux rallonges électriques que Guillaume a installé, j'ai entendu auprès mon équipe que nous avons été tout de même capable d'avancer. Personnellement, je n'ai pas d'écart. La semaine prochaine je m'attaque à la finalisation du contenu à créer (animations des différents états).
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
