@@ -250,40 +250,41 @@ Terminer le Idle pour lundi, modifier certains des sons mono du mode éveil et a
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+Cette semaine, j'ai réalisé le climax dans son entièreté avec le mixage et le master.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Jean-Christophe au petit studio usant du controller midi](medias/jc_electrician.jpg.jpg)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai terminé le climax, le mixage, le master et j'ai effectué certains tests dans le grand studio Dans la perspective du surround pour la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il ne me manque pas grand choses donc je ne penses pas avoir besoin de temps supplémentaire comme durant les autres semaines. Je planifie tout finir pour vendredi.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [X] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Faire le mix et le master ont chacun présenté leurs propres défis. J'ai eu de la difficulté avec empêcher le mix de "clipper".
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il ne me manque que les états "on enter" et de terminer le mode éveil et de terminer le mode "idle"
 
 ### Défis pour la prochaine semaine
-
+Commencer la scénarisation et l'éxécution du climax du mode éveil et du idle.
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
