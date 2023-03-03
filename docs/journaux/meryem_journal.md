@@ -223,7 +223,7 @@ Comme il n'y aura aucune rencontre la semaine prochaine avec les professeurs, en
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Travail sur le climax](medias/mery_relache.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
