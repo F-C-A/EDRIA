@@ -220,7 +220,12 @@ Comme il n'y aura aucune rencontre la semaine prochaine avec les professeurs, en
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Scénario des lumières au climax par rapport au son
+- Test des différentes animations de lumières pour le climax
+- Test des différentes couleurs et agencement par rapport au son et aux autres lumières au climax
+- Création des animations du climax sur After Effects
+- Variations synchronisées d'animations avec la musique du climax
+- Test des différents univers pour les lumières en rajoutant le poteau extérieur
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Travail sur le climax](medias/mery_relache.jpg)
@@ -229,30 +234,31 @@ Comme il n'y aura aucune rencontre la semaine prochaine avec les professeurs, en
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'avais fini mon 4ème côté pendant la fin de semaine, comme je l'avais prévu. J'ai donc commencé à faire le climax lundi, en venant de recevoir la musique. Je devais commencer à faire mon scénario pour chaque lumière. Cependant, mardi, le courant a coupé. Je ne pouvais pas faire mes tests. J'ai donc dû travailler de la maison à finir mon scénario et faire mon premier média, à l'aveugle. Lorsque je suis venue mercredi en fin d'après-midi, quand Guillaume avant trouvé une solution pour le courant, je devais arranger tout ce que j'avais fait la veille. Cela m'a retardé dans la création de mes médias et je suis restée à chaque jour jusqu'à 11h au studio afin de travailler. Je n'ai pas fini mes médias pour le 3 mars, cependant, j'ai fait de grands progrès et je suis fière de l'avancement que j'ai effectué.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais devoir travailler pendant la fin de semaine et le début de la semaine prochaine afin de finir tous mes médias le plus rapidement possible.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [X] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Je devais avoir fini mes médias pour aujourd'hui le 3 mars. Je n'ai toujours pas fini le climax et l'état de sommeil n'a toujours pas été commencé, n'ayant même pas reçu le son encore. Je suis donc en retard, mais j'ai fini la majorité de ce que j'avais à faire.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Comme écrit en haut, je vais devoir travailler pendant la fin de semaine et le début de la semaine prochaine jusqu'à tard le soir afin de finir tous mes médias le plus rapidement possible.
 
 ### Défis pour la prochaine semaine
+Il faut que pour vendredi, le projet final soit terminé. Je dois donc finir mes médias et consolider le tout sur Madmapper. Ce sera un gros défi, mais je suis optimiste.
 
 ---
 ## Semaine 6
