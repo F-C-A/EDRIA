@@ -213,48 +213,11 @@ Terminer le Idle pour lundi, modifier certains des sons mono du mode éveil et a
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
+Cette semaine, j'ai structuré composé et réalisé le climax. J'ai aussi pris le temps de le mixer et de le masteriser. J'ai aussi révisé l'arrière plan du mode éveil, les sons mono des speakers du centre et j'ai composé les sons qui se déclencheront de manière aléatoire lors de l'entrée d'une personne dans la zone interactive.
 
-
-### Image d'une réalisation dont tu es la ou le plus fier
-![Jean-Christophe au petit studio usant du controller midi](medias/.jpg)
-
-
-### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Peu
-- [ ] Pas du tout
-
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Un peu
-- [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Défis pour la prochaine semaine
-
----
-## Semaine 6
-### Résumé des réalisations effectuées
-Cette semaine, j'ai réalisé le climax dans son entièreté avec le mixage et le master.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Jean-Christophe au petit studio usant du controller midi](medias/jc_electrician.jpg.jpg)
-
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -265,10 +228,12 @@ Cette semaine, j'ai réalisé le climax dans son entièreté avec le mixage et l
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai terminé le climax, le mixage, le master et j'ai effectué certains tests dans le grand studio Dans la perspective du surround pour la semaine prochaine.
+J'ai terminé le climax, le mixage, le master et j'ai effectué certains tests dans le grand studio dans la perspective du surround pour la semaine prochaine. En ayant faire certains tests en grand studio j'ai remarqué certains détails qui m'aideront la semaine prochaine lors du mixage dans l'optique du surround.
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Il ne me manque pas grand choses donc je ne penses pas avoir besoin de temps supplémentaire comme durant les autres semaines. Je planifie tout finir pour vendredi.
+
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -280,11 +245,47 @@ Il ne me manque pas grand choses donc je ne penses pas avoir besoin de temps sup
 #### S'il y a des écarts, décrivez-les.
 Faire le mix et le master ont chacun présenté leurs propres défis. J'ai eu de la difficulté avec empêcher le mix de "clipper".
 
+
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Il ne me manque que les états "on enter" et de terminer le mode éveil et de terminer le mode "idle"
 
+
 ### Défis pour la prochaine semaine
-Commencer la scénarisation et l'éxécution du climax du mode éveil et du idle.
+Commencer la scénarisation et la réalisation du climax du mode éveil et du idle en surround. Il me faudra aussi mixer certains éléments selons les speakers ou ils vont sortir.
+
+---
+## Semaine 6
+### Résumé des réalisations effectuées
+
+### Image d'une réalisation dont tu es la ou le plus fier
+
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [ ] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [ ] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+### Défis pour la prochaine semaine
+
+
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
