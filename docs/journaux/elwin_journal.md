@@ -240,39 +240,47 @@ Comme d'habitude, garder le github à jour.
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 
+-Aide pour l'installation (nouveaux sensors de voiture, Ajout de tous les speakers, etc.)
+
+-Bannière pour le site Web(?)
+
+-Avancées du github (issues, milestones, etc)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![travaux manuels](medias/elwin_work7.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+ J'ai pas mal focus sur l'installation avec dominic, tout en accomplissant des tâches différentes de ce que je fais d'habitude (comme percer des trous dans les supports des speakers afin d'y faire rentrer des boulons). Je n'ai pas réfléchi à d'autre moyens de faire un agenda, rendu loin dans le projet comme nous le sommes en ce moment, tout le monde sait exactement quoi faire chaque semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Toujours tenter de sortir de ma zone de confort et d'en apprendre plus. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Mes seuls écarts sont la bannière du site web, je n'ai pas encore produit un résultat qui me satisfait.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Chercher de l'insspiration en ligne. 
 
 ### Défis pour la prochaine semaine
 
+Si possible, commencer à installer des modules de matériel dans le rack qui ira à l'extérieur, finir la bannière et continuer d'aider en installation
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
