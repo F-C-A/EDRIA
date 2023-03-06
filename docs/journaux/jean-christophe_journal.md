@@ -210,6 +210,7 @@ Je vais travailler de soir et durant les fins de semaines.
 
 ### Défis pour la prochaine semaine
 Terminer le Idle pour lundi, modifier certains des sons mono du mode éveil et ajouter quelques sons à l'arrière plan du mode éveil. Je dois aussi terminer les 5 variations de sons "on enter" pour vendredi prochain.
+
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
@@ -217,7 +218,7 @@ Cette semaine, j'ai structuré composé et réalisé le climax. J'ai aussi pris 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Jean-Christophe au petit studio usant du controller midi](medias/jc_electrician.jpg.jpg)
+![Jean-Christophe au petit studio usant du controller midi](medias/jc_electrician.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -230,9 +231,8 @@ Cette semaine, j'ai structuré composé et réalisé le climax. J'ai aussi pris 
 #### Décrivez pourquoi.
 J'ai terminé le climax, le mixage, le master et j'ai effectué certains tests dans le grand studio dans la perspective du surround pour la semaine prochaine. En ayant faire certains tests en grand studio j'ai remarqué certains détails qui m'aideront la semaine prochaine lors du mixage dans l'optique du surround.
 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Il ne me manque pas grand choses donc je ne penses pas avoir besoin de temps supplémentaire comme durant les autres semaines. Je planifie tout finir pour vendredi.
+### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Il ne me reste qu'une somme modeste de tâches. J'assume donc que je n'aurai pas besoin de temps supplémentaire contrairement aux prochaines semaines. Je planifie donc tout finir pour vendredi.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
@@ -247,7 +247,7 @@ Faire le mix et le master ont chacun présenté leurs propres défis. J'ai eu de
 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Il ne me manque que les états "on enter" et de terminer le mode éveil et de terminer le mode "idle"
+Il ne me manque que les états "on enter" et de terminer le mode éveil et de terminer le mode "idle".
 
 
 ### Défis pour la prochaine semaine
