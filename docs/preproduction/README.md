@@ -219,6 +219,9 @@ Lorsque les 4 personnes ont activés les 4 cotés de la sculpture, une animation
 
 ![schéma poteau central](medias/schema_poteau_central.png)
 
+ ### Branchements speakers surround
+![Schéma des chaines audio surround](medias/schema_studio_angle_a.png)
+![Schéma des chaines audio surround](medias/schema_exterieur_angle_a.png)
 
 
  ### Emplacement 
