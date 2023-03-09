@@ -314,39 +314,51 @@ Je n'étais pas là à travailler au studio pour la majorité de la semaine, car
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Rectification des couleurs générales des lumières avec Meryem
+- Animation de l'état d'éveil refaite avec les bonnes couleurs
+- Mosaïque complète de 8 vidéos pour l'état d'éveil
+- Animation du climax refaite avec les bonnes couleurs
+- Ajustements supplémentaires apportés à l'animation du climax
+- Ajustements minimes à l'animation des UV dans le climax
+- Test de l'intensité des lumières à l'intro et à la fin de l'animation du climax
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+Mosaïque complète comptant 8 animations pour l'état d'éveil au lieu de 2 vidéos contenant 4 animations chacunes
 
-
+![Mosaïque Complète État Éveil](medias/full_mosaic_eveil.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
+J'ai réalisé les ajustements au climax et aux parties UV que je voulais. Je suis même allé plus loins en faisant des tests d'intensité de lumière pour certaines parties, j'ai changé toutes les couleurs avec Meryem et j'ai consolidé mes animation d'éveil en une vidéo pour réduire les bugs visuels qui pourraient survenir. Pour ce qui en est de l'animation de l'état d'éveil, puisque moi et Meryem avons la même animation à faire, nous nous sommes entendus pour prendre la sienne, donc je n'avais pas à en créer une moi-même.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Aucun écart à noter, puisque je n'étais pas là pour la majorité de la semaine, mais nous en sommes à la fin et je crois que tous ont bien avancé cette semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
+- Ajustement de la couleur rose pour l'animation du climax, puisqu'elle est trop forte/saturée
+- Création de variations pour l'animation du climax pour ne pas que toutes les fixtures jouent la même chose.
+- Création d'une seule vidéo mosaïque pour consolider les vidéos de variation du climax
 
 ---
 ## Semaine 7
