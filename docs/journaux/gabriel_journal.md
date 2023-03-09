@@ -336,7 +336,7 @@ Mosaïque complète comptant 8 animations pour l'état d'éveil au lieu de 2 vid
 
 #### Décrivez pourquoi.
  
-J'ai réalisé les ajustements au climax et aux parties UV que je voulais. Je suis même allé plus loins en faisant des tests d'intensité de lumière pour certaines parties, j'ai changé toutes les couleurs avec Meryem et j'ai consolidé mes animation d'éveil en une vidéo pour réduire les bugs visuels qui pourraient survenir. Pour ce qui en est de l'animation de l'état d'éveil, puisque moi et Meryem avons la même animation à faire, nous nous sommes entendus pour prendre la sienne, donc je n'avais pas à en créer une moi-même.
+J'ai réalisé les ajustements au climax et aux parties UV que je voulais. Je suis même allé plus loins en faisant des tests d'intensité de lumière pour certaines parties, j'ai changé toutes les couleurs avec Meryem et j'ai consolidé mes animation d'éveil en une vidéo pour réduire les bugs visuels qui pourraient survenir. Pour ce qui en est de l'animation de l'état de sommeil, puisque moi et Meryem avons la même animation à faire, nous nous sommes entendus pour prendre la sienne, donc je n'avais pas à en créer une moi-même.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
