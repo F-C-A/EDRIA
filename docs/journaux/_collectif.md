@@ -111,6 +111,8 @@ Conçernant l'intégration, il y a eu beaucoup de changements et de débogage. I
 
 Des tests de contrôle d'ordinateur à distance ont été concluants. Real VNC servira à contrôler les raspberry pi. Du OSC sera également utilisé afin de pouvoir influencer le projet lorsqu'il sera exposé dehors, dépendamment de la situation (des contrôles d'audio, d'opacité ainsi que de on/off).
 
+![reunions](medias/elwin_work13.PNG)
+
 De plus, comme Cr34te viendra installer et prêter tout le matériel la semaine prochaine, toutes les équipes allant dehors sont allés dénneiger les zones des projets. Les conditions météorologiques ont toujours été un de nos plus gros défis, il est essentiel de préparer le terrain en avance. 
 
 ![reunions](medias/elwin_work9.JPG)
