@@ -284,40 +284,43 @@ Si possible, commencer à installer des modules de matériel dans le rack qui ir
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
-
+-Déneigement de la zone pour le projet
+-Aide installation (nouveaux capteurs et speakers)
+-Liaison mobile avec ordinateurs VNC
+-Gestion github
+-Comité communication
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![dehors](medias/elwin_work9.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai réussi et avancé la majorité de mes tâches, le but étant de tout avoir de prêt pour la semaine prochaine lorsque le matériel sera installé dehors. Ma seule incertitude reste la liaison entre un laptop windows et un appareil mobile. Jai réussi avec Real VNC à faire la connection avec un raspberry pi, mais pas avec un windows. J'ai tenté d'utiliser Parsec mais le parefeu semble bloquer la connexion. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Soit trouver une autre app ou logiciel, soit tenter de faire marcher Parsec avec le parefeu.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Me conçernant, oui, mais les tâches de mes coéquipiers peuvent des fois être un peu ambigues. Il est possible que j'aille du github â faire durant la fin de semaine selon les avancées générales de chaque membre de l'équipe
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Continuer de faire des rencontres individuelles avec chaque membre de l'équipe, ça m,aide à savoir oû ils en sont rendus et comment nous pouvons situer les issues ainsi que les milestones. 
 
 ### Défis pour la prochaine semaine
-
+Principalement Trouver une solution pour Parsec et commencer à installer le tout dehors, ça risque d'être une grosse semaine en terme d'installation.
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
