@@ -256,14 +256,19 @@ Commencer la scénarisation et la réalisation du climax du mode éveil et du id
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
+- Cette semaine j'avais comme tâche de faire la bande sonore en surround.
+- J'ai aussi fait plusieurs tests durant la semaine avec Loic dans le but de rendre les différentes pistes sonores agréables.
+- J'ai examiné les différentes pistes sonores dans le but de les mixer de manière optimale pour la présentation devant les professeurs de vendredi.
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Jean-Christophe au petit studio usant du controller midi](medias/.jpg)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -271,19 +276,26 @@ Commencer la scénarisation et la réalisation du climax du mode éveil et du id
 #### Décrivez pourquoi.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Il n'y a rien à faire.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
+Il n'y a eu aucun écarts dans la prduction de médias cette semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Défis pour la prochaine semaine
+Revisiter des médias
+
+- Effectuer une dernière vérification des fichiers audio et s'assurer qu'ils sont formatés correctement pour la livraison.
+
+-Finaliser le design sonore et les indices musicaux pour le projet.
 
 
 ---
