@@ -104,7 +104,7 @@ Lorsqu'une personne entre dans la zone d'un côté de la sculpture, la technolog
 
 * ##### 2.3 Technologie 3 (Dot String)
 
-  Lorsque les capteurs sur le troisième côté détectent une personne, les Dot String vont s’ouvrir complètement puis vibrer visiblement pour représenter l’audio d’une onde carré avec un effet vocodex.
+  Lorsque les capteurs sur le troisième côté détectent une personne, les Dot String vont s’ouvrir complètement puis vibrer visiblement pour représenter l’audio d’une onde carré avec un effet metallic.
   
     ![](medias/dot_string1.png)
     ![](medias/dot_string2.png)
