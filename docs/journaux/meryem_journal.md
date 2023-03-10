@@ -263,7 +263,12 @@ Il faut que pour vendredi, le projet final soit terminé. Je dois donc finir mes
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Finition du Madmapper complet avec Gab
+- Création des animations du climax sur After Effects
+- Création des animations du idle sur After Effects
+- Création des animations pour le poteau extérieur sur After Effects dans tous les états
+- Modification des couleurs pour l'état d'éveil sur After Effects
+- Variations synchronisées de toutes les animations
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Finitions des couleurs](medias/mery_sem6_2.jpg)
@@ -272,31 +277,29 @@ Il faut que pour vendredi, le projet final soit terminé. Je dois donc finir mes
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Mon deadline pour cette semaine était de finir le madmapper au complet et mes médias. Je devais aussi finir l'agencement des couleurs dans mes animations. J'ai tout terminé pour vendredi mes objectifs. Cependant, j'ai des modifications sur le climax à faire que je vais effectuer la semaine prochaine pendant que l'équipe d'installation s'occupe de dehors. Le idle et l'éveil sont maintenant complètement terminés. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je n'ai rien a remédier, j'ai fini mes objectifs comme prévu.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Comme dit en haut, mon échéancier a été rattrapé en ayant fini mes objectifs. Il me reste cette semaine pour les dernières modifications.
 
 ### Défis pour la prochaine semaine
+Ce sera de modifier l'animation du climax et de peaufiner le reste de mes animations avec les tests dehors.
 
 ---
 ## Semaine 7
