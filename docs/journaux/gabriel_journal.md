@@ -20,7 +20,7 @@
 
   -> Simplification de l'audio réactivité. Il y aura plutôt un semblant d'audio réactivité, c'est-à-dire qu'il y aura de l'échantillonnage de vidéos de couleur montées sur l'audio de Jean-Christophe afin de donner un semblant des différentes textures et sons entendus.
   
-  -> Progression de l'activion des lumières. Au début, 2 lumières, puis les lumières s'allume et interagissent de plus en plus qu'il y a des personnes.
+  -> Progression de l'activation des lumières. Au début, 2 lumières, puis les lumières s'allume et interagissent de plus en plus qu'il y a des personnes.
 
 - Rencontre d'équipe pour clarifier l'intention du projet.
 
@@ -39,7 +39,7 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-J'aurais voulu faire un prototypage des couleurs des lumières et peut-être explorer des "patterns" de lumière qui m'intéresserait, mais je n'avais pas accès aux DMX de CR34TE.
+J'aurais voulu faire un prototypage des couleurs des lumières et peut-être explorer des "patterns" de lumière qui m'intéresseraient, mais je n'avais pas accès aux DMX de CR34TE.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Cette fin de semaine, je vais commencer à travailler sur des "patterns" de lumières dans QLC+ pour avancer et rattraper un peu le travail que j'aurais voulu faire.
@@ -90,7 +90,7 @@ Notre travail sur le scénarimage!
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Je m'étais dis que j'allais commencé à faire du prototypage de couleur pour les fixtures adressables lors de la soirée des portes ouvertes, mais j'avais un mal de tête insupportable, donc je n'ai pas pu être présent. Cependant, même si je n'ai pas rempli complètement mes objectifs, j'ai réalisé d'autres tâches qui ont pris la grande majorité de mon temps et qui a fait avancer le projet davantage.
+Je m'étais dis que j'allais commencer à faire du prototypage de couleur pour les fixtures adressables lors de la soirée des portes ouvertes, mais j'avais un mal de tête insupportable, donc je n'ai pas pu être présent. Cependant, même si je n'ai pas rempli complètement mes objectifs, j'ai réalisé d'autres tâches qui ont pris la grande majorité de mon temps et qui ont fait avancer le projet davantage.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Remettre à la semaine prochaine le travail que je m'étais fixé, c'est-à-dire le prototypage de couleur. Je vais demander au TTP le matériel pour brancher au moins une lumière et faire des tests de couleur. 
@@ -103,10 +103,10 @@ Remettre à la semaine prochaine le travail que je m'étais fixé, c'est-à-dire
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Pas tant d'écart pour l'instant je trouve. Je sens que notre projet avance à une bonne vitesse grâce à nos multiples rencontres, réunions et suivis. Il se concrétise de plus en plus. Cependant, nous devons filmer notre vidéo demain, le vendredi 3 Février 2023, mais je sais qu'il nous reste quelques petits détails à ajouter à la préproduction et avec la soirée porte ouverte, ça enlève du temps pour travailler dessus.
+Pas tant d'écart pour l'instant, je trouve. Je sens que notre projet avance à une bonne vitesse grâce à nos multiples rencontres, réunions et suivis. Il se concrétise de plus en plus. Cependant, nous devons filmer notre vidéo demain, le vendredi 3 Février 2023, mais je sais qu'il nous reste quelques petits détails à ajouter à la préproduction et avec la soirée porte ouverte, ça enlève du temps pour travailler dessus.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Je sens que nos réunions prennent souvent beaucoup de temps à cause de la complexité et la grosseur de notre projet. Je crois qu'on serait capable de les réduirent pour moins qu'elles s'éternisent.
+Je sens que nos réunions prennent souvent beaucoup de temps à cause de la complexité et la grosseur de notre projet. Je crois qu'on serait capable de les réduire pour moins qu'elles s'éternisent.
 
 ### Défis pour la prochaine semaine
 - Faire le prototypage des couleurs pour les fixtures adressables
@@ -156,10 +156,10 @@ Je n'ai pas de problème qui nécessite une solution pour y remédier cette sema
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Nous n'avons pas pu aller chez CR34TE pour emprunter des échantillons ce qui a ralenti un peu notre travail. J'aurais aimé avoir déjà des COLORado 2 Solo.
+Nous n'avons pas pu aller chez CR34TE pour emprunter des échantillons, ce qui a ralenti un peu notre travail. J'aurais aimé avoir déjà des COLORado 2 Solo.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Continuer pour l'instant avec les 5p Hex de American DJ, car de toute façon, j'ai réalisé que les COLORado 2 Solo n'ont pas de channel de UV, donc  il faut trouver une solution pour y remédier. Cependant, je peux alors concentrer mes efforts sur la création d'animations 2D pour animer nos fixtures adressables.
+Continuer pour l'instant avec les 5p Hex de American DJ, car de toute façon, j'ai réalisé que les COLORado 2 Solo n'ont pas de channel de UV, donc il faut trouver une solution pour y remédier. Cependant, je peux alors concentrer mes efforts sur la création d'animations 2D pour animer nos fixtures adressables.
 
 ### Défis pour la prochaine semaine
 - Recréer l'animation de l'état de sommeil (si possible sur l'audio) pour que les lumières s'animent plus fluidement.
@@ -203,7 +203,7 @@ Pas grand chose que je peux faire, car l'audio pour l'état de sommeil était pa
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Je crois que ma partie des fixtures adressables a pris du retard, puisque j'ai été beaucoup distrait par mon environnement, mais à part de cela, le prototype final sera terminé pour vendredi et à mes yeux tout le reste semble avancer à un bon rythme.
+Je crois que ma partie des fixtures adressables a pris du retard, puisque j'ai été beaucoup distrait par mon environnement, mais à part de cela, le prototype final sera terminé pour vendredi, et à mes yeux tout le reste semble avancer à un bon rythme.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Pour me concentrer et arrêter d'être distrait par mon environnment, je vais commencer à mettre des écouteurs avec de la musique pour me concentrer sur mon ordinateur.
@@ -212,7 +212,7 @@ Pour me concentrer et arrêter d'être distrait par mon environnment, je vais co
 - Réussir à travailler efficacement en me concentrant sur mon travail
 - Discuter avec Meryem pour les couleurs utilisées afin de ne pas avoir des couleurs qui se répètent
 - Refaire l'animation de l'état d'éveil si elle ne marche pas bien lors du prototypage de vendredi
-- Aider où les personnes de mon équipe en ont de besoin
+- Aider où les personnes de mon équipe en ont besoin
 
 
 
@@ -243,7 +243,7 @@ Animation Éveil Finale
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-J'ai refait l'animation d'éveil comme j'avais dit que j'allais refaire, j'ai réussi à me débloquer de mon état distrait et réussi à avancer sur les animations en travaillant de la maison et en mettant de la musique lorsqu'à l'école. Par contre, je n'ai pas encore parlée avec Meryem pour les couleurs, mais je ne crois pas en avoir besoin avant le climax seulement, donc j'étais un peu trop d'avance dans mes défis.
+J'ai refait l'animation d'éveil comme j'avais dit que j'allais refaire, j'ai réussi à me débloquer de mon état distrait et réussi à avancer sur les animations en travaillant de la maison et en mettant de la musique lorsqu'à l'école. Par contre, je n'ai pas encore parlé avec Meryem pour les couleurs, mais je ne crois pas en avoir besoin avant le climax seulement, donc j'étais un peu trop d'avance dans mes défis.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Continuer à avancer en créant des animations pour les états de sommeil et pour le climax. Il n'y a pas de situation qui a besoin de solution pour l'instant, je m'étais simplement fixé un objectif trop tôt, car il sera réalisé seulement plus tard dans la création de médias.
@@ -256,10 +256,10 @@ Continuer à avancer en créant des animations pour les états de sommeil et pou
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Pour ma part j'avance accordément à l'échéancier, mais on change de capteur, donc au niveau du projet complet, nous aurons d'autres tests à réaliser pour les nouveaux capteurs ce qui fait en sorte que nous aurons à refaire une partie étant déjà supposée être faite, ce qui ralentira le travail le l'intégration. De plus, ces capteurs nous seront disponibles seulement dans 2 semaines
+Pour ma part j'avance accordément à l'échéancier, mais on change de capteur, donc au niveau du projet complet, nous aurons d'autres tests à réaliser pour les nouveaux capteurs. Cela fait en sorte que nous aurons à refaire une partie sensée être déjà faite, ce qui ralentira le travail le l'intégration. De plus, ces capteurs nous seront accessibles seulement dans 2 semaines.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Pas grand chose que l'on peut faire pour le changement de capteurs. On peut tout de même faire des recherches sur le fonctionnement de ceux-ci et régler le plus de problèmes pour les capteurs que nous avons à l'instant pour espérer qu'ils règleront aussi ceux des nouveaux capteurs.
+Pas grand chose que l'on peut faire pour le changement de capteurs. On peut tout de même faire des recherches sur le fonctionnement de ceux-ci et régler le plus de problèmes conçernant les capteurs que nous avons pour le moment afin d'espérer qu'ils règleront aussi ceux des nouveaux capteurs.
 
 ### Défis pour la prochaine semaine
 - Ajustements finaux pour les animations d'état d'éveil
@@ -289,7 +289,7 @@ Travail sur l'animation du climax des fixtures adressables
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-J'ai réalisé les quelques ajustements que je m'étais fixé pour l'animation de l'état d'éveil, puis, même si je n'ai pas fait l'animation de l'état de sommeil, j'ai fait plutôt l'animation du climax, car Jean-Christophe avait finit la bande sonore pour cet état. Le climax est plus demandant en terme de temps à réaliser, donc je suis satisfait du travail accompli.
+J'ai réalisé les quelques ajustements que je m'étais fixé pour l'animation de l'état d'éveil, puis, même si je n'ai pas fait l'animation de l'état de sommeil, j'ai plutôt réalisé l'animation du climax, car Jean-Christophe avait finit la bande sonore pour cet état. Le climax est plus demandant en terme de temps à réaliser, donc je suis satisfait du travail accompli.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -302,7 +302,7 @@ J'ai réalisé les quelques ajustements que je m'étais fixé pour l'animation d
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Je n'étais pas là à travailler au studio pour la majorité de la semaine, car nous avons manquez de courant dans les prises électriques, donc je ne suis pas au courant de nos écarts d'équipe. Je sais que cette situation nous a ralenti/empêchés de travail 1-2 jours de la semaine, mais grâce aux rallonges électriques que Guillaume a installé, j'ai entendu auprès mon équipe que nous avons été tout de même capable d'avancer. Personnellement, je n'ai pas d'écart. La semaine prochaine je m'attaque à la finalisation du contenu à créer (animations des différents états).
+Je n'étais pas là à travailler au studio pour la majorité de la semaine, car nous avons manqué de courant dans les prises électriques, donc je ne suis pas au courant de nos écarts d'équipe. Je sais que cette situation nous a ralenti/empêchés de travailler 1-2 jours de la semaine, mais grâce aux rallonges électriques que Guillaume a installé, j'ai entendu auprès de mon équipe que nous avons été tout de même capable d'avancer. Personnellement, je n'ai pas d'écart. La semaine prochaine je m'attaque à la finalisation du contenu à créer (animations des différents états).
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -336,7 +336,7 @@ Mosaïque complète comptant 8 animations pour l'état d'éveil au lieu de 2 vid
 
 #### Décrivez pourquoi.
  
-J'ai réalisé les ajustements au climax et aux parties UV que je voulais. Je suis même allé plus loins en faisant des tests d'intensité de lumière pour certaines parties, j'ai changé toutes les couleurs avec Meryem et j'ai consolidé mes animation d'éveil en une vidéo pour réduire les bugs visuels qui pourraient survenir. Pour ce qui en est de l'animation de l'état de sommeil, puisque moi et Meryem avons la même animation à faire, nous nous sommes entendus pour prendre la sienne, donc je n'avais pas à en créer une moi-même.
+J'ai réalisé les ajustements au climax et aux parties UV que je voulais. Je suis même allé plus loin en faisant des tests d'intensité de lumière pour certaines parties, j'ai changé toutes les couleurs avec Meryem et j'ai consolidé mes animations d'éveil en une vidéo pour réduire les bugs visuels qui pourraient survenir. Pour ce qui en est de l'animation de l'état de sommeil, puisque moi et Meryem avons la même animation à faire, nous nous sommes entendus pour prendre la sienne, donc je n'avais pas à en créer une moi-même.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
