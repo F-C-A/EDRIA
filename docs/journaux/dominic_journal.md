@@ -267,7 +267,10 @@ Dépendemment de ce qu'il va être possible pour moi de réalisé la semaine pro
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- installation des car sonar sur le prototype
+- branchement des modules dans le rack extérieur
+- déneigement
+- création de schéma détaillé pour les boitier étanche et les capteurs
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -275,31 +278,32 @@ Dépendemment de ce qu'il va être possible pour moi de réalisé la semaine pro
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Quand je suis arrivé mardi, Antoine avait déjà installé quelques modukes dans le rack ext. et j'ai réussis à accomplir le restant des taches que je m'étais donné.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+n/a
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Dépendemment de ce que je vais pouvoir faire demain et du temps que mes collègues auront besoins pour terminer leurs tests, j'aimerais avoir démonté le prototype et est prêt à déployer pour mardi matin. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+n/a
 
 ### Défis pour la prochaine semaine
+Déployer lol
 
 ---
 ## Semaine 7
