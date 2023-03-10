@@ -259,40 +259,41 @@ Faire une banniere pour le site et regler les derniers problème audio
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+Finalisation du pure data, intégration des nouveau médias audio, intégrations des nouveaux sensors sonare, changement de la logique du playback des médias, etc.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![](medias/loic_work.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Il reste encore plus de bugs que j'aurais aimé qu'il en reste à ce stade dans le projet, mais à part ça, le code est fini et les nouveaux capteurs sont entièrement intégrés. De plus, la nouvelle logique derrière les médias fonctionne mieux que ce que j'espérais.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais mettre plus de temps lors de la fin de semaine et des soirs de la seemaine prochaine afin de m'assurer que tout les probleme présent sois corriger a tems
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Bien qu'il reste encore des bogues, l'entièreté du code est finalisée comme prévu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Corriger tout les bogues restant dans le projet et participer grandement a l'installaition extérieur.
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
