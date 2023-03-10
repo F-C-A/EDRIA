@@ -266,7 +266,8 @@ Il faut que pour vendredi, le projet final soit terminé. Je dois donc finir mes
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Finitions des couleurs](medias/mery_sem6_2.jpg)
+![Création des médias](medias/mery_sem6_1.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
