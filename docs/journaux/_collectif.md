@@ -99,6 +99,27 @@ La majorité des médias devront être réalisés (pour les 3 états SOmmeil/Év
 
 ## Semaine 6
 
+Cette semaine, la but était de finir complètement les médias ainsi que de continuer à se servir du prototype déjà en place pour faire le plus d'ajustements et de réglages possibles.
+
+En terme d'installation, nous avons mis des modules de matériel dans le rack qui ira à l'extérieur. Tout rentre juste mais il y a quand même un paquet de fils autour, des trous ont donc été percés. Nous avons également remplacé les précédents sensors par des sensors automobiles. Ceux-ci devraient se révéler plus étanches et fonctionnent par pair. Ils marchent bien lorsqu'ils ne captent pas des objets étrangers. 
+
+![reunions](medias/elwin_work12.PNG)
+
+Conçernant l'intégration, il y a eu beaucoup de changements et de débogage. Il y a pas mal de problèmes de timing et de coordination par rapport aux sons (surround) et animations jouant durant les différents états d'Edria, particulièrement pour le climax. Les médias sont cependant pas mal terminés, il s'agit donc de les intégrer de la façon la plus smooth possible. 
+
+![reunions](medias/loic_work.jpg)
+
+Des tests de contrôle d'ordinateur à distance ont été concluants. Real VNC servira à contrôler les raspberry pi. Du OSC sera également utilisé afin de pouvoir influencer le projet lorsqu'il sera exposé dehors, dépendamment de la situation (des contrôles d'audio, d'opacité ainsi que de on/off).
+
+De plus, comme Cr34te viendra installer et prêter tout le matériel la semaine prochaine, toutes les équipes allant dehors sont allés dénneiger les zones des projets. Les conditions météorologiques ont toujours été un de nos plus gros défis, il est essentiel de préparer le terrain en avance. 
+
+![reunions](medias/elwin_work9.JPG)
+![reunions](medias/elwin_work11.PNG)
+
+Pour la semaine prochaine, le but sera d'installer tout le matériel de cr34te et d'optimiser notre temps ainsi que notre organisation, vu qu'il ne nous reste pas beaucoup de temps. Il s'agira également de compléter les ajustements d'intégration afin de pouvoir le faire rouler correctement en prévision du vernissage de la semaine d'après. 
+
+La charge de travail restante est grande, mais nous sommes confiants en notre capacité à tout mener à terme.
+
 ## Semaine 7
 
 ## Semaine 8
