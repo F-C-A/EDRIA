@@ -363,40 +363,49 @@ Aucun écart à noter, puisque je n'étais pas là pour la majorité de la semai
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Aide générale à l'installation extérieure
+- Aide à l'installation des fixtures adressables
+- Configuration manuelle des fixtures adressables
+- Test de la boîte splitter pour un circuit DMX en parallèle
+- Test des COLORdash Par H12 IP
+- Création de vidéos de variation pour l'état du climax
+- Création d'une mosaique combinant toutes les vidéo variées du climax + la partie UV
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+Travail sur la mosaique du climax
 
-
+![Mosaïque Complète État Climax + UV](medias/climax_full_mosaique.png)
+![Mosaïque Complète État Climax + UV Davinci](medias/climax_full_mosaique_davinci.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai réalisé tous les objectifs que je m'étais fixé et même plus avec l'ajout d'une boite splitter pour diviser notre circuit DMX, le test des fixtures COLORdash et mon aide au niveau de l'installation. Pour ce qui en est de la couleur rose plus foncée, il s'agissait simplement d'un détail qui ne valait pas la peine de le changer, car cela aurait pris trop de temps.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il n'y a rien à faire pour remédier à la situation, car il n'y a aucune problématique.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Nous avons installé les speakers, les capteurs, les fixtures adressables et toutes les autres lumières, mais les fausses plantes que nous étions supposés d'avoir installées pour demain vendredi ne le seront pas.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Pour ma part, puisque demain je n'ai plus vraiment rien à faire pour ma partie, je penses aider à l'entour au niveau de l'installation et de poser des fausses plantes.
 
 ### Défis pour la prochaine semaine
-
+- Aider au niveau de l'installation à 90% de mon temps
+- Observer des bugs de lumière et les corriger
 
 ## Semaine 8
 
