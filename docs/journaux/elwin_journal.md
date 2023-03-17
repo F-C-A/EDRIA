@@ -324,40 +324,43 @@ Principalement Trouver une solution pour Parsec et commencer à installer le tou
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+-Création d'une rampe pour les amplis de sons
+-OSC afin de contrôler l'installation
+-Multiples tâches concernant l'installation extérieure (installation lumières et speakers, cables management, gaines, cables ethernet pour les sensors, etc.)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![rampe](medias/elwin_work10.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Et bien, j'ai accompli pas mal toutes mes tâches personnelles me conçernant, comme l'OSC et la rampe d'amplis. J'ai également bien contribué à aider lors de l'installation d'Edria dehors. Au fur et à mesure que l'installation progressait, j'ai aidé et apporté ma contribution partout où besoin se faisait. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Pour l'instant ça va bien, il s'agira d'avoir le moins de problèmes et d eles régler au fur et à mesure.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il n'y a pas vraiment eu d'écart jusqu'à présent, je me coordone avec le reste de l'équipe pour arriver à rendre l'installation fonctionnelle le plus tôt possible.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Protéger le matériel dejà sur place afin de ne pas avoir à remplacer des fils endommagés ou des connexions bancales. Également effectuer des changements de fonction des résultats des tests.
 
 ### Défis pour la prochaine semaine
-
+Faire du cable management, garder le github updated, participer à la direction artistique ainsi qu'à la vidéo du portfolio.
 
 ## Semaine 8
 
