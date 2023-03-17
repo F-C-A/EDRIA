@@ -304,6 +304,7 @@ Revisiter des médias
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Jean-Christophe au petit studio usant du controller midi](medias/jc_install.jpg)
 
 
 
