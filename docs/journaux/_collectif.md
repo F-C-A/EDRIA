@@ -123,7 +123,30 @@ Pour la semaine prochaine, le but sera d'installer tout le matériel de cr34te e
 La charge de travail restante est grande, mais nous sommes confiants en notre capacité à tout mener à terme.
 
 ## Semaine 7
+Cette semaine, nous avons enfin procédé à l'installation physique de toute notre projet à l'extérieur. 
 
+Lundi le 13 Mars, nous avons démonté le prototype et optimisé nos médias en intégration ainsi quue notre matériel en terme d'installation. Le tout afin d'être prêt pour quand Cr34te viendra livrer le matériel le lendemain. 
+
+![reunions](medias/elwin_work10.PNG)
+
+Mardi le 14 Mars a été le jour ou Cr34te est venu nous livrer le matériel et nous ont aidé à installer les bases du projet. Nous avons pu installer les structures métalliques ainsi que les dmx sur les structures. Nous avons pu mettre du power et ainsi allumer l'installation.
+
+![reunions](medias/elwin_work18.PNG)
+
+Mercredi le 15 Mars, nous avons pu installer les speakers dans les structures métalliques. Il fallait également conduire pas mal de tests audio afin de faire sortir les bons sons dans les bonnes sorties. Nous n'avions pas la caisse pour le subwoofer et nous du attendre Jeudi. 
+
+![reunions](medias/elwin_work13.PNG)
+
+Jeudi le 16 Mars, nous avons réussi à installer les sensors sur la structure centrale. Encore une fois, il y avait pas mal de tests à effectuer afin de les rendre fonctionnels pour nos 3 états. Il s'agissait également de faire fonctionner la synchronisation entre les animations de lumière, les sons et les DMX, à partir du repérage des sensors.
+
+![reunions](medias/elwin_work14.PNG)
+![reunions](medias/elwin_work19.PNG)
+
+Vendredi le 17 Mars, le but était de finaliser l'installation extérieure ainsi que le bon déroulement de l'expérience. L'oeuvre devait être assez complête et fonctionner assez bien selon nos 3 états. Des étudiants du programme sont venus voir l'oeuvre en pleine action, et les profeseurs sont également venus faire des tests pour pointer ce qu'il fallait améliorer. 
+
+![reunions](medias/elwin_work15.PNG)
+
+Tout se déroule bien jusqu'à présent, le plus gros de l'installation marche bien. Il s'agit maintenant de faire des réajustements et d'optimiser l'intégration ainsi que l'installation afin d'être prêts pour l'exposition publique de la semaine prochaine. nous travaillons forts et sommes confiants, c'est la dernière ligne droite.
 ## Semaine 8
 
 ## Semaine 9
