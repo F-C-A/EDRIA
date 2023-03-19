@@ -259,7 +259,8 @@ Commencer la scénarisation et la réalisation du climax du mode éveil et du id
 - Cette semaine j'avais comme tâche de faire la bande sonore en surround.
 - J'ai aussi fait plusieurs tests durant la semaine avec Loic dans le but de rendre les différentes pistes sonores agréables.
 - J'ai examiné les différentes pistes sonores dans le but de les mixer de manière optimale pour la présentation devant les professeurs de vendredi.
-
+- Modifications mineures aux animations lumineuses du poteau central.
+- Changements de couleures du poteau central en accord avec les technologies de cr34te.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Jean-Christophe au petit studio usant du controller midi](medias/.jpg)
@@ -301,7 +302,19 @@ Revisiter des médias
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+L'installation du projet à l'extérieur :
+- Le posage de festoons sur les poteaux extérieurs.
+- Le cable management à l'extérieur de la boite centrale
+- Vérifier les positionnements des speakers et du subwoofer
+- S'assurer que les niveaux de volumes à l'extérieur sont bons
+- S'assurer que certaines fréquences ne sont pas trop agressantes
+- Modifications de certains sons pour qu'ils marchent mieux avec certaines technologies ou animations.
+- Arranger la "loop" du idle.
+- Mappage des sons "mono" du poteaux central pour qu'ils sortent au bons endroits.
+- Rafraichissage de certains sons.
+- Modifications mineures aux animations lumineuses du poteau central durant le climax.
+- Modifications du logo
+- Mise en ligne sur spotify de la chanson du climax "You and Me (Champions of Edria)"
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Jean-Christophe au petit studio usant du controller midi](medias/jc_install.jpg)
@@ -310,32 +323,32 @@ Revisiter des médias
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Nous sommes presque complètement prêt pour le lancement final du projet. Il ne me manque que certaines révisions de sons.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il n'y aura rien à faire, tout à été fait en son temps.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il n'y a pas d'écarts
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+Le tournage du vidéo qui résume le projet avec le tournage de l'installation. Certaines révisions mineures au mixage des volumes et révision de médias
 
 ## Semaine 8
 
