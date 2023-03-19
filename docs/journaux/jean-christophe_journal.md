@@ -263,7 +263,7 @@ Commencer la scénarisation et la réalisation du climax du mode éveil et du id
 - Changements de couleures du poteau central en accord avec les technologies de cr34te.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Jean-Christophe au petit studio usant du controller midi](medias/.jpg)
+![Jean-Christophe au petit studio usant du controller midi](medias/jc_sem6.jpg)
 
 
 
