@@ -321,28 +321,17 @@ Ce sera de modifier l'animation du climax et de peaufiner le reste de mes animat
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai eu la mauvaise nouvelle, à l'installation, que nous allions pas avoir les DMX Pixel. Lora nous a dit d'utiliser la bande LED à la place. Cependant, cela changeait complètement mon organisation de mes animation. J'ai donc dû faire 
+ J'ai eu la mauvaise nouvelle, à l'installation, que nous allions pas avoir les DMX Pixel. Lora nous a dit d'utiliser la bande LED à la place. Cependant, cela changeait complètement mon organisation de mes animation. J'ai donc dû échanger certaines animations, modifier l'éveil, modifier le climax, modifier les couleurs, en installant une caméra dehors afin de voir la structure. Cependant, je devais attendre jusqu'au coucher du soleil afin de voir mes lumières correctement. Je suis donc partie tard toute la semaine, mais j'ai tout fini à temps!
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il n'y a rien a remédier, tout a été réalisé à temps. J'ai tout terminé!
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
-
-## Semaine 8
-
-
-## Semaine 9
+Ce sera de préparer le vernissage pour tous.
