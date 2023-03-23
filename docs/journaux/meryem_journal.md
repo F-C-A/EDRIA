@@ -335,3 +335,5 @@ Il n'y a rien a remédier, tout a été réalisé à temps. J'ai tout terminé!
 
 ### Défis pour la prochaine semaine
 Ce sera de préparer le vernissage pour tous.
+
+![Présentation de l'installation](medias/mery_sem8.jpg)
