@@ -263,7 +263,7 @@ Il faut que pour vendredi, le projet final soit terminé. Je dois donc finir mes
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-- Finition du Madmapper complet avec Gab
+- Finition du Madmapper complet
 - Création des animations du climax sur After Effects
 - Création des animations du idle sur After Effects
 - Création des animations pour le poteau extérieur sur After Effects dans tous les états
@@ -304,21 +304,24 @@ Ce sera de modifier l'animation du climax et de peaufiner le reste de mes animat
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Installation des lumières, poteaux, hauts-parleurs, etc. 
+- Modification des animations du Climax
+- Modification du timing pour le Climax
+- Modification des couleurs pour le Climax sur After Effects
+- Modification des couleurs pour l'éveil sur After Effects
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Couleurs finales pour le climax](medias/mery_sem7.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai eu la mauvaise nouvelle, à l'installation, que nous allions pas avoir les DMX Pixel. Lora nous a dit d'utiliser la bande LED à la place. Cependant, cela changeait complètement mon organisation de mes animation. J'ai donc dû faire 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
