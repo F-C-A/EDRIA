@@ -308,7 +308,13 @@ Déployer lol xD ptdr lmfao
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Installation des poteaux ext. et central
+- Cablage entre les différent poteaux
+- Installation des technologies sur les poteaux
+- Installation des speakers sur les poteaux
+- Cable management dans le cabanon extérieur
+- Installation des capteurs
+- Direction Artistique
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -316,20 +322,20 @@ Déployer lol xD ptdr lmfao
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Tout à été installé et fonctionnel à temps
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
